@@ -46,7 +46,7 @@ const getUnitsString = ({
         }${isMarkdownList ? "*" : ""}\n`;
       }
       if (showStats) {
-        const stats = getStats(unit);
+        const stats = getStats(unit, list.game);
 
         if (!isCompactList && !isMarkdownList) {
           optionsString += "\n";

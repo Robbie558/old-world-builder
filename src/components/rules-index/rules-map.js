@@ -1,4 +1,10 @@
-import rulesIndexExport from "./rules-index-export.json";
+import towRulesIndexExport from "./tow-rules-index-export.json";
+import sixthRulesIndexExport from "./6th-rules-index-export.json";
+import sixthSpellsIndexExport from "./6th-spells-index-export.json";
+import sixthUnitsIndexExport from "./6th-units-index-export.json";
+import sixthWeaponsIndexExport from "./6th-weapons-index-export.json";
+import sixthWarmachinesIndexExport from "./6th-weapons-index-export.json";
+import sixthMagicIndexExport from "./6th-magicItems-index-export.json";
 
 const additionalOWBRules = {
   "throwing spears": { url: "weapons-of-war/throwing-spear" },
@@ -13,7 +19,7 @@ const additionalOWBRules = {
   "plague censers": { url: "weapons-of-war/plague-censer" },
   "great weapons": { url: "weapons-of-war/great-weapon" },
   whips: { url: "weapons-of-war/whip" },
-  spears: { url: "weapons-of-war/spears" },
+  spear: { url: "weapons-of-war/spears" },
   "morning stars": { url: "weapons-of-war/morning-star" },
   blowpipes: { url: "weapons-of-war/blowpipe" },
   handguns: { url: "weapons-of-war/handgun" },
@@ -57,6 +63,52 @@ const additionalOWBRules = {
   "storm call warriors": {
     url: "special-rules/storm-call",
   },
+};
+
+const additional6thRules = {
+  spear: { url: "weapons/spears-infantry" },
+  "spear (mounted only)": { url: "weapons/spears-cavalry" },
+  halberds: { url: "weapons-of-war/halberd" },
+  "additional hand weapons": {
+    url: "weapons-of-war/two-hand-weapons-additional-hand-weapon",
+  },
+  "repeater handguns": { url: "weapons-of-war/repeater-handgun" },
+  "hand weapons": { url: "weapons-of-war/hand-weapon" },
+  flails: { url: "weapons-of-war/flail" },
+  "great weapons": { url: "weapons-of-war/great-weapon" },
+  "morning stars": { url: "weapons-of-war/morning-star" },
+  blowpipes: { url: "weapons-of-war/blowpipe" },
+  handguns: { url: "weapons-of-war/handgun" },
+  lances: { url: "weapons-of-war/lance" },
+  shortbows: { url: "weapons-of-war/shortbow" },
+  javelins: { url: "weapons-of-war/javelin" },
+  longbows: { url: "weapons-of-war/longbow" },
+  pistols: { url: "weapons-of-war/pistol" },
+  "throwing axes": { url: "weapons-of-war/throwing-axe" },
+  hellblades: { url: "weapons-of-war/hellblade" },
+  "repeater pistols": { url: "weapons-of-war/repeater-pistol" },
+  drakeguns: { url: "weapons-of-war/drakegun" },
+  "great hammers": { url: "weapons-of-war/great-hammer" },
+  crossbows: { url: "weapons-of-war/crossbow" },
+  "throwing weapons": { url: "weapons-of-war/throwing-weapons" },
+  slings: { url: "weapons-of-war/sling" },
+  blunderbusses: { url: "weapons-of-war/blunderbuss" },
+  "repeater handbows": { url: "weapons-of-war/repeater-handbow" },
+  "repeater crossbows": { url: "weapons-of-war/repeater-crossbow" },
+  "daemons of khorne": { url: "special-rules/daemon-of-khorne" },
+  "daemons of tzeentch": { url: "special-rules/daemon-of-tzeentch" },
+  "daemons of nurgle": { url: "special-rules/daemon-of-nurgle" },
+  "daemons of slaanesh": { url: "special-rules/daemon-of-slaanesh" },
+  general: { url: "characters/the-general-characters" },
+  "moonfire shots": { url: "weapons-of-war/moonfire-shot" },
+  "battle standard bearer": { url: "generals-and-battle-standards/the-battle-standard" },
+  champions: { url: "standards-musicians-and-champions/champions" },
+  musician: { url: "standards-musicians-and-champions/musicians" },
+  "standard bearer": { url: "standards-musicians-and-champions/standards" },
+  "level 1 wizard": { url: "magic/wizard-levels" },
+  "level 2 wizard": { url: "magic/wizard-levels" },
+  "level 3 wizard": { url: "magic/wizard-levels" },
+  "level 4 wizard": { url: "magic/wizard-levels" },
 };
 
 export const synonyms = {
@@ -208,6 +260,16 @@ export const synonyms = {
 };
 
 export const rulesMap = {
-  ...rulesIndexExport,
+  ...towRulesIndexExport,
   ...additionalOWBRules,
+};
+
+export const sixthRulesMap = {
+  ...sixthRulesIndexExport,
+  ...sixthSpellsIndexExport,
+  ...sixthWeaponsIndexExport,
+  ...sixthWarmachinesIndexExport,
+  ...sixthMagicIndexExport,
+  ...sixthUnitsIndexExport,
+  ...additional6thRules
 };

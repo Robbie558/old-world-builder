@@ -42,9 +42,21 @@ export const NewList = ({ isMobile }) => {
   const createList = () => {
     const newId = getRandomId();
     const newList = {
-      "warhammer-fantasy": {
-        name:
-          name || nameMap[army][`name_${language}`] || nameMap[army].name_en,
+      "warhammer-fantasy-8": {
+        name: name || nameMap[army][`name_${language}`] || nameMap[army].name_en,
+        description: description,
+        game: game,
+        points: points,
+        army: army,
+        lords: [],
+        heroes: [],
+        core: [],
+        special: [],
+        rare: [],
+        id: newId,
+      },
+      "warhammer-fantasy-6": {
+        name: name || nameMap[army][`name_${language}`] || nameMap[army].name_en,
         description: description,
         game: game,
         points: points,
@@ -154,14 +166,22 @@ export const NewList = ({ isMobile }) => {
                 checked={id === game}
                 className="radio__input"
                 aria-label={name}
-                disabled={id === "warhammer-fantasy"}
+                //disabled={id === "warhammer-fantasy"}
               />
               <label htmlFor={id} className="radio__label">
-                {id === "warhammer-fantasy" && (
+                {id === "warhammer-fantasy-8" && (
                   <>
                     <span className="new-list__game-name">{name}</span>
                     <p className="new-list__beta">
                       <FormattedMessage id="new.8th" />
+                    </p>
+                  </>
+                )}
+                {id === "warhammer-fantasy-6" && (
+                  <>
+                    <span className="new-list__game-name">{name}</span>
+                    <p className="new-list__beta">
+                      <FormattedMessage id="new.6th" />
                     </p>
                   </>
                 )}

@@ -80,6 +80,7 @@ export const Add = ({ isMobile }) => {
 
   useEffect(() => {
     if (list && !army && type !== "allies") {
+      console.log(`Postion A`);
       fetcher({
         url: `games/${list.game}/${list.army}`,
         onSuccess: (data) => {
@@ -94,6 +95,7 @@ export const Add = ({ isMobile }) => {
         },
       });
     } else if (list && type === "allies" && allAllies.length === 0 && allies) {
+      console.log(`Postion B`);
       setAlliesLoaded(false);
       allies.forEach(({ army, armyComposition }, index) => {
         fetcher({
@@ -115,12 +117,8 @@ export const Add = ({ isMobile }) => {
           },
         });
       });
-    } else if (
-      list &&
-      type === "mercenaries" &&
-      allMercenaries.length === 0 &&
-      mercenaries
-    ) {
+    } else if (list && type === "mercenaries" && allMercenaries.length === 0 && mercenaries) {
+      console.log(`Postion C`);
       setMercenariesLoaded(false);
       mercenaries[list.armyComposition] &&
         mercenaries[list.armyComposition].forEach((mercenary, index) => {
@@ -146,8 +144,7 @@ export const Add = ({ isMobile }) => {
             },
           });
         });
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    } // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [list, army, allies, type]);
 
   if (redirect) {

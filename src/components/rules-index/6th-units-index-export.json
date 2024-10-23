@@ -1,929 +1,4 @@
 {
-  "forsaken by khorne": {
-    "url": "special-rules/forsaken-by-khorne",
-    "page": "RH, p. 63"
-  },
-  "forsaken by nurgle": {
-    "url": "special-rules/forsaken-by-nurgle",
-    "page": "RH, p. 63"
-  },
-  "forsaken by slaanesh": {
-    "url": "special-rules/forsaken-by-slaanesh",
-    "page": "RH, p. 63"
-  },
-  "forsaken by tzeentch": {
-    "url": "special-rules/forsaken-by-tzeentch",
-    "page": "RH, p. 63"
-  },
-  "ancestral fury": {
-    "url": "special-rules/ancestral-fury",
-    "page": "AJ:DMH, p. 29"
-  },
-  "daemonic charge": {
-    "url": "special-rules/daemonic-charge",
-    "page": "DoC, p. 3"
-  },
-  "the arrow of kurnous": {
-    "url": "special-rules/the-arrow-of-kurnous",
-    "page": "FoF, p. 120"
-  },
-  "ancestral grudge": {
-    "url": "special-rules/ancestral-grudge",
-    "page": "FoF, p. 12"
-  },
-  "\"grind them down!\"": {
-    "url": "special-rules/grind-them-down",
-    "page": "AJ:TKoK, p. 31"
-  },
-  "bellowers & musicians": {
-    "url": "special-rules/bellowers-and-musicians",
-    "page": "OK, p. 2"
-  },
-  "aura of the lady": {
-    "url": "special-rules/aura-of-the-lady",
-    "page": "FoF, p. 87"
-  },
-  "banished lords": {
-    "url": "special-rules/banished-lords",
-    "page": "AJ:KoB, p. 31"
-  },
-  "infernal engineer": {
-    "url": "special-rules/infernal-engineer",
-    "page": "CD, p. 3"
-  },
-  "mob rule": { "url": "special-rules/mob-rule", "page": "RH, p. 14" },
-  "brayhorn": { "url": "special-rules/brayhorn", "page": "RH, p. 92" },
-  "cunning hunters": {
-    "url": "special-rules/cunning-hunters",
-    "page": "AJ:O&GT, p. 29"
-  },
-  "banner of the count": {
-    "url": "special-rules/banner-of-the-count",
-    "page": "VC, p. 4"
-  },
-  "arcane shield": { "url": "special-rules/arcane-shield", "page": "LM, p. 3" },
-  "goad beast": { "url": "special-rules/goad-beast", "page": "DE, p. 5" },
-  "\"hold the line!\"": {
-    "url": "special-rules/hold-the-line",
-    "page": "FoF, p. 48"
-  },
-  "horn of isha": {
-    "url": "special-rules/horn-of-isha",
-    "page": "FoF, p. 159"
-  },
-  "eshin infiltration": {
-    "url": "special-rules/eshin-infiltration",
-    "page": "SK, p. 5"
-  },
-  "rampant mutation": {
-    "url": "special-rules/rampant-mutation",
-    "page": "RH, p. 63"
-  },
-  "my will be done": {
-    "url": "special-rules/my-will-be-done",
-    "page": "RH, p. 126"
-  },
-  "bull charge": { "url": "special-rules/bull-charge", "page": "OK, p. 3" },
-  "naval discipline": {
-    "url": "special-rules/naval-discipline",
-    "page": "FoF, p. 162"
-  },
-  "hidden skaven": { "url": "special-rules/hidden-skaven", "page": "SK, p. 5" },
-  "the exile's vow": {
-    "url": "special-rules/the-exiles-vow",
-    "page": "AJ:KoB, p. 31"
-  },
-  "ogre charge": {
-    "url": "special-rules/ogre-charge",
-    "page": "OK, p. 24, RH, p. 64, AJ:O&GT, p. 40"
-  },
-  "troubadour of loec": { "url": "special-rules/troubadour-of-loec" },
-  "shield of the lady": {
-    "url": "special-rules/shield-of-the-lady",
-    "page": "FoF, p. 87"
-  },
-  "gorefeast": { "url": "special-rules/gorefeast", "page": "DoC, p. 7" },
-  "slaughterer's call": {
-    "url": "special-rules/slaughterers-call",
-    "page": "RH, p. 94"
-  },
-  "gifts of khaine": {
-    "url": "special-rules/gifts-of-khaine",
-    "page": "DE, p. 6"
-  },
-  "riches & heirlooms": {
-    "url": "special-rules/riches-and-heirlooms",
-    "page": "AJ:DMH, p. 29"
-  },
-  "master of battle": {
-    "url": "special-rules/master-of-battle",
-    "page": "FoF, p. 50"
-  },
-  "big stabbas": { "url": "special-rules/big-stabbas", "page": "RH, p. 22" },
-  "the language of the priests": {
-    "url": "special-rules/the-language-of-the-priests",
-    "page": "AJ:TKoK, p. 31"
-  },
-  "guardians": { "url": "special-rules/guardians", "page": "LM, p. 6" },
-  "oathstone": { "url": "special-rules/oathstone", "page": "FoF, p. 13" },
-  "sorcerer's curse": {
-    "url": "special-rules/sorcerers-curse",
-    "page": "CD, p. 3"
-  },
-  "the death of a general": {
-    "url": "special-rules/the-death-of-a-general",
-    "page": "VC, p. 4"
-  },
-  "hit 'em fast and hit 'em 'ard!": {
-    "url": "special-rules/hit-em-fast-and-hit-em-ard",
-    "page": "AJ:O&GT, p. 29"
-  },
-  "banner of the king": {
-    "url": "special-rules/banner-of-the-king",
-    "page": "RH, p. 127"
-  },
-  "cry of war": { "url": "special-rules/cry-of-war", "page": "DE, p. 6" },
-  "rune of khaine": {
-    "url": "special-rules/rune-of-khaine",
-    "page": "DE, p. 6"
-  },
-  "witchbrew": { "url": "special-rules/witchbrew", "page": "DE, p. 6" },
-  "quell panic": { "url": "special-rules/quell-panic", "page": "CD, p. 6" },
-  "totem of endless bloodletting": {
-    "url": "special-rules/totem-of-endless-bloodletting",
-    "page": "DoC, p. 7"
-  },
-  "suffer not...": { "url": "special-rules/suffer-not", "page": "FoF, p. 51" },
-  "butcher's cauldron": {
-    "url": "special-rules/butchers-cauldron",
-    "page": "OK, p. 4"
-  },
-  "hunting packs": {
-    "url": "special-rules/hunting-packs",
-    "page": "AJ:O&GT, p. 29"
-  },
-  "peasant's duty": {
-    "url": "special-rules/peasants-duty",
-    "page": "FoF, p. 88"
-  },
-  "lay in wait": {
-    "url": "special-rules/lay-in-wait",
-    "page": "AJ:TKoK, p. 31"
-  },
-  "spawn of khorne": {
-    "url": "special-rules/spawn-of-khorne",
-    "page": "RH, p. 66"
-  },
-  "striking a grudge": {
-    "url": "special-rules/striking-a-grudge",
-    "page": "AJ:DMH, p. 29"
-  },
-  "reclaimed glory": {
-    "url": "special-rules/reclaimed-glory",
-    "page": "AJ:KoB, p. 31"
-  },
-  "sworn protector": {
-    "url": "special-rules/sworn-protector",
-    "page": "RH, p. 127"
-  },
-  "bestial charge": {
-    "url": "special-rules/bestial-charge",
-    "page": "RH, p. 97"
-  },
-  "skulking menace": {
-    "url": "special-rules/skulking-menace",
-    "page": "RH, p. 24"
-  },
-  "invocation of nehek": {
-    "url": "special-rules/invocation-of-nehek",
-    "page": "VC, p. 5"
-  },
-  "hidden dark elves": {
-    "url": "special-rules/hidden-dark-elves",
-    "page": "DE, p. 7"
-  },
-  "borne aloft": { "url": "special-rules/borne-aloft", "page": "FoF, p. 13" },
-  "hawk-eyed archer": {
-    "url": "special-rules/hawk-eyed-archer",
-    "page": "FoF, p. 123"
-  },
-  "skirmish screen": {
-    "url": "special-rules/skirmish-screen",
-    "page": "LM, p. 8"
-  },
-  "chracian warriors": {
-    "url": "special-rules/chracian-warriors",
-    "page": "FoF, p. 163"
-  },
-  "cloud of flies": {
-    "url": "special-rules/cloud-of-flies",
-    "page": "SK, p. 6"
-  },
-  "netters": { "url": "special-rules/netters", "page": "RH, p. 25" },
-  "toad rage": { "url": "special-rules/toad-rage", "page": "LM, p. 11" },
-  "masterful outriders": {
-    "url": "special-rules/masterful-outriders",
-    "page": "AJ:TKoK, p. 31"
-  },
-  "arise!": { "url": "special-rules/arise", "page": "RH, p. 128" },
-  "storm call": { "url": "spell/storm-call", "page": "RB, p. 326" },
-  "ancestral shield": {
-    "url": "special-rules/ancestral-shield",
-    "page": "FoF, p. 14"
-  },
-  "brazen wheels": {
-    "url": "special-rules/brazen-wheels",
-    "page": "DoC, p. 8"
-  },
-  "forbidden poisons": {
-    "url": "special-rules/forbidden-poisons",
-    "page": "DE, p. 7"
-  },
-  "spawn of nurgle": {
-    "url": "special-rules/spawn-of-nurgle",
-    "page": "RH, p. 66"
-  },
-  "deploying weapon teams": {
-    "url": "special-rules/deploying-weapon-teams",
-    "page": "SK, p. 8"
-  },
-  "prayers of sigmar": {
-    "url": "special-rules/prayers-of-sigmar",
-    "page": "FoF, p. 52"
-  },
-  "on da move": { "url": "special-rules/on-da-move", "page": "AJ:O&GT, p. 29" },
-  "carriage hauler": {
-    "url": "special-rules/carriage-hauler",
-    "page": "CD, p. 10"
-  },
-  "the hunger": { "url": "special-rules/the-hunger", "page": "VC, p. 6" },
-  "crown of antlers": {
-    "url": "special-rules/crown-of-antlers",
-    "page": "FoF, p. 126"
-  },
-  "crusading knights": {
-    "url": "special-rules/crusading-knights",
-    "page": "AJ:KoB, p. 35"
-  },
-  "king's guard": { "url": "special-rules/kings-guard", "page": "FoF, p. 163" },
-  "beguiling aura": {
-    "url": "special-rules/beguiling-aura",
-    "page": "FoF, p. 90 & 127"
-  },
-  "running with the pack": {
-    "url": "special-rules/running-with-the-pack",
-    "page": "OK, p. 5"
-  },
-  "expeditionary marksmen": {
-    "url": "special-rules/expeditionary-marksmen",
-    "page": "AJ:DMH, p. 33"
-  },
-  "black lotus": { "url": "special-rules/black-lotus", "page": "DE, p. 7" },
-  "dark venom": { "url": "special-rules/dark-venom", "page": "DE, p. 7" },
-  "manbane": { "url": "special-rules/manbane", "page": "DE, p. 7" },
-  "release the fanatics!": {
-    "url": "special-rules/release-the-fanatics",
-    "page": "RH, p. 26"
-  },
-  "strike the runes": {
-    "url": "special-rules/strike-the-runes",
-    "page": "FoF, p. 15"
-  },
-  "wight banner": { "url": "special-rules/wight-banner" },
-  "function over form": {
-    "url": "special-rules/function-over-form",
-    "page": "AJ:DMH, p. 33"
-  },
-  "grail monk": {
-    "url": "special-rules/grail-monk",
-    "page": "FoF, p. 92, AJ:KoB, p. 43"
-  },
-  "blood frenzy": { "url": "special-rules/blood-frenzy", "page": "LM, p. 12" },
-  "attention seeker": {
-    "url": "special-rules/attention-seeker",
-    "page": "DoC, p. 11"
-  },
-  "weapon team leadership": {
-    "url": "special-rules/weapon-team-leadership",
-    "page": "SK, p. 8"
-  },
-  "prayers of ulric": {
-    "url": "special-rules/prayers-of-ulric",
-    "page": "FoF, p. 53"
-  },
-  "maddening aura": {
-    "url": "special-rules/maddening-aura",
-    "page": "RH, p. 105"
-  },
-  "spawn of slaanesh": {
-    "url": "special-rules/spawn-of-slaanesh",
-    "page": "RH, p. 66"
-  },
-  "blessings of the volcano god": {
-    "url": "special-rules/blessings-of-the-volcano-god"
-  },
-  "dance of death": {
-    "url": "special-rules/dance-of-death",
-    "page": "DE, p. 12"
-  },
-  "steadfast discipline": {
-    "url": "special-rules/steadfast-discipline",
-    "page": "AJ:TKoK, p. 31"
-  },
-  "martial prowess": {
-    "url": "special-rules/martial-prowess",
-    "page": "DE, p. 25, FoF, p. 129 & 185"
-  },
-  "solitary fighters": {
-    "url": "special-rules/solitary-fighters",
-    "page": "AJ:O&GT, p. 29"
-  },
-  "from beneath the sands": {
-    "url": "special-rules/from-beneath-the-sands",
-    "page": "RH, p. 129"
-  },
-  "crusader's zeal": {
-    "url": "special-rules/crusaders-zeal",
-    "page": "AJ:KoB, p. 35"
-  },
-  "cursed coven": { "url": "special-rules/cursed-coven", "page": "DE, p. 14" },
-  "spurting bile blood": {
-    "url": "special-rules/spurting-bile-blood",
-    "page": "RH, p. 105"
-  },
-  "lumbering destruction": {
-    "url": "special-rules/lumbering-destruction",
-    "page": "CD, p. 11"
-  },
-  "authority of the hierophant": {
-    "url": "special-rules/authority-of-the-hierophant",
-    "page": "AJ:TKoK, p. 35"
-  },
-  "squigs go wild": {
-    "url": "special-rules/squigs-go-wild",
-    "page": "RH, p. 27"
-  },
-  "guardians of the wildwood": {
-    "url": "special-rules/guardians-of-the-wildwood",
-    "page": "FoF, p. 130"
-  },
-  "implacable defence": {
-    "url": "special-rules/implacable-defence",
-    "page": "VC, p. 9"
-  },
-  "targeting weapon teams": {
-    "url": "special-rules/targeting-weapon-teams",
-    "page": "SK, p. 8"
-  },
-  "traps & snares": { "url": "special-rules/traps-and-snares" },
-  "slime trail": { "url": "special-rules/slime-trail", "page": "DoC, p. 11" },
-  "spawn of tzeentch": {
-    "url": "special-rules/spawn-of-tzeentch",
-    "page": "RH, p. 66"
-  },
-  "forgefire": { "url": "special-rules/forgefire", "page": "FoF, p. 16" },
-  "clouds of soot & smoke": {
-    "url": "special-rules/clouds-of-soot-and-smoke",
-    "page": "FoF, p. 54"
-  },
-  "the hierophant": {
-    "url": "special-rules/the-hierophant",
-    "page": "RH, p. 129"
-  },
-  "grail reliquae": {
-    "url": "special-rules/grail-reliquae",
-    "page": "FoF, p. 94"
-  },
-  "deflect shots": {
-    "url": "special-rules/deflect-shots",
-    "page": "FoF, p. 164"
-  },
-  "subterranean ambush": {
-    "url": "special-rules/subterranean-ambush",
-    "page": "AJ:DMH, p. 33"
-  },
-  "engine of the gods": {
-    "url": "special-rules/engine-of-the-gods",
-    "page": "LM, p. 13"
-  },
-  "enhanced regeneration": {
-    "url": "special-rules/enhanced-regeneration",
-    "page": "AJ:O&GT, p. 33"
-  },
-  "the crusader's vow": {
-    "url": "special-rules/the-crusaders-vow",
-    "page": "AJ:KoB, p. 35"
-  },
-  "scintillating sorcery": {
-    "url": "special-rules/scintillating-sorcery",
-    "page": "DoC, p. 20"
-  },
-  "retinue of the saints": {
-    "url": "special-rules/retinue-of-the-saints",
-    "page": "FoF, p. 94"
-  },
-  "ravenous hunger": {
-    "url": "special-rules/ravenous-hunger",
-    "page": "OK, p. 19"
-  },
-  "slayer of daemons": {
-    "url": "special-rules/slayer-of-daemons",
-    "page": "FoF, p. 17"
-  },
-  "cannonade": { "url": "special-rules/cannonade", "page": "CD, p. 11" },
-  "grudgelore": { "url": "special-rules/grudgelore", "page": "AJ:DMH, p. 35" },
-  "ker-splat": { "url": "special-rules/ker-splat", "page": "RH, p. 37" },
-  "warriors of the white tower": {
-    "url": "special-rules/warriors-of-the-white-tower",
-    "page": "FoF, p. 164"
-  },
-  "pavise": { "url": "special-rules/pavise", "page": "SK, p. 10" },
-  "bound spirits": {
-    "url": "special-rules/bound-spirits",
-    "page": "VC, p. 12"
-  },
-  "earn your spurs": {
-    "url": "special-rules/earn-your-spurs",
-    "page": "AJ:KoB, p. 35"
-  },
-  "harmonious incantations": {
-    "url": "special-rules/harmonious-incantations",
-    "page": "AJ:TKoK, p. 35"
-  },
-  "eternal taskmaster": {
-    "url": "special-rules/eternal-taskmaster",
-    "page": "RH, p. 130"
-  },
-  "stony stare": {
-    "url": "special-rules/stony-stare",
-    "page": "RH, p. 106, DE, p. 17 & 20"
-  },
-  "dark runes": { "url": "special-rules/dark-runes", "page": "DE, p. 14" },
-  "handler": { "url": "special-rules/handler", "page": "RH, p. 70" },
-  "arcane configuration": {
-    "url": "special-rules/arcane-configuration",
-    "page": "LM, p. 13"
-  },
-  "dances of loec": {
-    "url": "special-rules/dances-of-loec",
-    "page": "FoF, p. 131"
-  },
-  "oi! dis way!": {
-    "url": "special-rules/oi-dis-way",
-    "page": "AJ:O&GT, p. 33"
-  },
-  "master of ballistics": {
-    "url": "special-rules/master-of-ballistics",
-    "page": "FoF, p. 54"
-  },
-  "blessings of khaine": {
-    "url": "special-rules/blessings-of-khaine",
-    "page": "DE, p. 15"
-  },
-  "wilful beast": {
-    "url": "special-rules/wilful-beast",
-    "page": "DE, p. 19, RH, p. 73"
-  },
-  "largely insignificant": {
-    "url": "special-rules/largely-insignificant",
-    "page": "OK, p. 24"
-  },
-  "slashing attack": {
-    "url": "special-rules/slashing-attack",
-    "page": "DoC, p. 22"
-  },
-  "ghostsight": { "url": "special-rules/ghostsight", "page": "RH, p. 107" },
-  "living saints": {
-    "url": "special-rules/living-saints",
-    "page": "FoF, p. 97"
-  },
-  "sepulchral animus": {
-    "url": "special-rules/sepulchral-animus",
-    "page": "AJ:TKoK, p. 35"
-  },
-  "cloud of dust": {
-    "url": "special-rules/cloud-of-dust",
-    "page": "RH, p. 142"
-  },
-  "burning alignment": {
-    "url": "special-rules/burning-alignment",
-    "page": "LM, p. 13"
-  },
-  "the grudgestone": {
-    "url": "special-rules/the-grudgestone",
-    "page": "AJ:DMH, p. 35"
-  },
-  "aura of the fay": {
-    "url": "special-rules/aura-of-the-fay",
-    "page": "AJ:KoB, p. 36"
-  },
-  "leader of the pack": {
-    "url": "special-rules/leader-of-the-pack",
-    "page": "SK, p. 11"
-  },
-  "accursed weapons": {
-    "url": "special-rules/accursed-weapons",
-    "page": "VC, p. 13"
-  },
-  "troll tongue": {
-    "url": "special-rules/troll-tongue",
-    "page": "AJ:O&GT, p. 33"
-  },
-  "skullcracker": { "url": "special-rules/skullcracker", "page": "CD, p. 11" },
-  "fanatical zeal": {
-    "url": "special-rules/fanatical-zeal",
-    "page": "FoF, p. 61"
-  },
-  "ambushers": { "url": "special-rules/ambushers", "page": "RB, p. 166" },
-  "spiked ball & chains": {
-    "url": "special-rules/spiked-ball-and-chains",
-    "page": "RH, p. 37"
-  },
-  "slayer of dragons": {
-    "url": "special-rules/slayer-of-dragons",
-    "page": "FoF, p. 17"
-  },
-  "witness to destiny": {
-    "url": "special-rules/witness-to-destiny",
-    "page": "FoF, p. 165"
-  },
-  "daughters of eternity": {
-    "url": "special-rules/daughters-of-eternity",
-    "page": "FoF, p. 135"
-  },
-  "warriors of nagarythe": {
-    "url": "special-rules/warriors-of-nagarythe",
-    "page": "FoF, p. 166"
-  },
-  "impervious defence": {
-    "url": "special-rules/impervious-defence",
-    "page": "LM, p. 14"
-  },
-  "jump up & down": {
-    "url": "special-rules/jump-up-and-down",
-    "page": "RH, p. 38 & 108, OK, p. 17"
-  },
-  "artillery master": {
-    "url": "special-rules/artillery-master",
-    "page": "FoF, p. 18"
-  },
-  "martial pride": {
-    "url": "special-rules/martial-pride",
-    "page": "VC, p. 13"
-  },
-  "born of fire": { "url": "special-rules/born-of-fire", "page": "CD, p. 12" },
-  "mighty swing": {
-    "url": "special-rules/mighty-swing-bonegrinder-giant",
-    "page": "AJ:O&GT, p. 43"
-  },
-  "the terrors below": {
-    "url": "special-rules/the-terrors-below",
-    "page": "AJ:TKoK, p. 35"
-  },
-  "blessed knight": {
-    "url": "special-rules/blessed-knight",
-    "page": "AJ:KoB, p. 37"
-  },
-  "two-headed dragon": {
-    "url": "special-rules/two-headed-dragon",
-    "page": "RH, p. 74, AJ:WoC, p. 37"
-  },
-  "belly flop": {
-    "url": "special-rules/belly-flop",
-    "page": "RH, p. 38 & 108, OK, p. 17"
-  },
-  "chaos armour daemons of chaos": {
-    "url": "special-rules/chaos-armour-daemons-of-chaos",
-    "page": "DoC, p. 24"
-  },
-  "giant attacks": {
-    "url": "special-rules/giant-attacks",
-    "page": "RH, p. 38 & 108, OK, p. 17"
-  },
-  "deepwood coven": {
-    "url": "special-rules/deepwood-coven",
-    "page": "FoF, p. 135"
-  },
-  "feel no pain": { "url": "special-rules/feel-no-pain", "page": "FoF, p. 61" },
-  "thump with club": {
-    "url": "special-rules/thump-with-club",
-    "page": "RH, p. 38 & 108, OK, p. 17"
-  },
-  "armour bane": { "url": "special-rules/armour-bane", "page": "RB, p. 166" },
-  "dispersed formation": {
-    "url": "special-rules/dispersed-formation",
-    "page": "FoF, p. 98"
-  },
-  "soul-eater": { "url": "special-rules/soul-eater", "page": "RH, p. 107" },
-  "safe from harm": { "url": "special-rules/safe-from-harm" },
-  "king of the slayer hold": {
-    "url": "special-rules/king-of-the-slayer-hold",
-    "page": "AJ:DMH, p. 37"
-  },
-  "all sneaky like": {
-    "url": "special-rules/all-sneaky-like",
-    "page": "AJ:O&GT, p. 35"
-  },
-  "abyssal howl": { "url": "special-rules/abyssal-howl", "page": "DE, p. 22" },
-  "plague proboscis": {
-    "url": "special-rules/plague-proboscis",
-    "page": "DoC, p. 12"
-  },
-  "look-out gnoblar": {
-    "url": "special-rules/look-out-gnoblar",
-    "page": "OK, p. 24"
-  },
-  "'eadbutt": {
-    "url": "special-rules/eadbutt-bonegrinder-giant",
-    "page": "AJ:O&GT, p. 43"
-  },
-  "unstoppable assault": {
-    "url": "special-rules/unstoppable-assault",
-    "page": "RH, p. 145"
-  },
-  "soporific musk": {
-    "url": "magic-item/soporific-musk",
-    "page": "DoC, p. 30"
-  },
-  "swallow whole": {
-    "url": "special-rules/swallow-whole",
-    "page": "RH, p. 110"
-  },
-  "inner circle": { "url": "special-rules/inner-circle", "page": "FoF, p. 65" },
-  "prepared positions": {
-    "url": "special-rules/prepared-positions",
-    "page": "AJ:DMH, p. 39"
-  },
-  "'it & run": { "url": "special-rules/it-and-run", "page": "AJ:O&GT, p. 35" },
-  "armoured hide": {
-    "url": "special-rules/armoured-hide",
-    "page": "RB, p. 166"
-  },
-  "eternal hatred": {
-    "url": "special-rules/eternal-hatred",
-    "page": "DE, p. 25"
-  },
-  "blessings of the horned rat": {
-    "url": "special-rules/blessings-of-the-horned-rat",
-    "page": "SK, p. 15"
-  },
-  "daemonic": { "url": "special-rules/daemonic", "page": "DoC, p. 32" },
-  "slavering charge": {
-    "url": "special-rules/slavering-charge",
-    "page": "VC, p. 14"
-  },
-  "pick up and...": {
-    "url": "special-rules/pick-up-and",
-    "page": "RH, p. 39 & 109, OK, p. 18"
-  },
-  "sorcerous miasma": {
-    "url": "special-rules/sorcerous-miasma",
-    "page": "CD, p. 13"
-  },
-  "mournfang charge": {
-    "url": "special-rules/mournfang-charge",
-    "page": "OK, p. 24"
-  },
-  "elven reflexes": {
-    "url": "special-rules/elven-reflexes",
-    "page": "DE, p. 25, FoF, p. 145 & 185"
-  },
-  "soul reaper": { "url": "special-rules/soul-reaper", "page": "RH, p. 146" },
-  "caged fury": { "url": "special-rules/caged-fury", "page": "RH, p. 76" },
-  "ark of sotek": { "url": "special-rules/ark-of-sotek", "page": "LM, p. 14" },
-  "guardian of the sacred sites": {
-    "url": "special-rules/guardian-of-the-sacred-sites",
-    "page": "AJ:KoB, p. 37"
-  },
-  "blessings of the lady": {
-    "url": "special-rules/blessings-of-the-lady",
-    "page": "FoF, p. 107"
-  },
-  "sons of caledor": {
-    "url": "special-rules/sons-of-caledor",
-    "page": "FoF, p. 170"
-  },
-  "entrenchment": { "url": "special-rules/entrenchment", "page": "FoF, p. 18" },
-  "commander of legions": {
-    "url": "special-rules/commander-of-legions",
-    "page": "AJ:TKoK, p. 36"
-  },
-  "screaming skulls": {
-    "url": "special-rules/screaming-skulls",
-    "page": "RH, p. 147"
-  },
-  "range finding optics": {
-    "url": "special-rules/range-finding-optics",
-    "page": "AJ:DMH, p. 39"
-  },
-  "da troll calla": {
-    "url": "special-rules/da-troll-calla",
-    "page": "AJ:O&GT, p. 37"
-  },
-  "numbing chill": {
-    "url": "special-rules/numbing-chill",
-    "page": "OK, p. 24"
-  },
-  "slithering serpents": {
-    "url": "special-rules/slithering-serpents",
-    "page": "LM, p. 14"
-  },
-  "spectral reapers": {
-    "url": "special-rules/spectral-reapers",
-    "page": "VC, p. 15"
-  },
-  "blood greed": { "url": "special-rules/blood-greed", "page": "RH, p. 115" },
-  "settra does not kneel!": {
-    "url": "special-rules/settra-does-not-kneel",
-    "page": "AJ:TKoK, p. 36"
-  },
-  "hekarti's blessing": {
-    "url": "special-rules/hekartis-blessing",
-    "page": "DE, p. 25"
-  },
-  "bully": { "url": "special-rules/bully", "page": "RH, p. 41" },
-  "\"stand back chief\"": {
-    "url": "special-rules/stand-back-chief",
-    "page": "FoF, p. 18, AJ:DMH, p. 39"
-  },
-  "quake": { "url": "special-rules/quake", "page": "CD, p. 15" },
-  "the wyrm slayer": {
-    "url": "special-rules/the-wyrm-slayer",
-    "page": "AJ:KoB, p. 39"
-  },
-  "breath weapon": {
-    "url": "special-rules/breath-weapon",
-    "page": "RB, p. 166"
-  },
-  "daemonic instability": {
-    "url": "special-rules/daemonic-instability",
-    "page": "DoC, p. 32"
-  },
-  "tolling the bell": {
-    "url": "special-rules/tolling-the-bell",
-    "page": "SK, p. 15"
-  },
-  "holy fervour": { "url": "special-rules/holy-fervour", "page": "FoF, p. 67" },
-  "talismanic tattoos": {
-    "url": "special-rules/talismanic-tattoos",
-    "page": "FoF, p. 145"
-  },
-  "from the ashes": {
-    "url": "special-rules/from-the-ashes",
-    "page": "FoF, p. 175"
-  },
-  "hellcannon misfire table": {
-    "url": "special-rules/hellcannon-misfire-table",
-    "page": "RH, p. 76"
-  },
-  "finest warhorses": {
-    "url": "special-rules/finest-warhorses",
-    "page": "FoF, p. 107"
-  },
-  "protect da boss": {
-    "url": "special-rules/protect-da-boss",
-    "page": "AJ:O&GT, p. 37"
-  },
-  "great censer": { "url": "special-rules/great-censer", "page": "SK, p. 16" },
-  "venerable": { "url": "special-rules/venerable", "page": "FoF, p. 20" },
-  "\"dig in!\"": { "url": "special-rules/dig-in", "page": "AJ:DMH, p. 40" },
-  "ghoulish glamour": {
-    "url": "special-rules/ghoulish-glamour",
-    "page": "VC, p. 16"
-  },
-  "arcane backlash": {
-    "url": "special-rules/arcane-backlash",
-    "page": "AJ:KoB, p. 41"
-  },
-  "chariot runners": {
-    "url": "special-rules/chariot-runners",
-    "page": "RB, p. 167"
-  },
-  "daemonic locus": {
-    "url": "special-rules/daemonic-locus",
-    "page": "DoC, p. 32"
-  },
-  "symbol of might": {
-    "url": "special-rules/symbol-of-might",
-    "page": "FoF, p. 67"
-  },
-  "wake of fire": {
-    "url": "special-rules/wake-of-fire",
-    "page": "FoF, p. 175"
-  },
-  "settra the great": {
-    "url": "special-rules/settra-the-great",
-    "page": "AJ:TKoK, p. 36"
-  },
-  "slow reload": { "url": "special-rules/slow-reload", "page": "CD, p. 15" },
-  "chaos armour warriors of chaos": {
-    "url": "special-rules/chaos-armour-warriors-of-chaos",
-    "page": "RH, p. 81"
-  },
-  "big 'uns": { "url": "special-rules/big-uns", "page": "RH, p. 45" },
-  "murderous": { "url": "special-rules/murderous", "page": "DE, p. 25" },
-  "tree spirit": { "url": "special-rules/tree-spirit", "page": "FoF, p. 145" },
-  "blood rage": { "url": "special-rules/blood-rage", "page": "RH, p. 115" },
-  "lance formation": {
-    "url": "special-rules/lance-formation",
-    "page": "FoF, p. 107"
-  },
-  "skulls of the foe": {
-    "url": "special-rules/skulls-of-the-foe",
-    "page": "RH, p. 147"
-  },
-  "spawn of sotek": {
-    "url": "special-rules/spawn-of-sotek",
-    "page": "LM, p. 14"
-  },
-  "covenant of power": {
-    "url": "special-rules/covenant-of-power",
-    "page": "RH, p. 147"
-  },
-  "sea dragon cloak": {
-    "url": "special-rules/sea-dragon-cloak",
-    "page": "DE, p. 25"
-  },
-  "scrying pool": { "url": "special-rules/scrying-pool", "page": "VC, p. 16" },
-  "close order": { "url": "special-rules/close-order", "page": "RB, p. 167" },
-  "scarab prince": {
-    "url": "special-rules/scarab-prince",
-    "page": "AJ:TKoK, p. 39"
-  },
-  "hostile terrain": {
-    "url": "special-rules/hostile-terrain",
-    "page": "AJ:DMH, p. 40"
-  },
-  "witch bane": { "url": "special-rules/witch-bane", "page": "FoF, p. 67" },
-  "ensorcelled weapons": {
-    "url": "special-rules/ensorcelled-weapons",
-    "page": "CD, p. 20, RH, p. 81 & 115"
-  },
-  "stone skeleton": {
-    "url": "special-rules/stone-skeleton",
-    "page": "OK, p. 24"
-  },
-  "crushing bulk": {
-    "url": "special-rules/crushing-bulk",
-    "page": "SK, p. 17"
-  },
-  "infernal favour": {
-    "url": "special-rules/infernal-favour",
-    "page": "DoC, p. 32"
-  },
-  "backstab": { "url": "special-rules/backstab", "page": "CD, p. 20" },
-  "royal guard": { "url": "special-rules/royal-guard", "page": "FoF, p. 23" },
-  "blizzard aura": {
-    "url": "special-rules/blizzard-aura",
-    "page": "FoF, p. 176"
-  },
-  "untutored arcanist": {
-    "url": "special-rules/untutored-arcanist",
-    "page": "AJ:KoB, p. 42"
-  },
-  "solar engine": { "url": "special-rules/solar-engine", "page": "LM, p. 14" },
-  "syphoned strength": {
-    "url": "special-rules/syphoned-strength",
-    "page": "AJ:O&GT, p. 37"
-  },
-  "choppas": { "url": "special-rules/choppas", "page": "RH, p. 45" },
-  "bull-gors": { "url": "special-rules/bull-gors", "page": "RH, p. 115" },
-  "tree whack": { "url": "special-rules/tree-whack", "page": "FoF, p. 145" },
-  "peasantry": { "url": "special-rules/peasantry", "page": "FoF, p. 107" },
-  "blackshard armour": {
-    "url": "special-rules/blackshard-armour",
-    "page": "CD, p. 20"
-  },
-  "zzzzap!": { "url": "special-rules/zzzzap", "page": "SK, p. 17" },
-  "accursed reliquary": {
-    "url": "special-rules/accursed-reliquary",
-    "page": "VC, p. 17"
-  },
-  "immovable object": {
-    "url": "special-rules/immovable-object",
-    "page": "FoF, p. 14 & 101, RH, p. 147"
-  },
-  "the knight's vow": {
-    "url": "special-rules/the-knights-vow",
-    "page": "FoF, p. 108"
-  },
-  "woodland ambush": {
-    "url": "special-rules/woodland-ambush",
-    "page": "FoF, p. 145"
-  },
-  "solar radiance": {
-    "url": "special-rules/solar-radiance",
-    "page": "LM, p. 14"
-  },
-  "gaze of the gods": {
-    "url": "special-rules/gaze-of-the-gods",
-    "page": "RH, p. 81 & 116"
-  },
-  "thunderous charge": {
-    "url": "special-rules/thunderous-charge",
-    "page": "OK, p. 24"
-  },
-  "da boyz": { "url": "special-rules/da-boyz", "page": "RH, p. 45" },
   "doomseeker": {
     "url": "unit/doomseeker",
     "stats": [
@@ -942,881 +17,6 @@
     ],
     "troopType": "HI",
     "page": "AJ:DMH, p. 41"
-  },
-  "arrows of isha": {
-    "url": "special-rules/arrows-of-isha",
-    "page": "FoF, p. 184"
-  },
-  "grinding wheels": {
-    "url": "special-rules/grinding-wheels",
-    "page": "CD, p. 10, FoF, p. 68"
-  },
-  "stoic defenders": {
-    "url": "special-rules/stoic-defenders",
-    "page": "FoF, p. 23"
-  },
-  "drunken": { "url": "special-rules/drunken", "page": "RH, p. 115" },
-  "counter charge": {
-    "url": "special-rules/counter-charge",
-    "page": "RB, p. 167"
-  },
-  "usirian's reaper": {
-    "url": "special-rules/usirians-reaper",
-    "page": "AJ:TKoK, p. 39"
-  },
-  "indiscriminate hunger": {
-    "url": "special-rules/indiscriminate-hunger",
-    "page": "AJ:O&GT, p. 38"
-  },
-  "daemonic alignment": {
-    "url": "special-rules/daemonic-alignment",
-    "page": "DoC, p. 33"
-  },
-  "the questing vow": {
-    "url": "special-rules/the-questing-vow",
-    "page": "FoF, p. 108"
-  },
-  "abominable attacks": {
-    "url": "special-rules/abominable-attacks",
-    "page": "SK, p. 18"
-  },
-  "fear of elves": {
-    "url": "special-rules/fear-of-elves",
-    "page": "RH, p. 45"
-  },
-  "cumbersome": { "url": "special-rules/cumbersome", "page": "RB, p. 167" },
-  "marks of chaos": {
-    "url": "special-rules/marks-of-chaos",
-    "page": "RH, p. 82"
-  },
-  "first to the fray": {
-    "url": "special-rules/first-to-the-fray",
-    "page": "AJ:DMH, p. 41"
-  },
-  "runes of protection": {
-    "url": "special-rules/runes-of-protection",
-    "page": "FoF, p. 24"
-  },
-  "daemon of khorne": {
-    "url": "special-rules/daemon-of-khorne",
-    "page": "DoC, p. 33"
-  },
-  "foe render": { "url": "special-rules/foe-render", "page": "RH, p. 115" },
-  "motherly love": {
-    "url": "special-rules/motherly-love",
-    "page": "AJ:O&GT, p. 39"
-  },
-  "unbound spirits": {
-    "url": "special-rules/unbound-spirits",
-    "page": "RH, p. 149"
-  },
-  "herald of despair": {
-    "url": "special-rules/herald-of-despair",
-    "page": "AJ:TKoK, p. 41"
-  },
-  "steam power": { "url": "special-rules/steam-power", "page": "FoF, p. 68" },
-  "blasphemous tome": {
-    "url": "special-rules/blasphemous-tome",
-    "page": "VC, p. 17"
-  },
-  "blessings of asuryan": {
-    "url": "special-rules/blessings-of-asuryan",
-    "page": "FoF, p. 184"
-  },
-  "blazing body": { "url": "special-rules/blazing-body", "page": "CD, p. 20" },
-  "beam of chotec": {
-    "url": "special-rules/beam-of-chotec",
-    "page": "LM, p. 14"
-  },
-  "hellbound": { "url": "special-rules/hellbound", "page": "CD, p. 20" },
-  "mark of chaos undivided": {
-    "url": "special-rules/mark-of-chaos-undivided",
-    "page": "RH, p. 82 & 116"
-  },
-  "detachment": { "url": "special-rules/detachment", "page": "RB, p. 167" },
-  "the grail vow": {
-    "url": "special-rules/the-grail-vow",
-    "page": "FoF, p. 108"
-  },
-  "temperamental": {
-    "url": "special-rules/temperamental",
-    "page": "FoF, p. 69"
-  },
-  "primal fury": { "url": "special-rules/primal-fury", "page": "RH, p. 116" },
-  "runes of warding": { "url": "special-rules/runes-of-warding" },
-  "daemon of nurgle": {
-    "url": "special-rules/daemon-of-nurgle",
-    "page": "DoC, p. 33"
-  },
-  "primeval roar": {
-    "url": "special-rules/primeval-roar",
-    "page": "LM, p. 15"
-  },
-  "slimy shanks": {
-    "url": "special-rules/slimy-shanks",
-    "page": "AJ:O&GT, p. 39"
-  },
-  "dragon armour": {
-    "url": "special-rules/dragon-armour",
-    "page": "FoF, p. 184"
-  },
-  "settra's champion": {
-    "url": "special-rules/settras-champion",
-    "page": "AJ:TKoK, p. 41"
-  },
-  "whirlwind of death": {
-    "url": "special-rules/whirlwind-of-death",
-    "page": "AJ:DMH, p. 41"
-  },
-  "balefire brazier": {
-    "url": "special-rules/balefire-brazier",
-    "page": "VC, p. 18"
-  },
-  "vortex of souls": {
-    "url": "special-rules/vortex-of-souls",
-    "page": "RH, p. 149"
-  },
-  "feed": { "url": "special-rules/feed", "page": "SK, p. 18" },
-  "ignore goblin panic": {
-    "url": "special-rules/ignore-goblin-panic",
-    "page": "RH, p. 45"
-  },
-  "extended formation": {
-    "url": "special-rules/extended-formation",
-    "page": "AJ:DMH, p. 44"
-  },
-  "stampede": { "url": "special-rules/stampede", "page": "CD, p. 20" },
-  "daemon of slaanesh": {
-    "url": "special-rules/daemon-of-slaanesh",
-    "page": "DoC, p. 33"
-  },
-  "forming the lance": {
-    "url": "special-rules/forming-the-lance",
-    "page": "FoF, p. 110"
-  },
-  "bonegrinder giant attacks": {
-    "url": "special-rules/bonegrinder-giant-attacks",
-    "page": "AJ:O&GT, p. 42"
-  },
-  "avalanche of flesh": {
-    "url": "special-rules/avalanche-of-flesh",
-    "page": "SK, p. 18"
-  },
-  "\"fight me!\"": { "url": "special-rules/fight-me", "page": "FoF, p. 27" },
-  "dragged along": {
-    "url": "special-rules/dragged-along",
-    "page": "RB, p. 167"
-  },
-  "arcane vassal": {
-    "url": "special-rules/arcane-vassal",
-    "page": "LM, p. 20"
-  },
-  "two heads": { "url": "special-rules/two-heads", "page": "FoF, p. 70" },
-  "warped tintinnabulation": {
-    "url": "special-rules/warped-tintinnabulation",
-    "page": "VC, p. 18"
-  },
-  "ignore panic": { "url": "special-rules/ignore-panic", "page": "RH, p. 46" },
-  "mark of khorne": {
-    "url": "special-rules/mark-of-khorne",
-    "page": "RH, p. 82"
-  },
-  "arrows of asaph": {
-    "url": "special-rules/arrows-of-asaph",
-    "page": "RH, p. 153"
-  },
-  "razor tusks": { "url": "special-rules/razor-tusks", "page": "RH, p. 116" },
-  "immortal overseer": {
-    "url": "special-rules/immortal-overseer",
-    "page": "AJ:TKoK, p. 42"
-  },
-  "ithilmar armour": {
-    "url": "special-rules/ithilmar-armour-ithilmar-barding",
-    "page": "FoF, p. 185"
-  },
-  "ithilmar barding": {
-    "url": "special-rules/ithilmar-armour-ithilmar-barding",
-    "page": "FoF, p. 185"
-  },
-  "crush underfoot": {
-    "url": "special-rules/crush-underfoot",
-    "page": "AJ:O&GT, p. 43"
-  },
-  "daemon of tzeentch": {
-    "url": "special-rules/daemon-of-tzeentch",
-    "page": "DoC, p. 33"
-  },
-  "cleaving blow": {
-    "url": "special-rules/cleaving-blow",
-    "page": "DoC, p. 32, DE, p. 25, FoF, p. 164, LM, p. 20, RH, p. 153, VC, p. 27"
-  },
-  "spectral coach": {
-    "url": "special-rules/spectral-coach",
-    "page": "VC, p. 19"
-  },
-  "aquatic": { "url": "special-rules/aquatic", "page": "LM, p. 20" },
-  "stone shaper": {
-    "url": "special-rules/stone-shaper",
-    "page": "AJ:TKoK, p. 42"
-  },
-  "the quickening storm": {
-    "url": "special-rules/the-quickening-storm",
-    "page": "RH, p. 116"
-  },
-  "mark of nurgle": {
-    "url": "special-rules/mark-of-nurgle",
-    "page": "RH, p. 82"
-  },
-  "quell impetuosity": {
-    "url": "special-rules/quell-impetuosity",
-    "page": "RH, p. 46"
-  },
-  "slayer": {
-    "url": "special-rules/slayer",
-    "page": "FoF, p. 27, AJ:DMH, p. 37"
-  },
-  "too horrible to die": {
-    "url": "special-rules/too-horrible-to-die",
-    "page": "SK, p. 18"
-  },
-  "drilled": { "url": "special-rules/drilled", "page": "RB, p. 167" },
-  "helblaster": { "url": "special-rules/helblaster", "page": "FoF, p. 72" },
-  "manoeuvring a lance": {
-    "url": "special-rules/manoeuvring-a-lance",
-    "page": "FoF, p. 110"
-  },
-  "beast handlers": {
-    "url": "special-rules/beast-handlers",
-    "page": "LM, p. 20"
-  },
-  "helstorm": { "url": "special-rules/helstorm", "page": "FoF, p. 73" },
-  "the lance in combat": {
-    "url": "special-rules/the-lance-in-combat",
-    "page": "FoF, p. 110"
-  },
-  "curse of the necropolis": {
-    "url": "special-rules/curse-of-the-necropolis",
-    "page": "RH, p. 153"
-  },
-  "mark of slaanesh": {
-    "url": "special-rules/mark-of-slaanesh",
-    "page": "RH, p. 82"
-  },
-  "hit & run": { "url": "special-rules/hit-and-run", "page": "AJ:DMH, p. 44" },
-  "tusker charge": {
-    "url": "special-rules/tusker-charge",
-    "page": "RH, p. 46"
-  },
-  "dive bomb": { "url": "special-rules/dive-bomb", "page": "FoF, p. 28" },
-  "carrion feeders": {
-    "url": "special-rules/carrion-feeders",
-    "page": "VC, p. 20"
-  },
-  "lightning strike": {
-    "url": "special-rules/lightning-strike",
-    "page": "SK, p. 19"
-  },
-  "ethereal": { "url": "special-rules/ethereal", "page": "RB, p. 167" },
-  "ithilmar weapons": {
-    "url": "special-rules/ithilmar-weapons",
-    "page": "FoF, p. 185"
-  },
-  "bombing run": { "url": "special-rules/bombing-run", "page": "FoF, p. 29" },
-  "cold blooded": { "url": "special-rules/cold-blooded", "page": "LM, p. 20" },
-  "blunting the lance": {
-    "url": "special-rules/blunting-the-lance",
-    "page": "FoF, p. 111"
-  },
-  "infested": { "url": "special-rules/infested", "page": "VC, p. 21" },
-  "evasive": { "url": "special-rules/evasive", "page": "RB, p. 168" },
-  "grind its bones": {
-    "url": "special-rules/grind-its-bones",
-    "page": "AJ:O&GT, p. 43"
-  },
-  "waaagh!": { "url": "special-rules/waaagh", "page": "RH, p. 46" },
-  "poisoned wind": {
-    "url": "special-rules/poisoned-wind",
-    "page": "SK, p. 23"
-  },
-  "lileath's blessing": {
-    "url": "special-rules/lileaths-blessing",
-    "page": "FoF, p. 185"
-  },
-  "bugman's cart": {
-    "url": "special-rules/bugmans-cart",
-    "page": "AJ:DMH, p. 45"
-  },
-  "dry as dust": { "url": "special-rules/dry-as-dust", "page": "RH, p. 153" },
-  "mark of tzeentch": {
-    "url": "special-rules/mark-of-tzeentch",
-    "page": "RH, p. 82"
-  },
-  "lion cloak": { "url": "special-rules/lion-cloak", "page": "FoF, p. 185" },
-  "miner's cart": {
-    "url": "special-rules/miners-cart",
-    "page": "AJ:DMH, p. 45"
-  },
-  "warpaint": { "url": "special-rules/warpaint", "page": "RH, p. 46" },
-  "extra attacks": {
-    "url": "special-rules/extra-attacks",
-    "page": "RB, p. 168"
-  },
-  "favour of the gods": {
-    "url": "magic-item/favour-of-the-gods",
-    "page": "RH, p. 80"
-  },
-  "indomitable": {
-    "url": "special-rules/indomitable",
-    "page": "RH, p. 153, VC, p. 27"
-  },
-  "deathblow": { "url": "special-rules/deathblow", "page": "FoF, p. 39" },
-  "bestial fury": { "url": "special-rules/bestial-fury", "page": "VC, p. 22" },
-  "drop rocks": { "url": "special-rules/drop-rocks", "page": "LM, p. 20" },
-  "scurry away": { "url": "special-rules/scurry-away", "page": "SK, p. 23" },
-  "casualty removal": {
-    "url": "special-rules/casualty-removal",
-    "page": "FoF, p. 111"
-  },
-  "fast cavalry": { "url": "special-rules/fast-cavalry", "page": "RB, p. 168" },
-  "dark vitality": {
-    "url": "special-rules/dark-vitality",
-    "page": "VC, p. 27"
-  },
-  "obsidian blades": {
-    "url": "special-rules/obsidian-blades",
-    "page": "LM, p. 20"
-  },
-  "valour of ages": {
-    "url": "special-rules/valour-of-ages",
-    "page": "FoF, p. 185"
-  },
-  "lance formations & skirmishers": {
-    "url": "special-rules/lance-formations-and-skirmishers",
-    "page": "FoF, p. 111"
-  },
-  "vomit": { "url": "special-rules/vomit", "page": "AJ:O&GT, p. 43" },
-  "dwarf crafted": {
-    "url": "special-rules/dwarf-crafted",
-    "page": "FoF, p. 39"
-  },
-  "khopesh": { "url": "special-rules/khopesh", "page": "RH, p. 154" },
-  "whirling doom": {
-    "url": "special-rules/whirling-doom",
-    "page": "AJ:DMH, p. 46"
-  },
-  "scurrying masses": {
-    "url": "special-rules/scurrying-masses",
-    "page": "SK, p. 23"
-  },
-  "sea-born raiders": {
-    "url": "special-rules/sea-born-raiders",
-    "page": "AJ:WoC, p. 29"
-  },
-  "verminous valour": {
-    "url": "special-rules/verminous-valour",
-    "page": "SK, p. 23"
-  },
-  "wallop": { "url": "special-rules/wallop", "page": "AJ:O&GT, p. 43" },
-  "warriors' duel": {
-    "url": "special-rules/warriors-duel",
-    "page": "AJ:WoC, p. 29"
-  },
-  "necromantic undead": {
-    "url": "special-rules/necromantic-undead",
-    "page": "VC, p. 27"
-  },
-  "gromril armour": {
-    "url": "special-rules/gromril-armour",
-    "page": "FoF, p. 39"
-  },
-  "fear": { "url": "special-rules/fear", "page": "RB, p. 168" },
-  "nehekharan phalanx": {
-    "url": "special-rules/nehekharan-phalanx",
-    "page": "RH, p. 154"
-  },
-  "characters joining a lance": {
-    "url": "special-rules/characters-joining-a-lance"
-  },
-  "nehekharan undead": {
-    "url": "special-rules/nehekharan-undead",
-    "page": "RH, p. 154"
-  },
-  "mounted host": {
-    "url": "special-rules/mounted-host",
-    "page": "AJ:WoC, p. 33"
-  },
-  "warpstone weapons": {
-    "url": "special-rules/warpstone-weapons",
-    "page": "SK, p. 23"
-  },
-  "feigned flight": {
-    "url": "special-rules/feigned-flight",
-    "page": "RB, p. 168"
-  },
-  "the newly dead": {
-    "url": "special-rules/the-newly-dead",
-    "page": "VC, p. 28"
-  },
-  "gromril weapons": {
-    "url": "special-rules/gromril-weapons",
-    "page": "FoF, p. 39"
-  },
-  "resurrecting the fallen": {
-    "url": "special-rules/resurrecting-the-fallen",
-    "page": "RH, p. 154, VC, p. 28"
-  },
-  "wailing dirge": {
-    "url": "special-rules/wailing-dirge",
-    "page": "VC, p. 28"
-  },
-  "fight in extra rank": {
-    "url": "special-rules/fight-in-extra-rank",
-    "page": "RB, p. 169"
-  },
-  "steeds of darkness": {
-    "url": "special-rules/steeds-of-darkness",
-    "page": "AJ:WoC, p. 33"
-  },
-  "resolute": {
-    "url": "special-rules/resolute",
-    "page": "CD, p. 20, FoF, p. 39"
-  },
-  "the shadow grows": {
-    "url": "special-rules/the-shadow-grows",
-    "page": "AJ:WoC, p. 33"
-  },
-  "fire & flee": { "url": "special-rules/fire-and-flee", "page": "RB, p. 169" },
-  "rune lore": { "url": "special-rules/rune-lore", "page": "FoF, p. 39" },
-  "first charge": { "url": "special-rules/first-charge", "page": "RB, p. 169" },
-  "chainmaker": { "url": "special-rules/chainmaker", "page": "AJ:WoC, p. 35" },
-  "commander & captain": {
-    "url": "special-rules/commander-and-captain",
-    "page": "AJ:WoC, p. 35"
-  },
-  "flaming attacks": {
-    "url": "special-rules/flaming-attacks",
-    "page": "RB, p. 169"
-  },
-  "breath of change": {
-    "url": "special-rules/breath-of-change",
-    "page": "AJ:WoC, p. 36"
-  },
-  "flammable": { "url": "special-rules/flammable", "page": "RB, p. 169" },
-  "peerless raider": {
-    "url": "special-rules/peerless-raider",
-    "page": "AJ:WoC, p. 35"
-  },
-  "fly": { "url": "special-rules/fly", "page": "RB, p. 170" },
-  "spirit of galrauch": {
-    "url": "special-rules/spirit-of-galrauch",
-    "page": "AJ:WoC, p. 37"
-  },
-  "relentless warriors": {
-    "url": "special-rules/relentless-warriors",
-    "page": "AJ:WoC, p. 39"
-  },
-  "frenzy": { "url": "special-rules/frenzy", "page": "RB, p. 170" },
-  "warped form": {
-    "url": "special-rules/warped-form",
-    "page": "AJ:WoC, p. 40"
-  },
-  "furious charge": {
-    "url": "special-rules/furious-charge",
-    "page": "RB, p. 171"
-  },
-  "cursed by the gods": {
-    "url": "special-rules/cursed-by-the-gods",
-    "page": "AJ:WoC, p. 43"
-  },
-  "hatred": { "url": "special-rules/hatred", "page": "RB, p. 171" },
-  "explosive demise": {
-    "url": "special-rules/explosive-demise",
-    "page": "AJ:WoC, p. 44"
-  },
-  "gigantic spawn of khorne": {
-    "url": "special-rules/gigantic-spawn-of-khorne",
-    "page": "AJ:WoC, p. 43"
-  },
-  "horde": { "url": "special-rules/horde", "page": "RB, p. 171" },
-  "warpfire aura": {
-    "url": "special-rules/warpfire-aura",
-    "page": "AJ:WoC, p. 45"
-  },
-  "howdah": { "url": "special-rules/howdah", "page": "RB, p. 171" },
-  "fire & chaos": {
-    "url": "special-rules/fire-and-chaos",
-    "page": "AJ:WoC, p. 44"
-  },
-  "gigantic spawn of nurgle": {
-    "url": "special-rules/gigantic-spawn-of-nurgle",
-    "page": "AJ:WoC, p. 43"
-  },
-  "ignores cover": {
-    "url": "special-rules/ignores-cover",
-    "page": "RB, p. 171"
-  },
-  "gigantic spawn of slaanesh": {
-    "url": "special-rules/gigantic-spawn-of-slaanesh",
-    "page": "AJ:WoC, p. 43"
-  },
-  "immune to psychology": {
-    "url": "special-rules/immune-to-psychology",
-    "page": "RB, p. 171"
-  },
-  "gigantic spawn of tzeentch": {
-    "url": "special-rules/gigantic-spawn-of-tzeentch",
-    "page": "AJ:WoC, p. 43"
-  },
-  "impact hits": { "url": "special-rules/impact-hits", "page": "RB, p. 172" },
-  "impetuous": { "url": "special-rules/impetuous", "page": "RB, p. 172" },
-  "killing blow": { "url": "special-rules/killing-blow", "page": "RB, p. 172" },
-  "large target": { "url": "special-rules/large-target", "page": "RB, p. 172" },
-  "levies": { "url": "special-rules/levies", "page": "RB, p. 172" },
-  "loner": { "url": "special-rules/loner", "page": "RB, p. 172" },
-  "magical attacks": {
-    "url": "special-rules/magical-attacks",
-    "page": "RB, p. 172"
-  },
-  "magic resistance": {
-    "url": "special-rules/magic-resistance",
-    "page": "RB, p. 173"
-  },
-  "mercenaries": { "url": "special-rules/mercenaries", "page": "RB, p. 173" },
-  "monster handlers": {
-    "url": "special-rules/monster-handlers",
-    "page": "RB, p. 173"
-  },
-  "monster slayer": {
-    "url": "special-rules/monster-slayer",
-    "page": "RB, p. 173"
-  },
-  "motley crew": { "url": "special-rules/motley-crew", "page": "RB, p. 174" },
-  "move & shoot": {
-    "url": "special-rules/move-and-shoot",
-    "page": "RB, p. 174"
-  },
-  "move or shoot": {
-    "url": "special-rules/move-or-shoot",
-    "page": "RB, p. 174"
-  },
-  "move through cover": {
-    "url": "special-rules/move-through-cover",
-    "page": "RB, p. 174"
-  },
-  "multiple shots": {
-    "url": "special-rules/multiple-shots",
-    "page": "RB, p. 174"
-  },
-  "multiple wounds": {
-    "url": "special-rules/multiple-wounds",
-    "page": "RB, p. 175"
-  },
-  "open order": { "url": "special-rules/open-order", "page": "RB, p. 175" },
-  "poisoned attacks": {
-    "url": "special-rules/poisoned-attacks",
-    "page": "RB, p. 175"
-  },
-  "ponderous": { "url": "special-rules/ponderous", "page": "RB, p. 175" },
-  "quick shot": { "url": "special-rules/quick-shot", "page": "RB, p. 175" },
-  "rallying cry": { "url": "special-rules/rallying-cry", "page": "RB, p. 175" },
-  "random attacks": {
-    "url": "special-rules/random-attacks",
-    "page": "RB, p. 176"
-  },
-  "random movement": {
-    "url": "special-rules/random-movement",
-    "page": "RB, p. 176"
-  },
-  "regeneration": { "url": "special-rules/regeneration", "page": "RB, p. 176" },
-  "regimental unit": {
-    "url": "special-rules/regimental-unit",
-    "page": "RB, p. 176"
-  },
-  "requires two hands": {
-    "url": "special-rules/requires-two-hands",
-    "page": "RB, p. 176"
-  },
-  "reserve move": { "url": "special-rules/reserve-move", "page": "RB, p. 177" },
-  "scouts": { "url": "special-rules/scouts", "page": "RB, p. 177" },
-  "shieldwall": { "url": "special-rules/shieldwall", "page": "RB, p. 177" },
-  "skirmishers": { "url": "special-rules/skirmishers", "page": "RB, p. 177" },
-  "stomp attacks": {
-    "url": "special-rules/stomp-attacks",
-    "page": "RB, p. 177"
-  },
-  "strike first": { "url": "special-rules/strike-first", "page": "RB, p. 177" },
-  "strike last": { "url": "special-rules/strike-last", "page": "RB, p. 178" },
-  "stubborn": { "url": "special-rules/stubborn", "page": "RB, p. 178" },
-  "stupidity": { "url": "special-rules/stupidity", "page": "RB, p. 178" },
-  "swiftstride": { "url": "special-rules/swiftstride", "page": "RB, p. 178" },
-  "terror": { "url": "special-rules/terror", "page": "RB, p. 179" },
-  "timmm-berrr!": { "url": "special-rules/timmm-berrr", "page": "RB, p. 179" },
-  "unbreakable": { "url": "special-rules/unbreakable", "page": "RB, p. 179" },
-  "unstable": { "url": "special-rules/unstable", "page": "RB, p. 180" },
-  "vanguard": { "url": "special-rules/vanguard", "page": "RB, p. 180" },
-  "veteran": { "url": "special-rules/veteran", "page": "RB, p. 180" },
-  "volley fire": { "url": "special-rules/volley-fire", "page": "RB, p. 180" },
-  "warband": { "url": "special-rules/warband", "page": "RB, p. 180" },
-  "warp-spawned": { "url": "special-rules/warp-spawned", "page": "RB, p. 180" },
-  "blowpipe": { "url": "weapons-of-war/blowpipe", "page": "LM, p. 4 & 7" },
-  "great hammer": {
-    "url": "weapons-of-war/great-hammer",
-    "page": "FoF, p. 23"
-  },
-  "swarming mass": {
-    "url": "weapons-of-war/swarming-mass",
-    "page": "AJ:TKoK, p. 39"
-  },
-  "blunderbuss": {
-    "url": "weapons-of-war/blunderbuss",
-    "page": "AJ:KoB, p. 44"
-  },
-  "steam cannon": {
-    "url": "weapons-of-war/steam-cannon",
-    "page": "FoF, p. 69"
-  },
-  "warplock musket": {
-    "url": "weapons-of-war/warplock-musket",
-    "page": "SK, p. 4"
-  },
-  "dragon fire": { "url": "weapons-of-war/dragon-fire", "page": "FoF, p. 158" },
-  "blessed triptych": {
-    "url": "weapons-of-war/blessed-triptych",
-    "page": "FoF, p. 92, AJ:KoB, p. 43"
-  },
-  "steam cannonade": {
-    "url": "weapons-of-war/steam-cannonade",
-    "page": "CD, p. 11"
-  },
-  "dread halberd": {
-    "url": "weapons-of-war/dread-halberd",
-    "page": "DE, p. 10"
-  },
-  "fanatic ball & chain": {
-    "url": "weapons-of-war/fanatic-ball-and-chain",
-    "page": "RH, p. 23"
-  },
-  "dark fire of chaos": {
-    "url": "weapons-of-war/dark-fire-of-chaos",
-    "page": "RH, p. 74, AJ:WoC, p. 37"
-  },
-  "spear of loec": {
-    "url": "weapons-of-war/spear-of-loec",
-    "page": "FoF, p. 122"
-  },
-  "braystaff": { "url": "weapons-of-war/braystaff", "page": "RH, p. 93" },
-  "swamp breath": {
-    "url": "weapons-of-war/swamp-breath",
-    "page": "AJ:O&GT, p. 39"
-  },
-  "furnace hammer": {
-    "url": "weapons-of-war/furnace-hammer",
-    "page": "AJ:DMH, p. 39"
-  },
-  "great throwing spears": {
-    "url": "weapons-of-war/great-throwing-spears",
-    "page": "OK, p. 5"
-  },
-  "bloodflail": { "url": "weapons-of-war/bloodflail", "page": "DoC, p. 3" },
-  "ritual blade": {
-    "url": "weapons-of-war/ritual-blade",
-    "page": "RH, p. 135, AJ:TKoK, p. 43"
-  },
-  "spectral scythe": {
-    "url": "weapons-of-war/spectral-scythe-black-coach",
-    "page": "VC, p. 19"
-  },
-  "polearm": {
-    "url": "weapons-of-war/polearm",
-    "page": "FoF, p. 92, AJ:KoB, p. 43"
-  },
-  "great axe": { "url": "weapons-of-war/great-axe", "page": "DoC, p. 3" },
-  "massive gob": { "url": "weapons-of-war/massive-gob", "page": "RH, p. 20" },
-  "brace of drakefire pistols": {
-    "url": "weapons-of-war/brace-of-drakefire-pistols",
-    "page": "FoF, p. 24"
-  },
-  "warplock pistol": {
-    "url": "weapons-of-war/warplock-pistol",
-    "page": "SK, p. 4"
-  },
-  "rivet gun": { "url": "weapons-of-war/rivet-gun", "page": "AJ:DMH, p. 39" },
-  "bombard": { "url": "weapons-of-war/bombard", "page": "AJ:KoB, p. 45" },
-  "fiery breath lizardmen": {
-    "url": "weapons-of-war/fiery-breath-lizardmen",
-    "page": "LM, p. 9"
-  },
-  "flaming breath ogre kingdoms": {
-    "url": "weapons-of-war/flaming-breath-ogre-kingdoms",
-    "page": "OK, p. 6"
-  },
-  "steam gun empire": {
-    "url": "weapons-of-war/steam-gun-empire",
-    "page": "FoF, p. 69"
-  },
-  "slythey tongue": {
-    "url": "weapons-of-war/slythey-tongue",
-    "page": "RH, p. 105"
-  },
-  "har ganeth greatsword": {
-    "url": "weapons-of-war/har-ganeth-greatsword",
-    "page": "DE, p. 11"
-  },
-  "trickster's blades": {
-    "url": "weapons-of-war/tricksters-blades",
-    "page": "FoF, p. 122"
-  },
-  "greatbow": { "url": "weapons-of-war/greatbow", "page": "RH, p. 135" },
-  "trampling hooves": {
-    "url": "weapons-of-war/trampling-hooves",
-    "page": "CD, p. 12"
-  },
-  "handmaiden's spear": {
-    "url": "weapons-of-war/handmaidens-spear",
-    "page": "FoF, p. 159"
-  },
-  "fumes of contagion": {
-    "url": "weapons-of-war/fumes-of-contagion",
-    "page": "RH, p. 74, AJ:WoC, p. 37"
-  },
-  "bonegrinder giant's club": {
-    "url": "weapons-of-war/bonegrinder-giants-club",
-    "page": "AJ:O&GT, p. 42"
-  },
-  "huge gob": { "url": "weapons-of-war/huge-gob", "page": "RH, p. 27 & 32" },
-  "filth-encrusted claws": {
-    "url": "weapons-of-war/filth-encrusted-claws",
-    "page": "VC, p. 11"
-  },
-  "horns of stone": {
-    "url": "weapons-of-war/horns-of-stone",
-    "page": "OK, p. 7 & 15"
-  },
-  "lash of khorne": {
-    "url": "weapons-of-war/lash-of-khorne",
-    "page": "DoC, p. 3"
-  },
-  "oaken fists": { "url": "weapons-of-war/oaken-fists", "page": "FoF, p. 124" },
-  "slashing talons warriors of chaos": {
-    "url": "weapons-of-war/slashing-talons-warriors-of-chaos",
-    "page": "AJ:WoC, p. 43"
-  },
-  "goring horns": { "url": "weapons-of-war/goring-horns", "page": "CD, p. 12" },
-  "lash & buckler": {
-    "url": "weapons-of-war/lash-and-buckler",
-    "page": "DE, p. 12"
-  },
-  "gromril great axe": {
-    "url": "weapons-of-war/gromril-great-axe",
-    "page": "AJ:DMH, p. 42"
-  },
-  "writhing tail": {
-    "url": "weapons-of-war/writhing-tail",
-    "page": "RH, p. 140"
-  },
-  "flaming breath warriors of chaos": {
-    "url": "weapons-of-war/flaming-breath-warriors-of-chaos",
-    "page": "RH, p. 75"
-  },
-  "troll vomit": {
-    "url": "weapons-of-war/troll-vomit",
-    "page": "RH, p. 28 & 65, AJ:O&GT, p. 39"
-  },
-  "plague censer": {
-    "url": "weapons-of-war/plague-censer",
-    "page": "SK, p. 6 & 14"
-  },
-  "eagle-eye bolt thrower": {
-    "url": "weapons-of-war/eagle-eye-bolt-thrower",
-    "page": "FoF, p. 172"
-  },
-  "burning braziers": {
-    "url": "weapons-of-war/burning-braziers",
-    "page": "FoF, p. 93"
-  },
-  "serrated maw": {
-    "url": "weapons-of-war/serrated-maw",
-    "page": "DE, p. 18, FoF, p. 70, 100, 138, 139, 173 & 177"
-  },
-  "razor barbs": { "url": "weapons-of-war/razor-barbs", "page": "LM, p. 9" },
-  "drakegun": { "url": "weapons-of-war/drakegun", "page": "FoF, p. 24" },
-  "petrifying gaze": {
-    "url": "weapons-of-war/petrifying-gaze",
-    "page": "RH, p. 106 & 140, DE, p. 17 & 20"
-  },
-  "ravager harpoon": {
-    "url": "weapons-of-war/ravager-harpoon",
-    "page": "DE, p. 16"
-  },
-  "gnashing maws": {
-    "url": "weapons-of-war/gnashing-maws",
-    "page": "AJ:WoC, p. 43"
-  },
-  "cinderblast bombs": {
-    "url": "weapons-of-war/cinderblast-bombs",
-    "page": "FoF, p. 25"
-  },
-  "defensive stakes": {
-    "url": "weapons-of-war/defensive-stakes",
-    "page": "FoF, p. 93"
-  },
-  "great tusks": {
-    "url": "weapons-of-war/great-tusks",
-    "page": "OK, p. 7 & 16"
-  },
-  "breath of desiccation": {
-    "url": "weapons-of-war/breath-of-desiccation",
-    "page": "RH, p. 142"
-  },
-  "fiend tail": { "url": "weapons-of-war/fiend-tail", "page": "RH, p. 75" },
-  "helblaster volley gun": {
-    "url": "unit/helblaster-volley-gun",
-    "stats": [
-      {
-        "A": "-",
-        "I": "-",
-        "M": "-",
-        "S": "-",
-        "T": "6",
-        "W": "3",
-        "BS": "-",
-        "Ld": "-",
-        "WS": "-",
-        "Name": "Helblaster Volley Gun"
-      },
-      {
-        "A": "3",
-        "I": "3",
-        "M": "4",
-        "S": "3",
-        "T": "3",
-        "W": "3",
-        "BS": "3",
-        "Ld": "7",
-        "WS": "3",
-        "Name": "Gun Crew"
-      }
-    ],
-    "troopType": "WM",
-    "page": "FoF, p. 72"
-  },
-  "bow of avelorn": {
-    "url": "weapons-of-war/bow-of-avelorn",
-    "page": "FoF, p. 187"
-  },
-  "hand weapon": { "url": "weapons-of-war/hand-weapon", "page": "RB, p. 213" },
-  "strangleroots": {
-    "url": "weapons-of-war/strangleroots",
-    "page": "FoF, p. 124"
-  },
-  "doom-flayer": { "url": "weapons-of-war/doom-flayer", "page": "SK, p. 9" },
-  "pestilential breath": {
-    "url": "weapons-of-war/pestilential-breath",
-    "page": "VC, p. 20"
-  },
-  "brass bound hooves": {
-    "url": "weapons-of-war/brass-bound-hooves",
-    "page": "DoC, p. 4"
   },
   "goblin-hewer": {
     "url": "unit/goblin-hewer",
@@ -1849,21 +49,8 @@
     "troopType": "WM",
     "page": "AJ:DMH, p. 46"
   },
-  "mace tail": { "url": "weapons-of-war/mace-tail", "page": "CD, p. 13" },
-  "wicked claws": {
-    "url": "weapons-of-war/wicked-claws",
-    "page": "RH, p. 35, 73, 74, 104, 142 & 143, DE, p. 18, 19 & 20, FoF, p. 56, 66, 70, 100, 127, 137, 138, 139, 158, 172, 173, 174, 175, 176 & 177, LM, p. 9, OK, p. 19, VC, p. 12, 20 & 22, AJ:WoC, p. 37 & 45"
-  },
-  "fireleech bolas": {
-    "url": "weapons-of-war/fireleech-bolas",
-    "page": "LM, p. 10"
-  },
-  "acidic vomit": {
-    "url": "weapons-of-war/acidic-vomit",
-    "page": "RH, p. 106"
-  },
-  "helstorm rocket battery": {
-    "url": "unit/helstorm-rocket-battery",
+  "helblaster volley gun": {
+    "url": "unit/helblaster-volley-gun",
     "stats": [
       {
         "A": "-",
@@ -1875,7 +62,7 @@
         "BS": "-",
         "Ld": "-",
         "WS": "-",
-        "Name": "Helstorm Rocket Battery"
+        "Name": "Helblaster Volley Gun"
       },
       {
         "A": "3",
@@ -1891,20 +78,7 @@
       }
     ],
     "troopType": "WM",
-    "page": "FoF, p. 73"
-  },
-  "envenomed sting": {
-    "url": "weapons-of-war/envenomed-sting",
-    "page": "RH, p. 143"
-  },
-  "doomfire": { "url": "weapons-of-war/doomfire", "page": "RH, p. 76" },
-  "poisoned wind mortar": {
-    "url": "weapons-of-war/poisoned-wind-mortar",
-    "page": "SK, p. 9"
-  },
-  "venomous tail": {
-    "url": "weapons-of-war/venomous-tail",
-    "page": "DoC, p. 16, DE, p. 19, RH, p. 35 & 73"
+    "page": "FoF, p. 72"
   },
   "field trebuchet": {
     "url": "unit/field-trebuchet",
@@ -1937,134 +111,37 @@
     "troopType": "WM",
     "page": "FoF, p. 101"
   },
-  "trollhammer torpedo": {
-    "url": "weapons-of-war/trollhammer-torpedo",
-    "page": "FoF, p. 25"
+  "helstorm rocket battery": {
+    "url": "unit/helstorm-rocket-battery",
+    "stats": [
+      {
+        "A": "-",
+        "I": "-",
+        "M": "-",
+        "S": "-",
+        "T": "6",
+        "W": "3",
+        "BS": "-",
+        "Ld": "-",
+        "WS": "-",
+        "Name": "Helstorm Rocket Battery"
+      },
+      {
+        "A": "3",
+        "I": "3",
+        "M": "4",
+        "S": "3",
+        "T": "3",
+        "W": "3",
+        "BS": "3",
+        "Ld": "7",
+        "WS": "3",
+        "Name": "Gun Crew"
+      }
+    ],
+    "troopType": "WM",
+    "page": "FoF, p. 73"
   },
-  "slashing talons lizardmen": {
-    "url": "weapons-of-war/slashing-talons-lizardmen",
-    "page": "LM, p. 12"
-  },
-  "noxious breath": {
-    "url": "weapons-of-war/noxious-breath",
-    "page": "DE, p. 18"
-  },
-  "filth-encrusted talons": {
-    "url": "weapons-of-war/filth-encrusted-talons",
-    "page": "VC, p. 21"
-  },
-  "hurl attack": { "url": "weapons-of-war/hurl-attack", "page": "RH, p. 107" },
-  "two hand weapons": {
-    "url": "weapons-of-war/two-hand-weapons-additional-hand-weapon",
-    "page": "RB, p. 213"
-  },
-  "additional hand weapon": {
-    "url": "weapons-of-war/two-hand-weapons-additional-hand-weapon",
-    "page": "RB, p. 213"
-  },
-  "sorcerous exhalation": {
-    "url": "weapons-of-war/sorcerous-exhalation",
-    "page": "CD, p. 13"
-  },
-  "mighty antlers": {
-    "url": "weapons-of-war/mighty-antlers",
-    "page": "FoF, p. 126"
-  },
-  "ceremonial halberd": {
-    "url": "weapons-of-war/ceremonial-halberd",
-    "page": "FoF, p. 187"
-  },
-  "chill breath": {
-    "url": "weapons-of-war/chill-breath",
-    "page": "OK, p. 7 & 16"
-  },
-  "cannon of khorne": {
-    "url": "weapons-of-war/cannon-of-khorne",
-    "page": "DoC, p. 8"
-  },
-  "asrai spear": { "url": "weapons-of-war/asrai-spear", "page": "FoF, p. 129" },
-  "great horns": { "url": "weapons-of-war/great-horns", "page": "LM, p. 13" },
-  "cleaver-limbs": {
-    "url": "weapons-of-war/cleaver-limbs",
-    "page": "RH, p. 110"
-  },
-  "demolition rockets": {
-    "url": "weapons-of-war/demolition-rockets",
-    "page": "CD, p. 14"
-  },
-  "venom surge": { "url": "weapons-of-war/venom-surge", "page": "RH, p. 35" },
-  "fiery roar": { "url": "weapons-of-war/fiery-roar", "page": "RH, p. 143" },
-  "flail": { "url": "weapons-of-war/flail", "page": "RB, p. 214" },
-  "bilesword": { "url": "weapons-of-war/bilesword", "page": "DoC, p. 9" },
-  "blasting charges": {
-    "url": "weapons-of-war/blasting-charges",
-    "page": "FoF, p. 26"
-  },
-  "ratling gun": { "url": "weapons-of-war/ratling-gun", "page": "SK, p. 9" },
-  "serrated maws": {
-    "url": "weapons-of-war/serrated-maws",
-    "page": "DE, p. 20"
-  },
-  "grenade launching blunderbuss": {
-    "url": "weapons-of-war/grenade-launching-blunderbuss",
-    "page": "FoF, p. 77"
-  },
-  "rancid maw": { "url": "weapons-of-war/rancid-maw", "page": "VC, p. 21" },
-  "leadbelcher gun": {
-    "url": "weapons-of-war/leadbelcher-gun",
-    "page": "OK, p. 9"
-  },
-  "chracian great blade": {
-    "url": "weapons-of-war/chracian-great-blade",
-    "page": "FoF, p. 187"
-  },
-  "ranger's glaive": {
-    "url": "weapons-of-war/rangers-glaive",
-    "page": "FoF, p. 130"
-  },
-  "great weapon": {
-    "url": "weapons-of-war/great-weapon",
-    "page": "RB, p. 214"
-  },
-  "poisonous tail": {
-    "url": "weapons-of-war/poisonous-tail",
-    "page": "VC, p. 22"
-  },
-  "spidersilk lobber": {
-    "url": "weapons-of-war/spidersilk-lobber",
-    "page": "RH, p. 35"
-  },
-  "grimfrost weapon": {
-    "url": "weapons-of-war/grimfrost-weapon",
-    "page": "OK, p. 11"
-  },
-  "infernal incendiaries": {
-    "url": "weapons-of-war/infernal-incendiaries",
-    "page": "CD, p. 14"
-  },
-  "hochland long rifle": {
-    "url": "weapons-of-war/hochland-long-rifle",
-    "page": "FoF, p. 77"
-  },
-  "plagueflail": { "url": "weapons-of-war/plagueflail", "page": "DoC, p. 9" },
-  "sword of hoeth": {
-    "url": "weapons-of-war/sword-of-hoeth",
-    "page": "FoF, p. 187"
-  },
-  "fiery breath dark elves": {
-    "url": "weapons-of-war/fiery-breath-dark-elves",
-    "page": "DE, p. 20"
-  },
-  "warpfire thrower": {
-    "url": "weapons-of-war/warpfire-thrower",
-    "page": "SK, p. 9"
-  },
-  "decapitating claws": {
-    "url": "weapons-of-war/decapitating-claws",
-    "page": "RH, p. 144"
-  },
-  "giant bow": { "url": "weapons-of-war/giant-bow", "page": "LM, p. 13" },
-  "steam drill": { "url": "weapons-of-war/steam-drill", "page": "FoF, p. 26" },
   "dreadquake mortar": {
     "url": "unit/dreadquake-mortar",
     "stats": [
@@ -2108,116 +185,6 @@
     "troopType": "WM",
     "page": "CD, p. 15"
   },
-  "cavernous maw": {
-    "url": "weapons-of-war/cavernous-maw",
-    "page": "DE, p. 21"
-  },
-  "steam gun dwarfs": {
-    "url": "weapons-of-war/steam-gun-dwarfs",
-    "page": "FoF, p. 28"
-  },
-  "halberd": { "url": "weapons-of-war/halberd", "page": "RB, p. 214" },
-  "blackbriar javelin": {
-    "url": "weapons-of-war/blackbriar-javelin",
-    "page": "FoF, p. 135"
-  },
-  "pigeon bombs": {
-    "url": "weapons-of-war/pigeon-bombs",
-    "page": "FoF, p. 77"
-  },
-  "paired great khopeshes": {
-    "url": "weapons-of-war/paired-great-khopeshes",
-    "page": "RH, p. 145"
-  },
-  "writhing tentacles daemons of chaos": {
-    "url": "weapons-of-war/writhing-tentacles-daemons-of-chaos",
-    "page": "DoC, p. 11"
-  },
-  "monstrous tusks": {
-    "url": "weapons-of-war/monstrous-tusks",
-    "page": "OK, p. 12"
-  },
-  "warp grinder": { "url": "weapons-of-war/warp-grinder", "page": "SK, p. 9" },
-  "giant blowpipes": {
-    "url": "weapons-of-war/giant-blowpipes",
-    "page": "LM, p. 13"
-  },
-  "colossal fang-filled gob": {
-    "url": "weapons-of-war/colossal-fang-filled-gob",
-    "page": "RH, p. 37"
-  },
-  "giant's club": {
-    "url": "weapons-of-war/giants-club",
-    "page": "RH, p. 39 & 109, OK, p. 18"
-  },
-  "writhing tentacles dark elves": {
-    "url": "weapons-of-war/writhing-tentacles-dark-elves",
-    "page": "DE, p. 21"
-  },
-  "morning star": {
-    "url": "weapons-of-war/morning-star",
-    "page": "RB, p. 214"
-  },
-  "blood of hashut": {
-    "url": "weapons-of-war/blood-of-hashut",
-    "page": "CD, p. 22"
-  },
-  "hunting spear": {
-    "url": "weapons-of-war/hunting-spear",
-    "page": "FoF, p. 136"
-  },
-  "doom diver": { "url": "weapons-of-war/doom-diver", "page": "RH, p. 40" },
-  "warplock jezzail": {
-    "url": "weapons-of-war/warplock-jezzail",
-    "page": "SK, p. 10"
-  },
-  "brimstone gun": {
-    "url": "weapons-of-war/brimstone-gun",
-    "page": "FoF, p. 28"
-  },
-  "thunderous bludgeon": {
-    "url": "weapons-of-war/thunderous-bludgeon",
-    "page": "LM, p. 14"
-  },
-  "cleaving blades": {
-    "url": "weapons-of-war/cleaving-blades",
-    "page": "RH, p. 146"
-  },
-  "cannon of the sky-titans": {
-    "url": "weapons-of-war/cannon-of-the-sky-titans",
-    "page": "OK, p. 13"
-  },
-  "whip": { "url": "weapons-of-war/whip", "page": "RB, p. 214" },
-  "soporific breath": {
-    "url": "weapons-of-war/soporific-breath",
-    "page": "FoF, p. 138"
-  },
-  "darkforged weapon": {
-    "url": "weapons-of-war/darkforged-weapon",
-    "page": "CD, p. 22"
-  },
-  "venomous talons": {
-    "url": "weapons-of-war/venomous-talons",
-    "page": "LM, p. 15"
-  },
-  "decapitating strike": {
-    "url": "weapons-of-war/decapitating-strike",
-    "page": "RH, p. 146"
-  },
-  "venom sting": { "url": "weapons-of-war/venom-sting", "page": "DoC, p. 12" },
-  "scraplauncher catapult": {
-    "url": "weapons-of-war/scraplauncher-catapult",
-    "page": "OK, p. 14"
-  },
-  "poisoned wind globes": {
-    "url": "weapons-of-war/poisoned-wind-globes",
-    "page": "SK, p. 10"
-  },
-  "clattergun": {
-    "url": "weapons-of-war/clattergun",
-    "page": "FoF, p. 28, AJ:DMH, p. 37, AJ:DMH, p. 44"
-  },
-  "venom spray": { "url": "weapons-of-war/venom-spray", "page": "LM, p. 15" },
   "screaming skull catapult": {
     "url": "unit/screaming-skull-catapult",
     "stats": [
@@ -2248,71 +215,6 @@
     ],
     "troopType": "WM",
     "page": "RH, p. 147"
-  },
-  "asrai longbow": {
-    "url": "weapons-of-war/asrai-longbow",
-    "page": "FoF, p. 147"
-  },
-  "fireglaive": { "url": "weapons-of-war/fireglaive", "page": "CD, p. 22" },
-  "things-catcher": {
-    "url": "weapons-of-war/things-catcher",
-    "page": "SK, p. 11"
-  },
-  "chaintrap": { "url": "weapons-of-war/chaintrap", "page": "OK, p. 15 & 16" },
-  "impaling claws": {
-    "url": "weapons-of-war/impaling-claws",
-    "page": "DoC, p. 13"
-  },
-  "enchanted arrows": {
-    "url": "weapons-of-war/enchanted-arrows",
-    "page": "FoF, p. 147"
-  },
-  "billowing death": {
-    "url": "weapons-of-war/billowing-death",
-    "page": "SK, p. 16"
-  },
-  "blood vulture": {
-    "url": "weapons-of-war/blood-vulture",
-    "page": "OK, p. 15 & 16"
-  },
-  "lance": { "url": "weapons-of-war/lance", "page": "RB, p. 215" },
-  "tzeentchian wand": {
-    "url": "weapons-of-war/tzeentchian-wand",
-    "page": "DoC, p. 18"
-  },
-  "hailshot blunderbuss": {
-    "url": "weapons-of-war/hailshot-blunderbuss",
-    "page": "CD, p. 22"
-  },
-  "arcane bodkins": {
-    "url": "weapons-of-war/arcane-bodkins",
-    "page": "FoF, p. 147"
-  },
-  "cavalry spear": {
-    "url": "weapons-of-war/cavalry-spear",
-    "page": "RB, p. 215"
-  },
-  "warpstone claws": {
-    "url": "weapons-of-war/warpstone-claws",
-    "page": "SK, p. 18"
-  },
-  "naptha bombs": { "url": "weapons-of-war/naptha-bombs", "page": "CD, p. 22" },
-  "distensible jaw": {
-    "url": "weapons-of-war/distensible-jaw",
-    "page": "OK, p. 19"
-  },
-  "warpflame": { "url": "weapons-of-war/warpflame", "page": "DoC, p. 23" },
-  "ensorcelled weapon": {
-    "url": "weapons-of-war/ensorcelled-weapon",
-    "page": "DoC, p. 24"
-  },
-  "harpoon launcher": {
-    "url": "weapons-of-war/harpoon-launcher",
-    "page": "OK, p. 26"
-  },
-  "throwing spear": {
-    "url": "weapons-of-war/throwing-spear",
-    "page": "RB, p. 215"
   },
   "warp lightning cannon": {
     "url": "unit/warp-lightning-cannon",
@@ -2345,26 +247,6 @@
     "troopType": "WM",
     "page": "SK, p. 19"
   },
-  "hagbane tips": {
-    "url": "weapons-of-war/hagbane-tips",
-    "page": "FoF, p. 147"
-  },
-  "daemonic talons": {
-    "url": "weapons-of-war/daemonic-talons",
-    "page": "DoC, p. 25"
-  },
-  "ironfist": {
-    "url": "weapons-of-war/ironfist",
-    "page": "OK, p. 26, AJ:O&GT, p. 40"
-  },
-  "thrusting spear": {
-    "url": "weapons-of-war/thrusting-spear",
-    "page": "RB, p. 215"
-  },
-  "moonfire shot": {
-    "url": "weapons-of-war/moonfire-shot",
-    "page": "FoF, p. 147"
-  },
   "plagueclaw catapult": {
     "url": "unit/plagueclaw-catapult",
     "stats": [
@@ -2395,1921 +277,6 @@
     ],
     "troopType": "WM",
     "page": "SK, p. 19"
-  },
-  "ogre pistol": { "url": "weapons-of-war/ogre-pistol", "page": "OK, p. 26" },
-  "swiftshiver shards": {
-    "url": "weapons-of-war/swiftshiver-shards",
-    "page": "FoF, p. 147"
-  },
-  "iron claw": { "url": "weapons-of-war/iron-claw", "page": "DoC, p. 26" },
-  "brace of ogre pistols": {
-    "url": "weapons-of-war/brace-of-ogre-pistols",
-    "page": "OK, p. 26"
-  },
-  "trueflight arrows": {
-    "url": "weapons-of-war/trueflight-arrows",
-    "page": "FoF, p. 147"
-  },
-  "harvester cannon": {
-    "url": "weapons-of-war/harvester-cannon",
-    "page": "DoC, p. 26"
-  },
-  "baleful torrent": {
-    "url": "weapons-of-war/baleful-torrent",
-    "page": "DoC, p. 26"
-  },
-  "warp gaze": { "url": "weapons-of-war/warp-gaze", "page": "DoC, p. 26" },
-  "longbow": { "url": "weapons-of-war/longbow", "page": "RB, p. 216" },
-  "hellblade": { "url": "weapons-of-war/hellblade", "page": "DoC, p. 35" },
-  "shortbow": { "url": "weapons-of-war/shortbow", "page": "RB, p. 216" },
-  "plaguesword": { "url": "weapons-of-war/plaguesword", "page": "DoC, p. 35" },
-  "warbow": { "url": "weapons-of-war/warbow", "page": "RB, p. 216" },
-  "death's heads": {
-    "url": "weapons-of-war/deaths-heads",
-    "page": "DoC, p. 35"
-  },
-  "handgun": { "url": "weapons-of-war/handgun", "page": "RB, p. 217" },
-  "piercing claws": {
-    "url": "weapons-of-war/piercing-claws",
-    "page": "DoC, p. 35"
-  },
-  "flames of tzeentch": {
-    "url": "weapons-of-war/flames-of-tzeentch",
-    "page": "DoC, p. 35"
-  },
-  "pistol": { "url": "weapons-of-war/pistol", "page": "RB, p. 217" },
-  "lamprey's bite": {
-    "url": "weapons-of-war/lampreys-bite",
-    "page": "DoC, p. 35"
-  },
-  "brace of pistols": {
-    "url": "weapons-of-war/brace-of-pistols",
-    "page": "RB, p. 217"
-  },
-  "repeater handgun": {
-    "url": "weapons-of-war/repeater-handgun",
-    "page": "RB, p. 217"
-  },
-  "repeater pistol": {
-    "url": "weapons-of-war/repeater-pistol",
-    "page": "RB, p. 217"
-  },
-  "crossbow": { "url": "weapons-of-war/crossbow", "page": "RB, p. 218" },
-  "repeater crossbow": {
-    "url": "weapons-of-war/repeater-crossbow",
-    "page": "RB, p. 218"
-  },
-  "repeater handbow": {
-    "url": "weapons-of-war/repeater-handbow",
-    "page": "RB, p. 218"
-  },
-  "brace of repeater handbows": {
-    "url": "weapons-of-war/brace-of-repeater-handbows",
-    "page": "RB, p. 218"
-  },
-  "throwing weapons": {
-    "url": "weapons-of-war/throwing-weapons",
-    "page": "RB, p. 219"
-  },
-  "javelin": { "url": "weapons-of-war/javelin", "page": "RB, p. 219" },
-  "sling": { "url": "weapons-of-war/sling", "page": "RB, p. 219" },
-  "throwing axe": {
-    "url": "weapons-of-war/throwing-axe",
-    "page": "RB, p. 219"
-  },
-  "warpfire blast": {
-    "url": "weapons-of-war/warpfire-blast",
-    "page": "AJ:WoC, p. 45"
-  },
-  "light armour": {
-    "url": "weapons-of-war/light-armour",
-    "page": "RB, p. 220"
-  },
-  "heavy armour": {
-    "url": "weapons-of-war/heavy-armour",
-    "page": "RB, p. 220"
-  },
-  "full plate armour": {
-    "url": "weapons-of-war/full-plate-armour",
-    "page": "RB, p. 220"
-  },
-  "shield": { "url": "weapons-of-war/shield", "page": "RB, p. 221" },
-  "barding": { "url": "weapons-of-war/barding", "page": "RB, p. 221" },
-  "bolt thrower": { "url": "war-machines/bolt-throwers", "page": "RB, p. 223" },
-  "stone thrower": {
-    "url": "war-machines/stone-throwers",
-    "page": "RB, p. 224"
-  },
-  "cannon": { "url": "war-machines/cannon", "page": "RB, p. 226" },
-  "mortar": { "url": "war-machines/mortars", "page": "RB, p. 228" },
-  "fire thrower": { "url": "war-machines/fire-throwers", "page": "RB, p. 229" },
-  "lore of hashut": {
-    "url": "the-lores-of-magic/lore-of-hashut",
-    "page": "CD, p. 21"
-  },
-  "lore of nehekhara": {
-    "url": "the-lores-of-magic/lore-of-nehekhara",
-    "page": "RH, p. 155"
-  },
-  "lore of chaos": {
-    "url": "the-lores-of-magic/lore-of-chaos",
-    "page": "RH, p. 83"
-  },
-  "lore of the horned rat": {
-    "url": "the-lores-of-magic/lore-of-the-horned-rat",
-    "page": "SK, p. 24"
-  },
-  "lore of the lady": {
-    "url": "the-lores-of-magic/lore-of-the-lady",
-    "page": "FoF, p. 109"
-  },
-  "lore of daemons": {
-    "url": "the-lores-of-magic/lore-of-daemons",
-    "page": "DoC, p. 34"
-  },
-  "lore of naggaroth": {
-    "url": "the-lores-of-magic/lore-of-naggaroth",
-    "page": "DE, p. 26"
-  },
-  "lore of the great maw": {
-    "url": "the-lores-of-magic/lore-of-the-great-maw",
-    "page": "OK, p. 25"
-  },
-  "lore of lustria": {
-    "url": "the-lores-of-magic/lore-of-lustria",
-    "page": "LM, p. 21"
-  },
-  "lore of athel loren": {
-    "url": "the-lores-of-magic/lore-of-athel-loren",
-    "page": "FoF, p. 146"
-  },
-  "lore of gork": {
-    "url": "the-lores-of-magic/lore-of-gork",
-    "page": "RH, p. 47"
-  },
-  "lore of undeath": {
-    "url": "the-lores-of-magic/lore-of-undeath",
-    "page": "VC, p. 29"
-  },
-  "lore of beasts": {
-    "url": "the-lores-of-magic/lore-of-beasts",
-    "page": "RH, p. 117"
-  },
-  "lore of saphery": {
-    "url": "the-lores-of-magic/lore-of-saphery",
-    "page": "FoF, p. 186"
-  },
-  "lore of mork": {
-    "url": "the-lores-of-magic/lore-of-mork",
-    "page": "RH, p. 47"
-  },
-  "lore of troll magic": {
-    "url": "the-lores-of-magic/lore-of-troll-magic",
-    "page": "AJ:O&GT, p. 44"
-  },
-  "battle magic": {
-    "url": "the-lores-of-magic/battle-magic",
-    "page": "RB, p. 320"
-  },
-  "daemonology": {
-    "url": "the-lores-of-magic/daemonology",
-    "page": "RB, p. 322"
-  },
-  "dark magic": {
-    "url": "the-lores-of-magic/dark-magic",
-    "page": "RB, p. 324"
-  },
-  "elementalism": {
-    "url": "the-lores-of-magic/elementalism",
-    "page": "RB, p. 326"
-  },
-  "high magic": {
-    "url": "the-lores-of-magic/high-magic",
-    "page": "RB, p. 328"
-  },
-  "illusion": { "url": "the-lores-of-magic/illusion", "page": "RB, p. 330" },
-  "necromancy": {
-    "url": "the-lores-of-magic/necromancy",
-    "page": "RB, p. 332"
-  },
-  "waaagh! magic": {
-    "url": "the-lores-of-magic/waaagh-magic",
-    "page": "RB, p. 334"
-  },
-  "'eadbuttin' 'at": { "url": "magic-item/eadbuttin-at", "page": "RH, p. 44" },
-  "a befuddlement of mischiefs": {
-    "url": "magic-item/a-befuddlement-of-mischiefs",
-    "page": "FoF, p. 141"
-  },
-  "a blight of terrors": {
-    "url": "magic-item/a-blight-of-terrors",
-    "page": "FoF, p. 141"
-  },
-  "a lamentation of despairs": {
-    "url": "magic-item/a-lamentation-of-despairs",
-    "page": "FoF, p. 141"
-  },
-  "a murder of spites": {
-    "url": "magic-item/a-murder-of-spites",
-    "page": "FoF, p. 141"
-  },
-  "a muster of malevolents": {
-    "url": "magic-item/a-muster-of-malevolents",
-    "page": "FoF, p. 141"
-  },
-  "a resplendence of luminescents": {
-    "url": "magic-item/a-resplendence-of-luminescents",
-    "page": "FoF, p. 141"
-  },
-  "acid ichor": { "url": "magic-item/acid-ichor", "page": "RH, p. 77" },
-  "æther blade": { "url": "magic-item/aether-blade", "page": "DoC, p. 27" },
-  "allure of slaanesh": {
-    "url": "magic-item/allure-of-slaanesh",
-    "page": "DoC, p. 30"
-  },
-  "amulet of the serpent": {
-    "url": "magic-item/amulet-of-the-serpent",
-    "page": "AJ:TKoK, p. 47"
-  },
-  "an annoyance of netlings": {
-    "url": "magic-item/an-annoyance-of-netlings",
-    "page": "FoF, p. 141"
-  },
-  "annulian crystal": {
-    "url": "magic-item/annulian-crystal",
-    "page": "FoF, p. 183"
-  },
-  "anointed armour": {
-    "url": "magic-item/anointed-armour",
-    "page": "AJ:KoB, p. 47"
-  },
-  "anointed of asuryan": {
-    "url": "magic-item/anointed-of-asuryan",
-    "page": "FoF, p. 179"
-  },
-  "antlers of the great hunt": {
-    "url": "magic-item/antlers-of-the-great-hunt",
-    "page": "FoF, p. 106"
-  },
-  "arcane familiar": {
-    "url": "magic-item/arcane-familiar",
-    "page": "RB, p. 343"
-  },
-  "armour of bazherak the cruel": {
-    "url": "magic-item/armour-of-bazherak-the-cruel",
-    "page": "CD, p. 18"
-  },
-  "armour of caledor": {
-    "url": "magic-item/armour-of-caledor",
-    "page": "FoF, p. 182"
-  },
-  "armour of destiny": {
-    "url": "magic-item/armour-of-destiny",
-    "page": "RB, p. 340"
-  },
-  "armour of fortune": {
-    "url": "magic-item/armour-of-fortune",
-    "page": "FoF, p. 75"
-  },
-  "armour of khorne": {
-    "url": "magic-item/armour-of-khorne",
-    "page": "DoC, p. 28"
-  },
-  "armour of meteoric iron": {
-    "url": "magic-item/armour-of-meteoric-iron",
-    "page": "RB, p. 340"
-  },
-  "armour of mork": { "url": "magic-item/armour-of-mork", "page": "RH, p. 43" },
-  "armour of silvered steel": {
-    "url": "magic-item/armour-of-silvered-steel",
-    "page": "RB, p. 340"
-  },
-  "armour of tarnus": {
-    "url": "magic-item/armour-of-tarnus",
-    "page": "FoF, p. 75"
-  },
-  "armour of the ages": {
-    "url": "magic-item/armour-of-the-ages",
-    "page": "RH, p. 151"
-  },
-  "armour of the damned": {
-    "url": "magic-item/armour-of-the-damned",
-    "page": "RH, p. 79"
-  },
-  "ashen banner": { "url": "magic-item/ashen-banner", "page": "CD, p. 18" },
-  "asyendi's bane": {
-    "url": "magic-item/asyendis-bane",
-    "page": "FoF, p. 142"
-  },
-  "aura of pain": { "url": "magic-item/aura-of-pain", "page": "RH, p. 77" },
-  "aura of quetzl": { "url": "magic-item/aura-of-quetzl", "page": "LM, p. 18" },
-  "axe of khorne": { "url": "magic-item/axe-of-khorne", "page": "DoC, p. 28" },
-  "axe of men": { "url": "magic-item/axe-of-men", "page": "RH, p. 112" },
-  "backstabber's blade": {
-    "url": "magic-item/backstabbers-blade",
-    "page": "AJ:O&GT, p. 46"
-  },
-  "banner of acquiescence": {
-    "url": "magic-item/banner-of-acquiescence",
-    "page": "DoC, p. 30"
-  },
-  "banner of arcane protection": {
-    "url": "magic-item/banner-of-arcane-protection",
-    "page": "FoF, p. 182"
-  },
-  "banner of châlons": {
-    "url": "magic-item/banner-of-chalons",
-    "page": "FoF, p. 105"
-  },
-  "banner of change": {
-    "url": "magic-item/banner-of-change",
-    "page": "DoC, p. 31"
-  },
-  "banner of discord": {
-    "url": "magic-item/banner-of-discord",
-    "page": "DoC, p. 31"
-  },
-  "banner of duty": {
-    "url": "magic-item/banner-of-duty",
-    "page": "FoF, p. 75"
-  },
-  "banner of ellyrion": {
-    "url": "magic-item/banner-of-ellyrion",
-    "page": "FoF, p. 182"
-  },
-  "banner of har ganeth": {
-    "url": "magic-item/banner-of-har-ganeth",
-    "page": "DE, p. 23"
-  },
-  "banner of honourable warfare": {
-    "url": "magic-item/banner-of-honourable-warfare",
-    "page": "AJ:KoB, p. 47"
-  },
-  "banner of iron resolve": {
-    "url": "magic-item/banner-of-iron-resolve",
-    "page": "RB, p. 341"
-  },
-  "banner of midsummer's eve": {
-    "url": "magic-item/banner-of-midsummers-eve",
-    "page": "FoF, p. 143"
-  },
-  "banner of nagarythe": {
-    "url": "magic-item/banner-of-nagarythe",
-    "page": "DE, p. 23"
-  },
-  "banner of outrage": {
-    "url": "magic-item/banner-of-outrage",
-    "page": "RH, p. 113"
-  },
-  "banner of rage": { "url": "magic-item/banner-of-rage", "page": "RH, p. 79" },
-  "banner of the barrows": {
-    "url": "magic-item/banner-of-the-barrows",
-    "page": "VC, p. 25"
-  },
-  "banner of the baying hound": {
-    "url": "magic-item/banner-of-the-baying-hound",
-    "page": "AJ:WoC, p. 47"
-  },
-  "banner of the dark powers": {
-    "url": "magic-item/banner-of-the-dark-powers",
-    "page": "AJ:WoC, p. 47"
-  },
-  "banner of the desert winds": {
-    "url": "magic-item/banner-of-the-desert-winds",
-    "page": "AJ:TKoK, p. 47"
-  },
-  "banner of the eternal queen": {
-    "url": "magic-item/banner-of-the-eternal-queen",
-    "page": "FoF, p. 143"
-  },
-  "banner of the gods": {
-    "url": "magic-item/banner-of-the-gods",
-    "page": "RH, p. 79"
-  },
-  "banner of the hunter king": {
-    "url": "magic-item/banner-of-the-hunter-king",
-    "page": "FoF, p. 143"
-  },
-  "banner of the lady's grace": {
-    "url": "magic-item/banner-of-the-ladys-grace",
-    "page": "AJ:KoB, p. 47"
-  },
-  "banner of the wildwood": {
-    "url": "magic-item/banner-of-the-wildwood",
-    "page": "FoF, p. 143"
-  },
-  "banner of the wildz": {
-    "url": "magic-item/banner-of-the-wildz",
-    "page": "AJ:O&GT, p. 47"
-  },
-  "banner of the zealous knight": {
-    "url": "magic-item/banner-of-the-zealous-knight",
-    "page": "AJ:KoB, p. 47"
-  },
-  "banner of unholy victory": {
-    "url": "magic-item/banner-of-unholy-victory",
-    "page": "DoC, p. 27"
-  },
-  "banner of verminous scurrying": {
-    "url": "magic-item/banner-of-verminous-scurrying",
-    "page": "SK, p. 21"
-  },
-  "battle banner": { "url": "magic-item/battle-banner", "page": "FoF, p. 182" },
-  "battleaxe of the last big waaagh!": {
-    "url": "magic-item/battleaxe-of-the-last-big-waaagh",
-    "page": "RH, p. 42"
-  },
-  "beastkiller": { "url": "magic-item/beastkiller", "page": "OK, p. 20" },
-  "becalming cogitation": {
-    "url": "magic-item/becalming-cogitation",
-    "page": "LM, p. 16"
-  },
-  "bedazzling helm": {
-    "url": "magic-item/bedazzling-helm",
-    "page": "RB, p. 340"
-  },
-  "beguile": { "url": "magic-item/beguile", "page": "VC, p. 23" },
-  "berserker blade": {
-    "url": "magic-item/berserker-blade",
-    "page": "RB, p. 339"
-  },
-  "big boss 'at": { "url": "magic-item/big-boss-at", "page": "RH, p. 44" },
-  "bigger, choppier axe": {
-    "url": "magic-item/bigger-choppier-axe",
-    "page": "AJ:O&GT, p. 46"
-  },
-  "biting blade": { "url": "magic-item/biting-blade", "page": "RB, p. 339" },
-  "black dragon egg": {
-    "url": "magic-item/black-dragon-egg",
-    "page": "DE, p. 24"
-  },
-  "black hammer of hashut": {
-    "url": "magic-item/black-hammer-of-hashut",
-    "page": "CD, p. 17"
-  },
-  "black staff": { "url": "magic-item/black-staff", "page": "DE, p. 24" },
-  "blade of antarhak": {
-    "url": "magic-item/blade-of-antarhak",
-    "page": "AJ:TKoK, p. 46"
-  },
-  "blade of nurglitch": {
-    "url": "magic-item/blade-of-nurglitch",
-    "page": "SK, p. 20"
-  },
-  "blade of revered tzunki": {
-    "url": "magic-item/blade-of-revered-tzunki",
-    "page": "LM, p. 17"
-  },
-  "blades of loec": {
-    "url": "magic-item/blades-of-loec",
-    "page": "FoF, p. 142"
-  },
-  "blasted standard": {
-    "url": "magic-item/blasted-standard",
-    "page": "RH, p. 79"
-  },
-  "blood armour": { "url": "magic-item/blood-armour", "page": "DE, p. 23" },
-  "blood drinker": { "url": "magic-item/blood-drinker", "page": "VC, p. 24" },
-  "blood of caledor": {
-    "url": "magic-item/blood-of-caledor",
-    "page": "FoF, p. 180"
-  },
-  "bloodcleaver": { "url": "magic-item/bloodcleaver", "page": "OK, p. 21" },
-  "bloodskull pendant": {
-    "url": "magic-item/bloodskull-pendant",
-    "page": "AJ:WoC, p. 48"
-  },
-  "bog-wood staff": {
-    "url": "magic-item/bog-wood-staff",
-    "page": "AJ:O&GT, p. 37"
-  },
-  "book of ashur": { "url": "magic-item/book-of-ashur", "page": "FoF, p. 76" },
-  "bow of loren": { "url": "magic-item/bow-of-loren", "page": "FoF, p. 142" },
-  "brass orb": { "url": "magic-item/brass-orb", "page": "SK, p. 22" },
-  "brazen collar": { "url": "magic-item/brazen-collar", "page": "RH, p. 79" },
-  "breath of hashut": {
-    "url": "magic-item/breath-of-hashut",
-    "page": "CD, p. 19"
-  },
-  "bull standard": { "url": "magic-item/bull-standard", "page": "OK, p. 22" },
-  "burning blade": { "url": "magic-item/burning-blade", "page": "RB, p. 339" },
-  "buzgob's knobbly staff": {
-    "url": "magic-item/buzgobs-knobbly-staff",
-    "page": "RH, p. 44"
-  },
-  "cannibal totem": { "url": "magic-item/cannibal-totem", "page": "OK, p. 22" },
-  "cathayan jet pendant": {
-    "url": "magic-item/cathayan-jet-pendant",
-    "page": "OK, p. 22"
-  },
-  "cautious shield": {
-    "url": "magic-item/cautious-shield",
-    "page": "SK, p. 21"
-  },
-  "chalice of brionne": {
-    "url": "magic-item/chalice-of-brionne",
-    "page": "AJ:KoB, p. 41"
-  },
-  "chaos runesword": {
-    "url": "magic-item/chaos-runesword",
-    "page": "RH, p. 78"
-  },
-  "charmed shield": {
-    "url": "magic-item/charmed-shield",
-    "page": "RB, p. 340"
-  },
-  "chieftain's blade": {
-    "url": "magic-item/chieftains-blade",
-    "page": "AJ:WoC, p. 46"
-  },
-  "chracian hunter": {
-    "url": "magic-item/chracian-hunter",
-    "page": "FoF, p. 180"
-  },
-  "cloak of feathers": {
-    "url": "magic-item/cloak-of-feathers",
-    "page": "LM, p. 19"
-  },
-  "cloak of mist & shadows": {
-    "url": "magic-item/cloak-of-mist-and-shadows",
-    "page": "VC, p. 26"
-  },
-  "cloak of the dunes": {
-    "url": "magic-item/cloak-of-the-dunes",
-    "page": "RH, p. 152"
-  },
-  "cold-blooded banner": {
-    "url": "magic-item/cold-blooded-banner",
-    "page": "DE, p. 23"
-  },
-  "collar of khorne": {
-    "url": "magic-item/collar-of-khorne",
-    "page": "DoC, p. 28"
-  },
-  "collar of shapesh": {
-    "url": "magic-item/collar-of-shapesh",
-    "page": "RH, p. 151"
-  },
-  "conqueror's tapestry": {
-    "url": "magic-item/conquerors-tapestry",
-    "page": "FoF, p. 105"
-  },
-  "crimson armour of dargan": {
-    "url": "magic-item/crimson-armour-of-dargan",
-    "page": "RH, p. 79"
-  },
-  "crook & flail of radiance": {
-    "url": "magic-item/crook-and-flail-of-radiance",
-    "page": "RH, p. 150"
-  },
-  "crown of everlasting conquest": {
-    "url": "magic-item/crown-of-everlasting-conquest",
-    "page": "RH, p. 79"
-  },
-  "crown of horns": {
-    "url": "magic-item/crown-of-horns",
-    "page": "RH, p. 111"
-  },
-  "crown of kings": {
-    "url": "magic-item/crown-of-kings",
-    "page": "RH, p. 151"
-  },
-  "crown of the damned": {
-    "url": "magic-item/crown-of-the-damned",
-    "page": "VC, p. 25"
-  },
-  "crusader's clarion": {
-    "url": "magic-item/crusaders-clarion",
-    "page": "AJ:KoB, p. 48"
-  },
-  "crusader's lance": {
-    "url": "magic-item/crusaders-lance",
-    "page": "AJ:KoB, p. 46"
-  },
-  "crusader's tapestry": {
-    "url": "magic-item/crusaders-tapestry",
-    "page": "AJ:KoB, p. 47"
-  },
-  "cube of darkness": {
-    "url": "magic-item/cube-of-darkness",
-    "page": "LM, p. 19"
-  },
-  "cupped hands of the old ones": {
-    "url": "magic-item/cupped-hands-of-the-old-ones",
-    "page": "LM, p. 19"
-  },
-  "curse of the revenant": {
-    "url": "magic-item/curse-of-the-revenant",
-    "page": "VC, p. 23"
-  },
-  "curse-weaver wand": {
-    "url": "magic-item/curse-weaver-wand",
-    "page": "AJ:TKoK, p. 48"
-  },
-  "da akrit axe": {
-    "url": "magic-item/da-akrit-axe",
-    "page": "AJ:O&GT, p. 46"
-  },
-  "da angry ladz flag": {
-    "url": "magic-item/da-angry-ladz-flag",
-    "page": "AJ:O&GT, p. 47"
-  },
-  "da banner of butchery": {
-    "url": "magic-item/da-banner-of-butchery",
-    "page": "RH, p. 43"
-  },
-  "da banner of da nomadz": {
-    "url": "magic-item/da-banner-of-da-nomadz",
-    "page": "AJ:O&GT, p. 47"
-  },
-  "da boss' trophy rack": {
-    "url": "magic-item/da-boss-trophy-rack",
-    "page": "AJ:O&GT, p. 35"
-  },
-  "da choppiest choppa": {
-    "url": "magic-item/da-choppiest-choppa",
-    "page": "RH, p. 42"
-  },
-  "da hag's brew": {
-    "url": "magic-item/da-hags-brew",
-    "page": "AJ:O&GT, p. 48"
-  },
-  "da skull smasha": {
-    "url": "magic-item/da-skull-smasha",
-    "page": "AJ:O&GT, p. 35"
-  },
-  "da spider banner": {
-    "url": "magic-item/da-spider-banner",
-    "page": "AJ:O&GT, p. 47"
-  },
-  "da thinkin' orc's 'at": {
-    "url": "magic-item/da-thinkin-orcs-at",
-    "page": "AJ:O&GT, p. 48"
-  },
-  "daemon flask": { "url": "magic-item/daemon-flask", "page": "CD, p. 19" },
-  "daemon-flesh": { "url": "magic-item/daemon-flesh", "page": "RH, p. 77" },
-  "daemon-forged barding": {
-    "url": "magic-item/daemon-forged-barding",
-    "page": "AJ:WoC, p. 48"
-  },
-  "daemon-slayer scars": {
-    "url": "magic-item/daemon-slayer-scars",
-    "page": "OK, p. 23"
-  },
-  "daemonic familiar": {
-    "url": "magic-item/daemonic-familiar",
-    "page": "CD, p. 19"
-  },
-  "daemonic platemail": {
-    "url": "magic-item/daemonic-platemail",
-    "page": "AJ:WoC, p. 47"
-  },
-  "daemonic robes": {
-    "url": "magic-item/daemonic-robes",
-    "page": "DoC, p. 27"
-  },
-  "daemonsword": { "url": "magic-item/daemonsword", "page": "RH, p. 78" },
-  "dagger of malice": {
-    "url": "magic-item/dagger-of-malice",
-    "page": "CD, p. 17"
-  },
-  "dagger of the dark pantheon": {
-    "url": "magic-item/dagger-of-the-dark-pantheon",
-    "page": "AJ:WoC, p. 46"
-  },
-  "dark acolyte": { "url": "magic-item/dark-acolyte", "page": "VC, p. 23" },
-  "dark heart": { "url": "magic-item/dark-heart", "page": "RH, p. 113" },
-  "dark majesty": { "url": "magic-item/dark-majesty", "page": "RH, p. 77" },
-  "dark maul": { "url": "magic-item/dark-maul", "page": "CD, p. 17" },
-  "dawnstone": { "url": "magic-item/dawnstone", "page": "RB, p. 341" },
-  "dead 'ard armour": {
-    "url": "magic-item/dead-ard-armour",
-    "page": "AJ:O&GT, p. 47"
-  },
-  "death globe": { "url": "magic-item/death-globe", "page": "SK, p. 20" },
-  "death mask of kharnutt": {
-    "url": "magic-item/death-mask-of-kharnutt",
-    "page": "RH, p. 152"
-  },
-  "deathcheater": { "url": "magic-item/deathcheater", "page": "OK, p. 20" },
-  "deepwood sphere": {
-    "url": "magic-item/deepwood-sphere",
-    "page": "FoF, p. 144"
-  },
-  "destroyer of eternities": {
-    "url": "magic-item/destroyer-of-eternities",
-    "page": "RH, p. 150"
-  },
-  "diabolic splendour": {
-    "url": "magic-item/diabolic-splendour",
-    "page": "RH, p. 77"
-  },
-  "diadem of power": {
-    "url": "magic-item/diadem-of-power",
-    "page": "AJ:KoB, p. 48"
-  },
-  "dispel scroll": { "url": "magic-item/dispel-scroll", "page": "RB, p. 343" },
-  "doom totem": { "url": "magic-item/doom-totem", "page": "RH, p. 79" },
-  "dragon bow": { "url": "magic-item/dragon-bow", "page": "FoF, p. 74" },
-  "dragon helm": { "url": "magic-item/dragon-helm", "page": "FoF, p. 182" },
-  "dragon slaying sword": {
-    "url": "magic-item/dragon-slaying-sword",
-    "page": "RB, p. 338"
-  },
-  "dragonblade": { "url": "magic-item/dragonblade", "page": "RoR PUDC, p. 1" },
-  "dragonhide banner": {
-    "url": "magic-item/dragonhide-banner",
-    "page": "OK, p. 22"
-  },
-  "dragonhide cloak": {
-    "url": "magic-item/dragonhide-cloak",
-    "page": "AJ:KoB, p. 39"
-  },
-  "drakenhof banner": {
-    "url": "magic-item/drakenhof-banner",
-    "page": "VC, p. 25"
-  },
-  "dreadlance": { "url": "magic-item/dreadlance", "page": "VC, p. 24" },
-  "duellist's blades": {
-    "url": "magic-item/duellists-blades",
-    "page": "RB, p. 338"
-  },
-  "dwarf hide banner": {
-    "url": "magic-item/dwarf-hide-banner",
-    "page": "SK, p. 21"
-  },
-  "earthing rod": { "url": "magic-item/earthing-rod", "page": "RB, p. 343" },
-  "effigy of mork": {
-    "url": "magic-item/effigy-of-mork",
-    "page": "AJ:O&GT, p. 47"
-  },
-  "enchanted rune": { "url": "magic-item/enchanted-rune" },
-  "enchanted shield": {
-    "url": "magic-item/enchanted-shield",
-    "page": "RB, p. 340"
-  },
-  "enchanting aura": {
-    "url": "magic-item/enchanting-aura",
-    "page": "RH, p. 77"
-  },
-  "enkhil's kanopi": {
-    "url": "magic-item/enkhils-kanopi",
-    "page": "RH, p. 152"
-  },
-  "enrapturing gaze": {
-    "url": "magic-item/enrapturing-gaze",
-    "page": "DoC, p. 30"
-  },
-  "errantry banner": {
-    "url": "magic-item/errantry-banner",
-    "page": "FoF, p. 105"
-  },
-  "executioner's axe": {
-    "url": "magic-item/executioners-axe",
-    "page": "DE, p. 22"
-  },
-  "extra arm": { "url": "magic-item/extra-arm", "page": "RH, p. 77" },
-  "falcon-horn of fredemund": {
-    "url": "magic-item/falcon-horn-of-fredemund",
-    "page": "FoF, p. 106"
-  },
-  "feedback scroll": {
-    "url": "magic-item/feedback-scroll",
-    "page": "RB, p. 343"
-  },
-  "filth mace": { "url": "magic-item/filth-mace", "page": "RH, p. 78" },
-  "fistful of laurels": {
-    "url": "magic-item/fistful-of-laurels",
-    "page": "OK, p. 23"
-  },
-  "flail of skulls": {
-    "url": "magic-item/flail-of-skulls",
-    "page": "RH, p. 150"
-  },
-  "flamestrike wand": {
-    "url": "magic-item/flamestrike-wand",
-    "page": "AJ:KoB, p. 48"
-  },
-  "flying carpet": { "url": "magic-item/flying-carpet", "page": "RB, p. 342" },
-  "flying horror": { "url": "magic-item/flying-horror", "page": "VC, p. 23" },
-  "focus familiar": { "url": "magic-item/focus-familiar", "page": "DE, p. 24" },
-  "foe bane": { "url": "magic-item/foe-bane", "page": "FoF, p. 181" },
-  "foebreaker": { "url": "magic-item/foebreaker", "page": "AJ:KoB, p. 46" },
-  "frontier axe": { "url": "magic-item/frontier-axe", "page": "AJ:KoB, p. 46" },
-  "frostblade": { "url": "magic-item/frostblade", "page": "VC, p. 24" },
-  "fungus wine": { "url": "magic-item/fungus-wine", "page": "RH, p. 44" },
-  "gauntlet of the duel": {
-    "url": "magic-item/gauntlet-of-the-duel",
-    "page": "FoF, p. 106"
-  },
-  "giant blade": { "url": "magic-item/giant-blade", "page": "RB, p. 339" },
-  "giantbreaker": { "url": "magic-item/giantbreaker", "page": "OK, p. 20" },
-  "gilded cuirass": {
-    "url": "magic-item/gilded-cuirass",
-    "page": "FoF, p. 105"
-  },
-  "glamourweave": { "url": "magic-item/glamourweave", "page": "FoF, p. 143" },
-  "glittering scales": {
-    "url": "magic-item/glittering-scales",
-    "page": "RB, p. 340"
-  },
-  "glittering wotnots": {
-    "url": "magic-item/glittering-wotnots",
-    "page": "RH, p. 44"
-  },
-  "glowy green amulet": {
-    "url": "magic-item/glowy-green-amulet",
-    "page": "RH, p. 43"
-  },
-  "glyph necklace": { "url": "magic-item/glyph-necklace", "page": "LM, p. 18" },
-  "gnarled hide": { "url": "magic-item/gnarled-hide", "page": "RH, p. 111" },
-  "gouge-tusks": { "url": "magic-item/gouge-tusks", "page": "RH, p. 111" },
-  "grail pendant": {
-    "url": "magic-item/grail-pendant",
-    "page": "AJ:KoB, p. 47"
-  },
-  "grand banner of superiority": {
-    "url": "magic-item/grand-banner-of-superiority",
-    "page": "SK, p. 21"
-  },
-  "great standard of sundering": {
-    "url": "magic-item/great-standard-of-sundering",
-    "page": "DoC, p. 28"
-  },
-  "griffon standard": {
-    "url": "magic-item/griffon-standard",
-    "page": "FoF, p. 75"
-  },
-  "grimoire of ogvold": {
-    "url": "magic-item/grimoire-of-ogvold",
-    "page": "AJ:WoC, p. 48"
-  },
-  "grisly trophy rack": {
-    "url": "magic-item/grisly-trophy-rack",
-    "page": "AJ:O&GT, p. 48"
-  },
-  "gromril great helm": {
-    "url": "magic-item/gromril-great-helm",
-    "page": "FoF, p. 105"
-  },
-  "grudge rune": { "url": "magic-item/grudge-rune", "page": "FoF, p. 34" },
-  "grudge-settler": { "url": "magic-item/grudge-settler" },
-  "grut's sickle": { "url": "magic-item/gruts-sickle", "page": "OK, p. 23" },
-  "guff's windy banner": {
-    "url": "magic-item/guffs-windy-banner",
-    "page": "RH, p. 43"
-  },
-  "gut maw": { "url": "magic-item/gut-maw", "page": "OK, p. 22" },
-  "hagtree fetish": {
-    "url": "magic-item/hagtree-fetish",
-    "page": "RH, p. 114"
-  },
-  "hail of doom arrow": {
-    "url": "magic-item/hail-of-doom-arrow",
-    "page": "FoF, p. 144"
-  },
-  "halfling cookbook": {
-    "url": "magic-item/halfling-cookbook",
-    "page": "OK, p. 23"
-  },
-  "hand of dust": { "url": "magic-item/hand-of-dust", "page": "VC, p. 26" },
-  "harrowing scrutiny": {
-    "url": "magic-item/harrowing-scrutiny",
-    "page": "LM, p. 16"
-  },
-  "headsman's axe": { "url": "magic-item/headsmans-axe", "page": "RB, p. 338" },
-  "healing potion": {
-    "url": "magic-item/healing-potion",
-    "page": "RB, p. 342"
-  },
-  "heart of the wilds": {
-    "url": "magic-item/heart-of-the-wilds",
-    "page": "AJ:KoB, p. 48"
-  },
-  "heartwood lance": {
-    "url": "magic-item/heartwood-lance",
-    "page": "FoF, p. 104"
-  },
-  "hellheart": { "url": "magic-item/hellheart", "page": "OK, p. 23" },
-  "hellshard": { "url": "magic-item/hellshard", "page": "CD, p. 18" },
-  "helm of commandment": {
-    "url": "magic-item/helm-of-commandment",
-    "page": "VC, p. 26"
-  },
-  "helm of many eyes": {
-    "url": "magic-item/helm-of-many-eyes",
-    "page": "RH, p. 80"
-  },
-  "helm of the hunt": {
-    "url": "magic-item/helm-of-the-hunt",
-    "page": "FoF, p. 143"
-  },
-  "hide of the cold ones": {
-    "url": "magic-item/hide-of-the-cold-ones",
-    "page": "LM, p. 18"
-  },
-  "hieratic jar": { "url": "magic-item/hieratic-jar", "page": "RH, p. 152" },
-  "higher state of mind": {
-    "url": "magic-item/higher-state-of-mind",
-    "page": "LM, p. 16"
-  },
-  "horn of the first beast": {
-    "url": "magic-item/horn-of-the-first-beast",
-    "page": "RH, p. 114"
-  },
-  "horned one": { "url": "magic-item/horned-one", "page": "LM, p. 19" },
-  "hunter's spear": { "url": "magic-item/hunters-spear", "page": "RH, p. 112" },
-  "hydra's tooth": { "url": "magic-item/hydras-tooth", "page": "DE, p. 24" },
-  "icon of darkness": {
-    "url": "magic-item/icon-of-darkness",
-    "page": "AJ:WoC, p. 47"
-  },
-  "icon of endless war": {
-    "url": "magic-item/icon-of-endless-war",
-    "page": "DoC, p. 28"
-  },
-  "icon of eternal virulence": {
-    "url": "magic-item/icon-of-eternal-virulence",
-    "page": "DoC, p. 29"
-  },
-  "icon of rakaph": {
-    "url": "magic-item/icon-of-rakaph",
-    "page": "RH, p. 151"
-  },
-  "icon of rulership": {
-    "url": "magic-item/icon-of-rulership",
-    "page": "RH, p. 152"
-  },
-  "icon of sorcery": {
-    "url": "magic-item/icon-of-sorcery",
-    "page": "DoC, p. 31"
-  },
-  "icon of the sacred eye": {
-    "url": "magic-item/icon-of-the-sacred-eye",
-    "page": "RH, p. 151"
-  },
-  "idol of gork": {
-    "url": "magic-item/idol-of-gork",
-    "page": "AJ:O&GT, p. 48"
-  },
-  "idol of mork": { "url": "magic-item/idol-of-mork", "page": "RH, p. 44" },
-  "imperial banner": {
-    "url": "magic-item/imperial-banner",
-    "page": "FoF, p. 75"
-  },
-  "infernal enrapturess": {
-    "url": "magic-item/infernal-enrapturess",
-    "page": "DoC, p. 30"
-  },
-  "infernal puppet": {
-    "url": "magic-item/infernal-puppet",
-    "page": "RH, p. 80"
-  },
-  "iridescent corona": {
-    "url": "magic-item/iridescent-corona",
-    "page": "DoC, p. 31"
-  },
-  "ironspike shield": {
-    "url": "magic-item/ironspike-shield",
-    "page": "AJ:KoB, p. 47"
-  },
-  "itxi grub": { "url": "magic-item/itxi-grub", "page": "LM, p. 19" },
-  "jade amulet": { "url": "magic-item/jade-amulet", "page": "FoF, p. 75" },
-  "jade lion": { "url": "magic-item/jade-lion", "page": "OK, p. 23" },
-  "jagged dagger": { "url": "magic-item/jagged-dagger", "page": "RH, p. 114" },
-  "jaguar standard": {
-    "url": "magic-item/jaguar-standard",
-    "page": "LM, p. 18"
-  },
-  "kineater": { "url": "magic-item/kineater", "page": "OK, p. 20" },
-  "laurels of victory": {
-    "url": "magic-item/laurels-of-victory",
-    "page": "FoF, p. 76"
-  },
-  "lifetaker": { "url": "magic-item/lifetaker", "page": "DE, p. 22" },
-  "lion standard": { "url": "magic-item/lion-standard", "page": "FoF, p. 182" },
-  "longstrider": { "url": "magic-item/longstrider", "page": "OK, p. 20" },
-  "lord of the night": {
-    "url": "magic-item/lord-of-the-night",
-    "page": "VC, p. 23"
-  },
-  "lore familiar": { "url": "magic-item/lore-familiar", "page": "RB, p. 343" },
-  "loremaster": { "url": "magic-item/loremaster", "page": "FoF, p. 179" },
-  "luckstone": { "url": "magic-item/luckstone", "page": "RB, p. 341" },
-  "lucky heirloom": {
-    "url": "magic-item/lucky-heirloom",
-    "page": "AJ:KoB, p. 47"
-  },
-  "mace of helsturm": {
-    "url": "magic-item/mace-of-helsturm",
-    "page": "FoF, p. 74"
-  },
-  "manbane standard": {
-    "url": "magic-item/manbane-standard",
-    "page": "RH, p. 113"
-  },
-  "mangelder": { "url": "magic-item/mangelder", "page": "RH, p. 112" },
-  "mantle of stone": {
-    "url": "magic-item/mantle-of-stone",
-    "page": "CD, p. 18"
-  },
-  "mantle of the damsel elena": {
-    "url": "magic-item/mantle-of-the-damsel-elena",
-    "page": "FoF, p. 105"
-  },
-  "many arms": { "url": "magic-item/many-arms", "page": "DoC, p. 27" },
-  "many-limbed fiend": {
-    "url": "magic-item/many-limbed-fiend",
-    "page": "RH, p. 111"
-  },
-  "martog's best basha": {
-    "url": "magic-item/martogs-best-basha",
-    "page": "AJ:O&GT, p. 46"
-  },
-  "master of mortals": {
-    "url": "magic-item/master-of-mortals",
-    "page": "RH, p. 77"
-  },
-  "master of the black arts": {
-    "url": "magic-item/master-of-the-black-arts",
-    "page": "VC, p. 23"
-  },
-  "master rune of adamant": {
-    "url": "magic-item/master-rune-of-adamant",
-    "page": "FoF, p. 35"
-  },
-  "master rune of alaric the mad": {
-    "url": "magic-item/master-rune-of-alaric-the-mad",
-    "page": "FoF, p. 33"
-  },
-  "master rune of balance": {
-    "url": "magic-item/master-rune-of-balance",
-    "page": "FoF, p. 36"
-  },
-  "master rune of breaking": {
-    "url": "magic-item/master-rune-of-breaking",
-    "page": "FoF, p. 33"
-  },
-  "master rune of bursting flame": {
-    "url": "magic-item/master-rune-of-bursting-flame"
-  },
-  "master rune of calm": {
-    "url": "magic-item/master-rune-of-calm",
-    "page": "FoF, p. 36"
-  },
-  "master rune of disguise": {
-    "url": "magic-item/master-rune-of-disguise",
-    "page": "FoF, p. 38"
-  },
-  "master rune of dragon slaying": {
-    "url": "magic-item/master-rune-of-dragon-slaying",
-    "page": "FoF, p. 33"
-  },
-  "master rune of flight": {
-    "url": "magic-item/master-rune-of-flight",
-    "page": "FoF, p. 33"
-  },
-  "master rune of gromril": {
-    "url": "magic-item/master-rune-of-gromril",
-    "page": "FoF, p. 35"
-  },
-  "master rune of grungni": {
-    "url": "magic-item/master-rune-of-grungni",
-    "page": "FoF, p. 37"
-  },
-  "master rune of hesitation": {
-    "url": "magic-item/master-rune-of-hesitation",
-    "page": "FoF, p. 37"
-  },
-  "master rune of immolation": {
-    "url": "magic-item/master-rune-of-immolation",
-    "page": "FoF, p. 38"
-  },
-  "master rune of piercing": { "url": "magic-item/master-rune-of-piercing" },
-  "master rune of skalf blackhammer": {
-    "url": "magic-item/master-rune-of-skalf-blackhammer",
-    "page": "FoF, p. 33"
-  },
-  "master rune of slaying": { "url": "magic-item/master-rune-of-slaying" },
-  "master rune of smiting": {
-    "url": "magic-item/master-rune-of-smiting",
-    "page": "FoF, p. 33"
-  },
-  "master rune of spite": {
-    "url": "magic-item/master-rune-of-spite",
-    "page": "FoF, p. 36"
-  },
-  "master rune of stromni redbeard": {
-    "url": "magic-item/master-rune-of-stromni-redbeard",
-    "page": "FoF, p. 37"
-  },
-  "master rune of swiftness": {
-    "url": "magic-item/master-rune-of-swiftness",
-    "page": "FoF, p. 33"
-  },
-  "mastodon armour": {
-    "url": "magic-item/mastodon-armour",
-    "page": "OK, p. 22"
-  },
-  "mawseeker": { "url": "magic-item/mawseeker", "page": "OK, p. 20" },
-  "merciw's locus": {
-    "url": "magic-item/merciws-locus",
-    "page": "FoF, p. 143"
-  },
-  "might of khorne": {
-    "url": "magic-item/might-of-khorne",
-    "page": "DoC, p. 28"
-  },
-  "mighty serpent's scalemail": {
-    "url": "magic-item/mighty-serpents-scalemail",
-    "page": "AJ:WoC, p. 47"
-  },
-  "mirage banner": { "url": "magic-item/mirage-banner", "page": "RH, p. 151" },
-  "morning star of fracasse": {
-    "url": "magic-item/morning-star-of-fracasse",
-    "page": "FoF, p. 104"
-  },
-  "mountaineater": { "url": "magic-item/mountaineater", "page": "OK, p. 20" },
-  "muscular monstrosity": {
-    "url": "magic-item/muscular-monstrosity",
-    "page": "RH, p. 111"
-  },
-  "necklace of blessed teef": {
-    "url": "magic-item/necklace-of-blessed-teef",
-    "page": "AJ:O&GT, p. 48"
-  },
-  "null stone": { "url": "magic-item/null-stone", "page": "FoF, p. 183" },
-  "nurgling infestation": {
-    "url": "magic-item/nurgling-infestation",
-    "page": "DoC, p. 29"
-  },
-  "oaken stave": { "url": "magic-item/oaken-stave", "page": "FoF, p. 144" },
-  "obsidian dread-glaive": {
-    "url": "magic-item/obsidian-dread-glaive",
-    "page": "AJ:WoC, p. 46"
-  },
-  "obsidian lodestone": {
-    "url": "magic-item/obsidian-lodestone",
-    "page": "RB, p. 341"
-  },
-  "obsidian vambraces": {
-    "url": "magic-item/obsidian-vambraces",
-    "page": "CD, p. 19"
-  },
-  "ogre blade": { "url": "magic-item/ogre-blade", "page": "RB, p. 338" },
-  "opal amulet": { "url": "magic-item/opal-amulet", "page": "FoF, p. 182" },
-  "orb of ptra": { "url": "magic-item/orb-of-ptra", "page": "AJ:TKoK, p. 48" },
-  "overseer's sigil": {
-    "url": "magic-item/overseers-sigil",
-    "page": "CD, p. 18"
-  },
-  "paymaster's coin": {
-    "url": "magic-item/paymasters-coin",
-    "page": "RB, p. 341"
-  },
-  "pearl of infinite bleakness": {
-    "url": "magic-item/pearl-of-infinite-bleakness",
-    "page": "DE, p. 23"
-  },
-  "pelt of midnight": {
-    "url": "magic-item/pelt-of-midnight",
-    "page": "RH, p. 111"
-  },
-  "pelt of the dark young": {
-    "url": "magic-item/pelt-of-the-dark-young",
-    "page": "RH, p. 113"
-  },
-  "pendant of damnation": {
-    "url": "magic-item/pendant-of-damnation",
-    "page": "RH, p. 80"
-  },
-  "pendant of khaeleth": {
-    "url": "magic-item/pendant-of-khaeleth",
-    "page": "DE, p. 23"
-  },
-  "phakth's blades of justice": {
-    "url": "magic-item/phakths-blades-of-justice",
-    "page": "AJ:TKoK, p. 46"
-  },
-  "phâzerakt's kanopi": {
-    "url": "magic-item/phazerakts-kanopi",
-    "page": "AJ:TKoK, p. 48"
-  },
-  "piranha blade": { "url": "magic-item/piranha-blade", "page": "LM, p. 17" },
-  "poisonous slime": {
-    "url": "magic-item/poisonous-slime",
-    "page": "RH, p. 77"
-  },
-  "porko's pigstikka": {
-    "url": "magic-item/porkos-pigstikka",
-    "page": "RH, p. 42"
-  },
-  "potion of foolhardiness": {
-    "url": "magic-item/potion-of-foolhardiness",
-    "page": "RB, p. 342"
-  },
-  "potion of speed": {
-    "url": "magic-item/potion-of-speed",
-    "page": "RB, p. 342"
-  },
-  "potion of strength": {
-    "url": "magic-item/potion-of-strength",
-    "page": "RB, p. 342"
-  },
-  "potion of toughness": {
-    "url": "magic-item/potion-of-toughness",
-    "page": "RB, p. 342"
-  },
-  "power scroll": { "url": "magic-item/power-scroll", "page": "RB, p. 343" },
-  "power vortex": { "url": "magic-item/power-vortex", "page": "DoC, p. 31" },
-  "prayer icon of quenelles": {
-    "url": "magic-item/prayer-icon-of-quenelles",
-    "page": "FoF, p. 106"
-  },
-  "primeval club": { "url": "magic-item/primeval-club", "page": "RH, p. 112" },
-  "pure of heart": { "url": "magic-item/pure-of-heart", "page": "FoF, p. 180" },
-  "railarian's mantle": {
-    "url": "magic-item/railarians-mantle",
-    "page": "FoF, p. 143"
-  },
-  "rampaging banner": {
-    "url": "magic-item/rampaging-banner",
-    "page": "RB, p. 341"
-  },
-  "rapturous standard": {
-    "url": "magic-item/rapturous-standard",
-    "page": "DoC, p. 30"
-  },
-  "razor standard": {
-    "url": "magic-item/razor-standard",
-    "page": "RB, p. 341"
-  },
-  "reaver bow": { "url": "magic-item/reaver-bow", "page": "FoF, p. 181" },
-  "relic of the desert sun": {
-    "url": "magic-item/relic-of-the-desert-sun",
-    "page": "AJ:TKoK, p. 47"
-  },
-  "rod of the damned": {
-    "url": "magic-item/rod-of-the-damned",
-    "page": "AJ:WoC, p. 48"
-  },
-  "rotten icon": { "url": "magic-item/rotten-icon", "page": "DoC, p. 29" },
-  "royal mantle": {
-    "url": "magic-item/royal-mantle",
-    "page": "AJ:TKoK, p. 47"
-  },
-  "royal standard of settra": {
-    "url": "magic-item/royal-standard-of-settra",
-    "page": "AJ:TKoK, p. 47"
-  },
-  "ruby ring of ruin": {
-    "url": "magic-item/ruby-ring-of-ruin",
-    "page": "RB, p. 342"
-  },
-  "rune maw": { "url": "magic-item/rune-maw", "page": "OK, p. 22" },
-  "rune of accuracy": { "url": "magic-item/rune-of-accuracy" },
-  "rune of banishment": {
-    "url": "magic-item/rune-of-banishment",
-    "page": "FoF, p. 34"
-  },
-  "rune of battle": {
-    "url": "magic-item/rune-of-battle",
-    "page": "FoF, p. 37"
-  },
-  "rune of blazing fury": { "url": "magic-item/rune-of-blazing-fury" },
-  "rune of burning": {
-    "url": "magic-item/rune-of-burning",
-    "page": "FoF, p. 38"
-  },
-  "rune of cleaving": {
-    "url": "magic-item/rune-of-cleaving",
-    "page": "FoF, p. 34"
-  },
-  "rune of concussive force": { "url": "magic-item/rune-of-concussive-force" },
-  "rune of confusion": {
-    "url": "magic-item/rune-of-confusion",
-    "page": "FoF, p. 37"
-  },
-  "rune of courage": {
-    "url": "magic-item/rune-of-courage",
-    "page": "FoF, p. 37"
-  },
-  "rune of endless battle": { "url": "magic-item/rune-of-endless-battle" },
-  "rune of fear": { "url": "magic-item/rune-of-fear", "page": "FoF, p. 37" },
-  "rune of fire": { "url": "magic-item/rune-of-fire", "page": "FoF, p. 34" },
-  "rune of forging": {
-    "url": "magic-item/rune-of-forging",
-    "page": "FoF, p. 38"
-  },
-  "rune of fortitude": {
-    "url": "magic-item/rune-of-fortitude",
-    "page": "FoF, p. 35"
-  },
-  "rune of fury": { "url": "magic-item/rune-of-fury", "page": "FoF, p. 34" },
-  "rune of grit": { "url": "magic-item/rune-of-grit" },
-  "rune of iron": { "url": "magic-item/rune-of-iron", "page": "FoF, p. 35" },
-  "rune of luck": { "url": "magic-item/rune-of-luck", "page": "FoF, p. 36" },
-  "rune of might": { "url": "magic-item/rune-of-might", "page": "FoF, p. 34" },
-  "rune of molten steel": { "url": "magic-item/rune-of-molten-steel" },
-  "rune of parrying": {
-    "url": "magic-item/rune-of-parrying",
-    "page": "FoF, p. 34"
-  },
-  "rune of passage": {
-    "url": "magic-item/rune-of-passage",
-    "page": "FoF, p. 36"
-  },
-  "rune of preservation": {
-    "url": "magic-item/rune-of-preservation",
-    "page": "FoF, p. 35"
-  },
-  "rune of rapid fire": { "url": "magic-item/rune-of-rapid-fire" },
-  "rune of reloading": {
-    "url": "magic-item/rune-of-reloading",
-    "page": "FoF, p. 38"
-  },
-  "rune of shielding": {
-    "url": "magic-item/rune-of-shielding",
-    "page": "FoF, p. 35"
-  },
-  "rune of skewering": {
-    "url": "magic-item/rune-of-skewering",
-    "page": "FoF, p. 38"
-  },
-  "rune of speed": { "url": "magic-item/rune-of-speed", "page": "FoF, p. 34" },
-  "rune of spellbreaking": {
-    "url": "magic-item/rune-of-spellbreaking",
-    "page": "FoF, p. 36"
-  },
-  "rune of stone": { "url": "magic-item/rune-of-stone", "page": "FoF, p. 35" },
-  "rune of striking": {
-    "url": "magic-item/rune-of-striking",
-    "page": "FoF, p. 34"
-  },
-  "rune of the beast ascendant": {
-    "url": "magic-item/rune-of-the-beast-ascendant",
-    "page": "RH, p. 111"
-  },
-  "rune of the dauntless": { "url": "magic-item/rune-of-the-dauntless" },
-  "rune of the dishonoured": { "url": "magic-item/rune-of-the-dishonoured" },
-  "rune of the furnace": {
-    "url": "magic-item/rune-of-the-furnace",
-    "page": "FoF, p. 36"
-  },
-  "rune of the hateful": { "url": "magic-item/rune-of-the-hateful" },
-  "rune of the reckless": { "url": "magic-item/rune-of-the-reckless" },
-  "rune of the true beast": {
-    "url": "magic-item/rune-of-the-true-beast",
-    "page": "RH, p. 113"
-  },
-  "rune of warding": {
-    "url": "magic-item/rune-of-warding",
-    "page": "FoF, p. 36"
-  },
-  "rune of wrath": { "url": "magic-item/rune-of-wrath" },
-  "runefang": { "url": "magic-item/runefang", "page": "FoF, p. 74" },
-  "sacrament of the lady": {
-    "url": "magic-item/sacrament-of-the-lady",
-    "page": "FoF, p. 106"
-  },
-  "scarab brooch": { "url": "magic-item/scarab-brooch", "page": "RH, p. 152" },
-  "sceptre of de noirot": {
-    "url": "magic-item/sceptre-of-de-noirot",
-    "page": "VC, p. 26"
-  },
-  "sceptre of power": {
-    "url": "magic-item/sceptre-of-power",
-    "page": "AJ:WoC, p. 48"
-  },
-  "scimitar of the sun resplendent": {
-    "url": "magic-item/scimitar-of-the-sun-resplendent",
-    "page": "LM, p. 17"
-  },
-  "scroll of binding": {
-    "url": "magic-item/scroll-of-binding",
-    "page": "CD, p. 19"
-  },
-  "scroll of transmogrification": {
-    "url": "magic-item/scroll-of-transmogrification",
-    "page": "RB, p. 343"
-  },
-  "sea guard": { "url": "magic-item/sea-guard", "page": "FoF, p. 180" },
-  "sea raider's crest": {
-    "url": "magic-item/sea-raiders-crest",
-    "page": "AJ:WoC, p. 47"
-  },
-  "seed of rebirth": {
-    "url": "magic-item/seed-of-rebirth",
-    "page": "FoF, p. 183"
-  },
-  "serpent staff": { "url": "magic-item/serpent-staff", "page": "RH, p. 150" },
-  "shadow magnet": { "url": "magic-item/shadow-magnet", "page": "SK, p. 21" },
-  "shadow stalker": {
-    "url": "magic-item/shadow-stalker",
-    "page": "FoF, p. 179"
-  },
-  "shield of ghrond": {
-    "url": "magic-item/shield-of-ghrond",
-    "page": "DE, p. 23"
-  },
-  "shield of ptra": {
-    "url": "magic-item/shield-of-ptra",
-    "page": "RH, p. 151"
-  },
-  "shield of the mirror pool": {
-    "url": "magic-item/shield-of-the-mirror-pool",
-    "page": "LM, p. 18"
-  },
-  "shield of the warrior true": {
-    "url": "magic-item/shield-of-the-warrior-true",
-    "page": "RB, p. 340"
-  },
-  "shroud of iron": {
-    "url": "magic-item/shroud-of-iron",
-    "page": "FoF, p. 76"
-  },
-  "shroud of the ancestor": {
-    "url": "magic-item/shroud-of-the-ancestor",
-    "page": "CD, p. 18"
-  },
-  "sigil of asuryan": {
-    "url": "magic-item/sigil-of-asuryan",
-    "page": "FoF, p. 183"
-  },
-  "sigil of centuries": {
-    "url": "magic-item/sigil-of-centuries",
-    "page": "AJ:TKoK, p. 47"
-  },
-  "silver mirror": { "url": "magic-item/silver-mirror", "page": "FoF, p. 106" },
-  "silvery wand": { "url": "magic-item/silvery-wand", "page": "FoF, p. 183" },
-  "siren song": { "url": "magic-item/siren-song", "page": "DoC, p. 30" },
-  "siren standard": {
-    "url": "magic-item/siren-standard",
-    "page": "DoC, p. 30"
-  },
-  "sirienne's locket": {
-    "url": "magic-item/siriennes-locket",
-    "page": "FoF, p. 105"
-  },
-  "skalm": { "url": "magic-item/skalm", "page": "SK, p. 22" },
-  "skavenbrew": { "url": "magic-item/skavenbrew", "page": "SK, p. 22" },
-  "skavenpelt banner": {
-    "url": "magic-item/skavenpelt-banner",
-    "page": "LM, p. 18"
-  },
-  "skin of man": { "url": "magic-item/skin-of-man", "page": "RH, p. 114" },
-  "skull of katam": { "url": "magic-item/skull-of-katam", "page": "RH, p. 80" },
-  "skull staff": { "url": "magic-item/skull-staff", "page": "VC, p. 26" },
-  "skull totem": { "url": "magic-item/skull-totem", "page": "DoC, p. 28" },
-  "skullplucker": { "url": "magic-item/skullplucker", "page": "OK, p. 21" },
-  "sloppity bilepiper": {
-    "url": "magic-item/sloppity-bilepiper",
-    "page": "DoC, p. 29"
-  },
-  "slug-skin": { "url": "magic-item/slug-skin", "page": "RH, p. 111" },
-  "sorcerous void": { "url": "magic-item/sorcerous-void", "page": "LM, p. 16" },
-  "sorrow's end": { "url": "magic-item/sorrows-end", "page": "AJ:KoB, p. 39" },
-  "soul of stone": { "url": "magic-item/soul-of-stone", "page": "LM, p. 16" },
-  "spangleshard": { "url": "magic-item/spangleshard", "page": "OK, p. 22" },
-  "sparkly wizard finda": {
-    "url": "magic-item/sparkly-wizard-finda",
-    "page": "AJ:O&GT, p. 47"
-  },
-  "spear of twilight": {
-    "url": "magic-item/spear-of-twilight",
-    "page": "FoF, p. 142"
-  },
-  "spell eater": { "url": "magic-item/spell-eater", "page": "DoC, p. 28" },
-  "spell familiar": {
-    "url": "magic-item/spell-familiar",
-    "page": "VC, p. 26, RH, p. 80"
-  },
-  "spelleater axe": {
-    "url": "magic-item/spelleater-axe",
-    "page": "RB, p. 339"
-  },
-  "spellshield": { "url": "magic-item/spellshield", "page": "RB, p. 340" },
-  "spellthieving sword": {
-    "url": "magic-item/spellthieving-sword",
-    "page": "RH, p. 78"
-  },
-  "spiteful shield": {
-    "url": "magic-item/spiteful-shield",
-    "page": "AJ:O&GT, p. 47"
-  },
-  "spoilpox scrivener": {
-    "url": "magic-item/spoilpox-scrivener",
-    "page": "DoC, p. 29"
-  },
-  "staff of aeons": {
-    "url": "magic-item/staff-of-aeons",
-    "page": "AJ:TKoK, p. 46"
-  },
-  "staff of awakening": {
-    "url": "magic-item/staff-of-awakening",
-    "page": "AJ:TKoK, p. 48"
-  },
-  "staff of baduumm": {
-    "url": "magic-item/staff-of-baduumm",
-    "page": "AJ:O&GT, p. 48"
-  },
-  "staff of change": {
-    "url": "magic-item/staff-of-change",
-    "page": "DoC, p. 31"
-  },
-  "staff of the lost sun": {
-    "url": "magic-item/staff-of-the-lost-sun",
-    "page": "LM, p. 17"
-  },
-  "stalwart rune": { "url": "magic-item/stalwart-rune", "page": "FoF, p. 38" },
-  "standard of chaotic glory": {
-    "url": "magic-item/standard-of-chaotic-glory",
-    "page": "DoC, p. 27"
-  },
-  "standard of hellish vigour": {
-    "url": "magic-item/standard-of-hellish-vigour",
-    "page": "VC, p. 25"
-  },
-  "standard of seeping decay": {
-    "url": "magic-item/standard-of-seeping-decay",
-    "page": "DoC, p. 29"
-  },
-  "standard of slaughter": {
-    "url": "magic-item/standard-of-slaughter",
-    "page": "DE, p. 23"
-  },
-  "standard of the cursing word": {
-    "url": "magic-item/standard-of-the-cursing-word",
-    "page": "RH, p. 151"
-  },
-  "stone of spite": {
-    "url": "magic-item/stone-of-spite",
-    "page": "RH, p. 114"
-  },
-  "storm banner": { "url": "magic-item/storm-banner", "page": "SK, p. 21" },
-  "storm daemon": { "url": "magic-item/storm-daemon", "page": "SK, p. 22" },
-  "storm's wrath": {
-    "url": "magic-item/storms-wrath",
-    "page": "AJ:WoC, p. 34"
-  },
-  "stream of contagion": {
-    "url": "magic-item/stream-of-contagion",
-    "page": "DoC, p. 29"
-  },
-  "strollaz' rune": { "url": "magic-item/strollaz-rune", "page": "FoF, p. 37" },
-  "sun standard of chotec": {
-    "url": "magic-item/sun-standard-of-chotec",
-    "page": "LM, p. 18"
-  },
-  "supernatural horror": {
-    "url": "magic-item/supernatural-horror",
-    "page": "VC, p. 23"
-  },
-  "sword of battle": {
-    "url": "magic-item/sword-of-battle",
-    "page": "RB, p. 338"
-  },
-  "sword of heroes": {
-    "url": "magic-item/sword-of-heroes",
-    "page": "FoF, p. 104"
-  },
-  "sword of justice": {
-    "url": "magic-item/sword-of-justice",
-    "page": "FoF, p. 74"
-  },
-  "sword of kings": { "url": "magic-item/sword-of-kings", "page": "VC, p. 24" },
-  "sword of might": {
-    "url": "magic-item/sword-of-might",
-    "page": "RB, p. 339"
-  },
-  "sword of ruin": { "url": "magic-item/sword-of-ruin", "page": "DE, p. 22" },
-  "sword of striking": {
-    "url": "magic-item/sword-of-striking",
-    "page": "RB, p. 339"
-  },
-  "sword of swiftness": {
-    "url": "magic-item/sword-of-swiftness",
-    "page": "RB, p. 339"
-  },
-  "sword of the quest": {
-    "url": "magic-item/sword-of-the-quest",
-    "page": "FoF, p. 104"
-  },
-  "sword of the stout hearted": {
-    "url": "magic-item/sword-of-the-stout-hearted",
-    "page": "AJ:KoB, p. 46"
-  },
-  "tablets of tahoth": {
-    "url": "magic-item/tablets-of-tahoth",
-    "page": "AJ:TKoK, p. 48"
-  },
-  "talisman of protection": {
-    "url": "magic-item/talisman-of-protection",
-    "page": "RB, p. 341"
-  },
-  "talisman of the carrion crow": {
-    "url": "magic-item/talisman-of-the-carrion-crow",
-    "page": "AJ:WoC, p. 47"
-  },
-  "talisman of the soaring eagle": {
-    "url": "magic-item/talisman-of-the-soaring-eagle",
-    "page": "AJ:WoC, p. 47"
-  },
-  "tapestry of conquered lands": {
-    "url": "magic-item/tapestry-of-conquered-lands",
-    "page": "AJ:TKoK, p. 47"
-  },
-  "taskmaster's scourge": {
-    "url": "magic-item/taskmasters-scourge",
-    "page": "AJ:WoC, p. 46"
-  },
-  "tenderiser": { "url": "magic-item/tenderiser", "page": "OK, p. 21" },
-  "the accursed armour": {
-    "url": "magic-item/the-accursed-armour",
-    "page": "VC, p. 25"
-  },
-  "the armour of skaldour": {
-    "url": "magic-item/the-armour-of-skaldour",
-    "page": "AJ:DMH, p. 35"
-  },
-  "the axe of dargo": { "url": "magic-item/the-axe-of-dargo" },
-  "the big red raggedy flag": {
-    "url": "magic-item/the-big-red-raggedy-flag",
-    "page": "RH, p. 43"
-  },
-  "the blackened plate": {
-    "url": "magic-item/the-blackened-plate",
-    "page": "RH, p. 113"
-  },
-  "the blade of leaping gold": {
-    "url": "magic-item/the-blade-of-leaping-gold",
-    "page": "FoF, p. 181"
-  },
-  "the blazing banner": {
-    "url": "magic-item/the-blazing-banner",
-    "page": "RB, p. 341"
-  },
-  "the blessed blade of ptra": {
-    "url": "magic-item/the-blessed-blade-of-ptra",
-    "page": "AJ:TKoK, p. 37"
-  },
-  "the chariot of the gods": {
-    "url": "magic-item/the-chariot-of-the-gods",
-    "page": "AJ:TKoK, p. 37"
-  },
-  "the cloak of beards": {
-    "url": "magic-item/the-cloak-of-beards",
-    "page": "FoF, p. 183"
-  },
-  "the collar of zorga": {
-    "url": "magic-item/the-collar-of-zorga",
-    "page": "RH, p. 43"
-  },
-  "the conqueror's blade": {
-    "url": "magic-item/the-conquerors-blade",
-    "page": "AJ:TKoK, p. 46"
-  },
-  "the crown of nehekhara": {
-    "url": "magic-item/the-crown-of-nehekhara",
-    "page": "AJ:TKoK, p. 37"
-  },
-  "the dolorous blade": {
-    "url": "magic-item/the-dolorous-blade",
-    "page": "AJ:KoB, p. 37"
-  },
-  "the fellblade": { "url": "magic-item/the-fellblade", "page": "SK, p. 20" },
-  "the flail of conquered kings": {
-    "url": "magic-item/the-flail-of-conquered-kings",
-    "page": "AJ:TKoK, p. 41"
-  },
-  "the flayed hauberk": {
-    "url": "magic-item/the-flayed-hauberk",
-    "page": "VC, p. 25"
-  },
-  "the gleaming pennant": {
-    "url": "magic-item/the-gleaming-pennant",
-    "page": "FoF, p. 75"
-  },
-  "the graven sceptre": {
-    "url": "magic-item/the-graven-sceptre",
-    "page": "CD, p. 17"
-  },
-  "the guiding eye": {
-    "url": "magic-item/the-guiding-eye",
-    "page": "DE, p. 24"
-  },
-  "the lammasu's beard": {
-    "url": "magic-item/the-lammasus-beard",
-    "page": "CD, p. 18"
-  },
-  "the loremaster's cloak": {
-    "url": "magic-item/the-loremasters-cloak",
-    "page": "FoF, p. 182"
-  },
-  "the mask of the furnace": {
-    "url": "magic-item/the-mask-of-the-furnace",
-    "page": "CD, p. 18"
-  },
-  "the plague chalice": {
-    "url": "magic-item/the-plague-chalice",
-    "page": "RH, p. 114"
-  },
-  "the scarab brooch of usirian": {
-    "url": "magic-item/the-scarab-brooch-of-usirian",
-    "page": "AJ:TKoK, p. 37"
-  },
-  "the screaming banner": {
-    "url": "magic-item/the-screaming-banner",
-    "page": "VC, p. 25"
-  },
-  "the seal of parravon": {
-    "url": "magic-item/the-seal-of-parravon",
-    "page": "AJ:KoB, p. 48"
-  },
-  "the silver horn": {
-    "url": "magic-item/the-silver-horn",
-    "page": "FoF, p. 76"
-  },
-  "the slayer crown": { "url": "magic-item/the-slayer-crown" },
-  "the staff of the elements": {
-    "url": "magic-item/the-staff-of-the-elements",
-    "page": "AJ:KoB, p. 41"
-  },
-  "the white cloak": {
-    "url": "magic-item/the-white-cloak",
-    "page": "FoF, p. 75"
-  },
-  "the white sword": {
-    "url": "magic-item/the-white-sword",
-    "page": "FoF, p. 181"
-  },
-  "thundermace": { "url": "magic-item/thundermace", "page": "OK, p. 21" },
-  "tome of furion": { "url": "magic-item/tome-of-furion", "page": "DE, p. 24" },
-  "tome of the dark gods": {
-    "url": "magic-item/tome-of-the-dark-gods",
-    "page": "AJ:WoC, p. 48"
-  },
-  "totem of eternal war": {
-    "url": "magic-item/totem-of-eternal-war",
-    "page": "DoC, p. 27"
-  },
-  "totem of prophecy": {
-    "url": "magic-item/totem-of-prophecy",
-    "page": "LM, p. 18"
-  },
-  "totem of rust": { "url": "magic-item/totem-of-rust", "page": "RH, p. 113" },
-  "transcendent healing": {
-    "url": "magic-item/transcendent-healing",
-    "page": "LM, p. 16"
-  },
-  "trappings of nurgle": {
-    "url": "magic-item/trappings-of-nurgle",
-    "page": "DoC, p. 29"
-  },
-  "trollhide shawl": {
-    "url": "magic-item/trollhide-shawl",
-    "page": "AJ:O&GT, p. 37"
-  },
-  "trollhide trousers": {
-    "url": "magic-item/trollhide-trousers",
-    "page": "RH, p. 43"
-  },
-  "twin heads": { "url": "magic-item/twin-heads", "page": "DoC, p. 31" },
-  "uncanny senses": {
-    "url": "magic-item/uncanny-senses",
-    "page": "RH, p. 111"
-  },
-  "valorous standard": {
-    "url": "magic-item/valorous-standard",
-    "page": "FoF, p. 105"
-  },
-  "venom of the firefly frog": {
-    "url": "magic-item/venom-of-the-firefly-frog",
-    "page": "LM, p. 19"
-  },
-  "vial of lammasu blood": {
-    "url": "magic-item/vial-of-lammasu-blood",
-    "page": "CD, p. 19"
-  },
-  "virtue of audacity": {
-    "url": "magic-item/virtue-of-audacity",
-    "page": "FoF, p. 102"
-  },
-  "virtue of confidence": {
-    "url": "magic-item/virtue-of-confidence",
-    "page": "FoF, p. 103"
-  },
-  "virtue of discipline": {
-    "url": "magic-item/virtue-of-discipline",
-    "page": "FoF, p. 103"
-  },
-  "virtue of duty": {
-    "url": "magic-item/virtue-of-duty",
-    "page": "FoF, p. 103"
-  },
-  "virtue of empathy": {
-    "url": "magic-item/virtue-of-empathy",
-    "page": "FoF, p. 103"
-  },
-  "virtue of heroism": {
-    "url": "magic-item/virtue-of-heroism",
-    "page": "FoF, p. 102"
-  },
-  "virtue of knightly temper": {
-    "url": "magic-item/virtue-of-knightly-temper",
-    "page": "FoF, p. 102"
-  },
-  "virtue of noble disdain": {
-    "url": "magic-item/virtue-of-noble-disdain",
-    "page": "FoF, p. 103"
-  },
-  "virtue of purity": {
-    "url": "magic-item/virtue-of-purity",
-    "page": "FoF, p. 102"
-  },
-  "virtue of stoicism": {
-    "url": "magic-item/virtue-of-stoicism",
-    "page": "FoF, p. 102"
-  },
-  "virtue of the ideal": {
-    "url": "magic-item/virtue-of-the-ideal",
-    "page": "FoF, p. 102"
-  },
-  "virtue of the impetuous knight": {
-    "url": "magic-item/virtue-of-the-impetuous-knight",
-    "page": "FoF, p. 102"
-  },
-  "virtue of the joust": {
-    "url": "magic-item/virtue-of-the-joust",
-    "page": "FoF, p. 103"
-  },
-  "virtue of the penitent": {
-    "url": "magic-item/virtue-of-the-penitent",
-    "page": "FoF, p. 102"
-  },
-  "vitriolic totem": {
-    "url": "magic-item/vitriolic-totem",
-    "page": "RH, p. 113"
-  },
-  "von carstein ring": {
-    "url": "magic-item/von-carstein-ring",
-    "page": "VC, p. 25"
-  },
-  "waaagh! banner": { "url": "magic-item/waaagh-banner", "page": "RH, p. 43" },
-  "wailing arrow": { "url": "magic-item/wailing-arrow", "page": "FoF, p. 144" },
-  "wand of jet": { "url": "magic-item/wand-of-jet", "page": "RB, p. 343" },
-  "wand of wych elm": {
-    "url": "magic-item/wand-of-wych-elm",
-    "page": "FoF, p. 144"
-  },
-  "wandering deliberations": {
-    "url": "magic-item/wandering-deliberations",
-    "page": "LM, p. 16"
-  },
-  "war banner": { "url": "magic-item/war-banner", "page": "RB, p. 341" },
-  "warden of saphery": {
-    "url": "magic-item/warden-of-saphery",
-    "page": "FoF, p. 180"
-  },
-  "warding splint": {
-    "url": "magic-item/warding-splint",
-    "page": "AJ:TKoK, p. 47"
-  },
-  "warp condenser": { "url": "magic-item/warp-condenser", "page": "SK, p. 22" },
-  "warpstone amulet": {
-    "url": "magic-item/warpstone-amulet",
-    "page": "SK, p. 21"
-  },
-  "warpstone armour": {
-    "url": "magic-item/warpstone-armour",
-    "page": "SK, p. 21"
-  },
-  "warpstone tokens": {
-    "url": "magic-item/warpstone-tokens",
-    "page": "SK, p. 22"
-  },
-  "warrior's rune": { "url": "magic-item/warriors-rune" },
-  "weeping blade": { "url": "magic-item/weeping-blade", "page": "SK, p. 20" },
-  "whip of agony": { "url": "magic-item/whip-of-agony", "page": "DE, p. 22" },
-  "will of tzeentch": {
-    "url": "magic-item/will-of-tzeentch",
-    "page": "DoC, p. 31"
-  },
-  "winged horror": { "url": "magic-item/winged-horror", "page": "DoC, p. 27" },
-  "wizard's familiar": {
-    "url": "magic-item/wizards-familiar",
-    "page": "FoF, p. 76"
-  },
-  "wizard's staff": { "url": "magic-item/wizards-staff", "page": "FoF, p. 76" },
-  "wizarding hat": { "url": "magic-item/wizarding-hat", "page": "RB, p. 342" },
-  "wollopa's one hit wunda": {
-    "url": "magic-item/wollopas-one-hit-wunda",
-    "page": "RH, p. 42"
-  },
-  "wraithstone": { "url": "magic-item/wraithstone", "page": "FoF, p. 144" },
-  "wyrmbreath vial": {
-    "url": "magic-item/wyrmbreath-vial",
-    "page": "AJ:KoB, p. 48"
   },
   "abyssal terror": {
     "url": "unit/abyssal-terror",
@@ -4923,14 +890,14 @@
     "troopType": "HCa",
     "page": "VC, p. 14"
   },
-  "black orc bigboss": {
-    "url": "unit/black-orc-bigboss",
+  "black orc big boss": {
+    "url": "unit/black-orc-big-boss",
     "stats": [
       {
         "A": "3",
-        "I": "5",
+        "I": "3",
         "M": "4",
-        "S": "4",
+        "S": "5",
         "T": "5",
         "W": "2",
         "BS": "3",
@@ -4942,51 +909,9 @@
     "troopType": "HI",
     "page": "RH, p. 12"
   },
-  "black orc boar chariot": {
-    "url": "unit/black-orc-boar-chariot",
-    "stats": [
-      {
-        "A": "-",
-        "I": "-",
-        "M": "-",
-        "S": "5",
-        "T": "5",
-        "W": "4",
-        "BS": "-",
-        "Ld": "-",
-        "WS": "-",
-        "Name": "Chariot"
-      },
-      {
-        "A": "1",
-        "I": "3",
-        "M": "-",
-        "S": "4",
-        "T": "4",
-        "W": "-",
-        "BS": "3",
-        "Ld": "8",
-        "WS": "4",
-        "Name": "Black Orc Crew (x2)"
-      },
-      {
-        "A": "1",
-        "I": "3",
-        "M": "7",
-        "S": "3",
-        "T": "-",
-        "W": "-",
-        "BS": "-",
-        "Ld": "-",
-        "WS": "3",
-        "Name": "War Boars (x2)"
-      }
-    ],
-    "troopType": "HCh",
-    "page": "AJ:O&GT, p. 41"
-  },
-  "black orc mob": {
-    "url": "unit/black-orc-mob",
+  "black orc regiment": {
+    "url": "unit/black-orc",
+    "maximum": 1,
     "stats": [
       {
         "A": "1",
@@ -5556,20 +1481,20 @@
     "url": "unit/burlok-damminson",
     "stats": [
       {
-        "A": "3",
+        "A": "2",
         "I": "2",
         "M": "3",
         "S": "4",
         "T": "4",
         "W": "2",
         "BS": "5",
-        "Ld": "10",
-        "WS": "5",
-        "Name": "Burlok Damminson"
+        "Ld": "9",
+        "WS": "4",
+        "Name": "Engineer"
       }
     ],
     "troopType": "HI",
-    "page": "AJ:DMH, p. 39"
+    "page": "AJ:DMH, p. 18"
   },
   "burning chariot of tzeentch": {
     "url": "unit/burning-chariot-of-tzeentch",
@@ -6314,49 +2239,6 @@
     "troopType": "MCr",
     "page": "RH, p. 75"
   },
-  "chosen chaos chariot": {
-    "url": "unit/chosen-chaos-chariot",
-    "stats": [
-      {
-        "A": "-",
-        "I": "-",
-        "M": "-",
-        "S": "5",
-        "T": "5",
-        "W": "4",
-        "BS": "-",
-        "Ld": "-",
-        "WS": "-",
-        "Name": "Chariot"
-      },
-      {
-        "A": "2",
-        "I": "4",
-        "M": "-",
-        "S": "4",
-        "T": "-",
-        "W": "-",
-        "BS": "3",
-        "Ld": "9",
-        "WS": "5",
-        "Name": "Chosen Charioteer (x2)"
-      },
-      {
-        "A": "1",
-        "I": "3",
-        "M": "7",
-        "S": "4",
-        "T": "-",
-        "W": "-",
-        "BS": "-",
-        "Ld": "-",
-        "WS": "3",
-        "Name": "Chaos Steed (x2)"
-      }
-    ],
-    "troopType": "HCh",
-    "page": "AJ:WoC, p. 42"
-  },
   "chosen chaos knights": {
     "url": "unit/chosen-chaos-knights",
     "stats": [
@@ -6648,12 +2530,12 @@
     "troopType": "HCa",
     "page": "LM, p. 10"
   },
-  "common troll mob": {
-    "url": "unit/common-troll-mob",
+  "trolls": {
+    "url": "unit/troll",
     "stats": [
       {
         "A": "3",
-        "I": "2",
+        "I": "1",
         "M": "6",
         "S": "5",
         "T": "4",
@@ -7430,14 +3312,14 @@
     "page": "DoC, p. 19"
   },
   "doom diver catapult": {
-    "url": "unit/doom-diver-catapult",
+    "url": "unit/doom-diver-catapault",
     "stats": [
       {
         "A": "-",
         "I": "-",
         "M": "-",
         "S": "-",
-        "T": "5",
+        "T": "7",
         "W": "3",
         "BS": "-",
         "Ld": "-",
@@ -7446,7 +3328,7 @@
       },
       {
         "A": "3",
-        "I": "3",
+        "I": "2",
         "M": "4",
         "S": "3",
         "T": "3",
@@ -7454,7 +3336,7 @@
         "BS": "3",
         "Ld": "4",
         "WS": "2",
-        "Name": "Goblin Crew"
+        "Name": "Goblin Crew (x3)"
       }
     ],
     "troopType": "WM",
@@ -8656,44 +4538,6 @@
     "troopType": "MCr",
     "page": "FoF, p. 176"
   },
-  "frydaal the chainmaker": {
-    "url": "unit/frydaal-the-chainmaker",
-    "stats": [
-      {
-        "A": "4",
-        "I": "5",
-        "M": "4",
-        "S": "5",
-        "T": "4",
-        "W": "3",
-        "BS": "3",
-        "Ld": "9",
-        "WS": "6",
-        "Name": "Frydaal The Chainmaker"
-      }
-    ],
-    "troopType": "HI",
-    "page": "AJ:WoC, p. 35"
-  },
-  "galrauch": {
-    "url": "unit/galrauch",
-    "stats": [
-      {
-        "A": "6",
-        "I": "4",
-        "M": "6",
-        "S": "6",
-        "T": "6",
-        "W": "6",
-        "BS": "3",
-        "Ld": "9",
-        "WS": "6",
-        "Name": "Galrauch"
-      }
-    ],
-    "troopType": "Be",
-    "page": "AJ:WoC, p. 36"
-  },
   "general of the empire": {
     "url": "unit/general-of-the-empire",
     "stats": [
@@ -8790,7 +4634,7 @@
     "page": "SK, p. 12"
   },
   "giant wolf": {
-    "url": "unit/giant-wolf",
+    "url": "unit/wolf",
     "stats": [
       {
         "A": "1",
@@ -8807,25 +4651,6 @@
     ],
     "troopType": "LCa",
     "page": "CD, p. 5, RH, p. 19"
-  },
-  "gigantic spawn of chaos": {
-    "url": "unit/gigantic-spawn-of-chaos",
-    "stats": [
-      {
-        "A": "D6+1",
-        "I": "3",
-        "M": "3D6",
-        "S": "6",
-        "T": "6",
-        "W": "6",
-        "BS": "0",
-        "Ld": "10",
-        "WS": "3",
-        "Name": "Gigantic Spawn"
-      }
-    ],
-    "troopType": "Be",
-    "page": "AJ:WoC, p. 43"
   },
   "gigantic spider": {
     "url": "unit/gigantic-spider",
@@ -9063,18 +4888,18 @@
     "troopType": "RI",
     "page": "OK, p. 9"
   },
-  "goblin bigboss": {
-    "url": "unit/goblin-bigboss",
+  "goblin big boss": {
+    "url": "unit/goblin-big-boss",
     "stats": [
       {
         "A": "3",
-        "I": "4",
+        "I": "3",
         "M": "4",
         "S": "4",
         "T": "4",
         "W": "2",
         "BS": "3",
-        "Ld": "6",
+        "Ld": "7",
         "WS": "4",
         "Name": "Goblin Bigboss"
       }
@@ -9082,39 +4907,39 @@
     "troopType": "RI",
     "page": "RH, p. 15"
   },
-  "goblin bolt throwa": {
-    "url": "unit/goblin-bolt-throwa",
+  "goblin spear chukka": {
+    "url": "unit/spear-chukka",
     "stats": [
       {
         "A": "-",
         "I": "-",
         "M": "-",
         "S": "-",
-        "T": "5",
+        "T": "7",
         "W": "3",
         "BS": "-",
         "Ld": "-",
         "WS": "-",
-        "Name": "Bolt Throwa"
+        "Name": "Spear Chukka"
       },
       {
         "A": "3",
-        "I": "3",
+        "I": "2",
         "M": "4",
         "S": "3",
         "T": "3",
         "W": "3",
         "BS": "3",
-        "Ld": "4",
+        "Ld": "6",
         "WS": "2",
-        "Name": "Goblin Crew"
+        "Name": "Goblin Crew x3"
       }
     ],
     "troopType": "WM",
     "page": "RH, p. 40"
   },
-  "goblin mob": {
-    "url": "unit/goblin-mob",
+  "goblins": {
+    "url": "unit/goblin",
     "stats": [
       {
         "A": "1",
@@ -9124,7 +4949,7 @@
         "T": "3",
         "W": "1",
         "BS": "3",
-        "Ld": "5",
+        "Ld": "6",
         "WS": "2",
         "Name": "Goblin"
       },
@@ -9144,12 +4969,12 @@
     "troopType": "RI",
     "page": "RH, p. 23"
   },
-  "goblin oddgit": {
-    "url": "unit/goblin-oddgit",
+  "goblin shaman": {
+    "url": "unit/goblin-shaman",
     "stats": [
       {
         "A": "1",
-        "I": "3",
+        "I": "2",
         "M": "4",
         "S": "3",
         "T": "3",
@@ -9157,41 +4982,41 @@
         "BS": "3",
         "Ld": "6",
         "WS": "3",
-        "Name": "Goblin Oddgit"
+        "Name": "Goblin Shaman"
       }
     ],
     "troopType": "RI",
     "page": "RH, p. 16"
   },
-  "goblin oddnob": {
-    "url": "unit/goblin-oddnob",
+  "goblin great shaman": {
+    "url": "unit/goblin-great-shaman",
     "stats": [
       {
         "A": "2",
-        "I": "4",
+        "I": "2",
         "M": "4",
         "S": "3",
         "T": "4",
         "W": "3",
         "BS": "3",
         "Ld": "7",
-        "WS": "4",
-        "Name": "Goblin Oddnob"
+        "WS": "2",
+        "Name": "Goblin Great Shaman"
       }
     ],
     "troopType": "RI",
     "page": "RH, p. 16"
   },
   "goblin rock lobber": {
-    "url": "unit/goblin-rock-lobber",
+    "url": "unit/rock-lobber",
     "stats": [
       {
         "A": "-",
         "I": "-",
         "M": "-",
         "S": "-",
-        "T": "6",
-        "W": "4",
+        "T": "7",
+        "W": "3",
         "BS": "-",
         "Ld": "-",
         "WS": "-",
@@ -9199,7 +5024,7 @@
       },
       {
         "A": "3",
-        "I": "3",
+        "I": "2",
         "M": "4",
         "S": "3",
         "T": "3",
@@ -9207,7 +5032,7 @@
         "BS": "3",
         "Ld": "4",
         "WS": "2",
-        "Name": "Goblin Crew"
+        "Name": "Goblin Crew (x3)"
       }
     ],
     "troopType": "WM",
@@ -9292,7 +5117,7 @@
       },
       {
         "A": "1",
-        "I": "3",
+        "I": "2",
         "M": "-",
         "S": "3",
         "T": "-",
@@ -9318,24 +5143,12 @@
     "troopType": "LCh",
     "page": "RH, p. 34"
   },
-  "goblin wolf rider mob": {
-    "url": "unit/goblin-wolf-rider-mob",
+  "goblin wolf riders": {
+    "url": "unit/wolf-rider",
     "stats": [
       {
         "A": "1",
-        "I": "3",
-        "M": "-",
-        "S": "3",
-        "T": "3",
-        "W": "1",
-        "BS": "3",
-        "Ld": "5",
-        "WS": "2",
-        "Name": "Wolf Rider"
-      },
-      {
-        "A": "2",
-        "I": "3",
+        "I": "2",
         "M": "-",
         "S": "3",
         "T": "3",
@@ -9343,7 +5156,19 @@
         "BS": "3",
         "Ld": "6",
         "WS": "2",
-        "Name": "Boss"
+        "Name": "Wolf Rider"
+      },
+      {
+        "A": "2",
+        "I": "2",
+        "M": "-",
+        "S": "3",
+        "T": "3",
+        "W": "1",
+        "BS": "3",
+        "Ld": "6",
+        "WS": "2",
+        "Name": "Wolf Rider Boss"
       },
       {
         "A": "1",
@@ -9355,7 +5180,7 @@
         "BS": "-",
         "Ld": "-",
         "WS": "3",
-        "Name": "Giant Wolf"
+        "Name": "Wolf"
       }
     ],
     "troopType": "LCa",
@@ -11498,99 +7323,6 @@
     "troopType": "LCa",
     "page": "RH, p. 69"
   },
-  "marauder tribe berserkers": {
-    "url": "unit/marauder-tribe-berserkers",
-    "stats": [
-      {
-        "A": "1",
-        "I": "3",
-        "M": "5",
-        "S": "3",
-        "T": "4",
-        "W": "1",
-        "BS": "3",
-        "Ld": "7",
-        "WS": "4",
-        "Name": "Marauder Tribe Berserker"
-      },
-      {
-        "A": "2",
-        "I": "3",
-        "M": "5",
-        "S": "3",
-        "T": "4",
-        "W": "1",
-        "BS": "3",
-        "Ld": "8",
-        "WS": "4",
-        "Name": "Headtaker"
-      }
-    ],
-    "troopType": "RI",
-    "page": "AJ:WoC, p. 39"
-  },
-  "marauder tribe chieftain": {
-    "url": "unit/marauder-tribe-chieftain",
-    "stats": [
-      {
-        "A": "3",
-        "I": "4",
-        "M": "4",
-        "S": "4",
-        "T": "4",
-        "W": "2",
-        "BS": "3",
-        "Ld": "8",
-        "WS": "5",
-        "Name": "Marauder Tribe Chieftains"
-      }
-    ],
-    "troopType": "RI",
-    "page": "AJ:WoC, p. 38"
-  },
-  "marauder tribe huscarls": {
-    "url": "unit/marauder-tribe-huscarls",
-    "stats": [
-      {
-        "A": "1",
-        "I": "3",
-        "M": "4",
-        "S": "3",
-        "T": "4",
-        "W": "1",
-        "BS": "3",
-        "Ld": "7",
-        "WS": "4",
-        "Name": "Marauder Tribe Huscarl"
-      },
-      {
-        "A": "2",
-        "I": "3",
-        "M": "4",
-        "S": "3",
-        "T": "4",
-        "W": "1",
-        "BS": "3",
-        "Ld": "8",
-        "WS": "4",
-        "Name": "First Sword"
-      },
-      {
-        "A": "1",
-        "I": "3",
-        "M": "8",
-        "S": "3",
-        "T": "-",
-        "W": "-",
-        "BS": "-",
-        "Ld": "-",
-        "WS": "3",
-        "Name": "Warhorse"
-      }
-    ],
-    "troopType": "LCa",
-    "page": "AJ:WoC, p. 41"
-  },
   "master assassin": {
     "url": "unit/master-assassin",
     "stats": [
@@ -12208,8 +7940,8 @@
     "troopType": "RI",
     "page": "AJ:TKoK, p. 41"
   },
-  "night goblin bigboss": {
-    "url": "unit/night-goblin-bigboss",
+  "night goblin big boss": {
+    "url": "unit/night-goblin-big-boss",
     "stats": [
       {
         "A": "3",
@@ -12219,7 +7951,7 @@
         "T": "4",
         "W": "2",
         "BS": "3",
-        "Ld": "5",
+        "Ld": "6",
         "WS": "4",
         "Name": "Night Goblin Bigboss"
       }
@@ -12227,8 +7959,8 @@
     "troopType": "RI",
     "page": "RH, p. 17"
   },
-  "night goblin mob": {
-    "url": "unit/night-goblin-mob",
+  "night goblins": {
+    "url": "unit/night-goblin",
     "stats": [
       {
         "A": "1",
@@ -12252,14 +7984,14 @@
         "BS": "3",
         "Ld": "5",
         "WS": "2",
-        "Name": "Boss"
+        "Name": "Night Goblin Boss"
       }
     ],
     "troopType": "RI",
     "page": "RH, p. 25"
   },
-  "night goblin oddgit": {
-    "url": "unit/night-goblin-oddgit",
+  "night goblin shaman": {
+    "url": "unit/night-goblin-shaman",
     "stats": [
       {
         "A": "1",
@@ -12271,33 +8003,33 @@
         "BS": "3",
         "Ld": "5",
         "WS": "3",
-        "Name": "Night Goblin Oddgit"
+        "Name": "Night Goblin Shaman"
       }
     ],
     "troopType": "RI",
     "page": "RH, p. 18"
   },
-  "night goblin oddnob": {
-    "url": "unit/night-goblin-oddnob",
+  "night goblin great shaman": {
+    "url": "unit/night-goblin-great-shaman",
     "stats": [
       {
         "A": "2",
-        "I": "4",
+        "I": "3",
         "M": "4",
         "S": "3",
         "T": "4",
         "W": "3",
         "BS": "3",
         "Ld": "6",
-        "WS": "4",
-        "Name": "Night Goblin Oddnob"
+        "WS": "2",
+        "Name": "Night Goblin Great Shaman"
       }
     ],
     "troopType": "RI",
     "page": "RH, p. 18"
   },
   "night goblin squig herd": {
-    "url": "unit/night-goblin-squig-herd",
+    "url": "unit/night-goblin-squig-herder",
     "stats": [
       {
         "A": "1",
@@ -12307,14 +8039,14 @@
         "T": "3",
         "W": "1",
         "BS": "3",
-        "Ld": "6",
+        "Ld": "5",
         "WS": "2",
         "Name": "Squig Herder"
       },
       {
         "A": "2",
         "I": "4",
-        "M": "4",
+        "M": "2D6",
         "S": "5",
         "T": "3",
         "W": "1",
@@ -12527,18 +8259,18 @@
     "troopType": "MI",
     "page": "OK, p. 8"
   },
-  "orc bigboss": {
-    "url": "unit/orc-bigboss",
+  "orc big boss": {
+    "url": "unit/orc-big-boss",
     "stats": [
       {
         "A": "3",
-        "I": "4",
+        "I": "3",
         "M": "4",
         "S": "4",
         "T": "5",
         "W": "2",
         "BS": "2",
-        "Ld": "7",
+        "Ld": "8",
         "WS": "5",
         "Name": "Orc Bigboss"
       }
@@ -12546,24 +8278,31 @@
     "troopType": "RI",
     "page": "RH, p. 13"
   },
-  "orc boar boy mob": {
-    "url": "unit/orc-boar-boy-mob",
+  "savage orc big boss": {
+    "url": "unit/savage-orc-big-boss",
+    "stats": [
+      {
+        "A": "3",
+        "I": "3",
+        "M": "4",
+        "S": "4",
+        "T": "5",
+        "W": "2",
+        "BS": "2",
+        "Ld": "8",
+        "WS": "5",
+        "Name": "Orc Bigboss"
+      }
+    ],
+    "troopType": "RI",
+    "page": "RH, p. 13"
+  },
+  "orc boar boyz": {
+    "url": "unit/orc-boar-boy",
     "stats": [
       {
         "A": "1",
-        "I": "3",
-        "M": "-",
-        "S": "3",
-        "T": "4",
-        "W": "1",
-        "BS": "3",
-        "Ld": "6",
-        "WS": "3",
-        "Name": "Boar Boy"
-      },
-      {
-        "A": "2",
-        "I": "3",
+        "I": "2",
         "M": "-",
         "S": "3",
         "T": "4",
@@ -12571,6 +8310,61 @@
         "BS": "3",
         "Ld": "7",
         "WS": "3",
+        "Name": "Boar Boy"
+      },
+      {
+        "A": "2",
+        "I": "2",
+        "M": "-",
+        "S": "4",
+        "T": "4",
+        "W": "1",
+        "BS": "3",
+        "Ld": "7",
+        "WS": "4",
+        "Name": "Boss"
+      },
+      {
+        "A": "1",
+        "I": "3",
+        "M": "7",
+        "S": "3",
+        "T": "-",
+        "W": "-",
+        "BS": "-",
+        "Ld": "-",
+        "WS": "3",
+        "Name": "War Boar"
+      }
+    ],
+    "troopType": "HCa",
+    "page": "RH, p. 29"
+  },
+  "savage orc boar boyz": {
+    "url": "unit/savage-orc-boar-boy",
+    "stats": [
+      {
+        "A": "1",
+        "I": "2",
+        "M": "-",
+        "S": "3",
+        "T": "4",
+        "W": "1",
+        "BS": "3",
+        "Ld": "7",
+        "WS": "3",
+        "Name": "Boar Boy"
+      },
+      {
+        "A": "2",
+        "I": "2",
+        "M": "-",
+        "S": "4",
+        "T": "4",
+        "W": "1",
+        "BS": "3",
+        "Ld": "7",
+        "WS": "4",
         "Name": "Boss"
       },
       {
@@ -12606,7 +8400,7 @@
       },
       {
         "A": "1",
-        "I": "3",
+        "I": "2",
         "M": "-",
         "S": "3",
         "T": "-",
@@ -12651,24 +8445,12 @@
     "troopType": "RI",
     "page": "RH, p. 41"
   },
-  "orc mob": {
-    "url": "unit/orc-mob",
+  "orc boyz": {
+    "url": "unit/orc",
     "stats": [
       {
         "A": "1",
-        "I": "3",
-        "M": "4",
-        "S": "3",
-        "T": "4",
-        "W": "1",
-        "BS": "3",
-        "Ld": "6",
-        "WS": "3",
-        "Name": "Orc Boy"
-      },
-      {
-        "A": "2",
-        "I": "3",
+        "I": "2",
         "M": "4",
         "S": "3",
         "T": "4",
@@ -12676,7 +8458,81 @@
         "BS": "3",
         "Ld": "7",
         "WS": "3",
+        "Name": "Orc Boy"
+      },
+      {
+        "A": "2",
+        "I": "3",
+        "M": "4",
+        "S": "4",
+        "T": "4",
+        "W": "1",
+        "BS": "3",
+        "Ld": "7",
+        "WS": "4",
         "Name": "Boss"
+      }
+    ],
+    "troopType": "RI",
+    "page": "RH, p. 22"
+  },
+  "orc arrer boyz": {
+    "url": "unit/orc-arrer-boy",
+    "stats": [
+      {
+        "A": "1",
+        "I": "2",
+        "M": "4",
+        "S": "3",
+        "T": "4",
+        "W": "1",
+        "BS": "3",
+        "Ld": "7",
+        "WS": "3",
+        "Name": "Orc Arrer Boy"
+      },
+      {
+        "A": "2",
+        "I": "2",
+        "M": "4",
+        "S": "4",
+        "T": "4",
+        "W": "1",
+        "BS": "3",
+        "Ld": "7",
+        "WS": "4",
+        "Name": "Orc Arrer Boss"
+      }
+    ],
+    "troopType": "RI",
+    "page": "RH, p. 22"
+  },
+  "savage orcs": {
+    "url": "unit/savage-orc",
+    "stats": [
+      {
+        "A": "1",
+        "I": "2",
+        "M": "4",
+        "S": "3",
+        "T": "4",
+        "W": "1",
+        "BS": "3",
+        "Ld": "7",
+        "WS": "3",
+        "Name": "Savage Orc Boy"
+      },
+      {
+        "A": "2",
+        "I": "2",
+        "M": "4",
+        "S": "4",
+        "T": "4",
+        "W": "1",
+        "BS": "3",
+        "Ld": "7",
+        "WS": "4",
+        "Name": "Savage Orc Boss"
       }
     ],
     "troopType": "RI",
@@ -12687,13 +8543,13 @@
     "stats": [
       {
         "A": "4",
-        "I": "5",
+        "I": "4",
         "M": "4",
         "S": "5",
         "T": "5",
         "W": "3",
         "BS": "2",
-        "Ld": "8",
+        "Ld": "9",
         "WS": "6",
         "Name": "Orc Warboss"
       }
@@ -12701,39 +8557,96 @@
     "troopType": "RI",
     "page": "RH, p. 13"
   },
-  "orc weirdboy": {
-    "url": "unit/orc-weirdboy",
+  "savage orc warboss": {
+    "url": "unit/savage-orc-warboss",
+    "stats": [
+      {
+        "A": "4",
+        "I": "4",
+        "M": "4",
+        "S": "5",
+        "T": "5",
+        "W": "3",
+        "BS": "2",
+        "Ld": "9",
+        "WS": "6",
+        "Name": "Savage Orc Warboss"
+      }
+    ],
+    "troopType": "RI",
+    "page": "RH, p. 13"
+  },
+  "orc shaman": {
+    "url": "unit/orc-shaman",
     "stats": [
       {
         "A": "1",
-        "I": "3",
+        "I": "2",
         "M": "4",
         "S": "3",
         "T": "4",
         "W": "2",
-        "BS": "2",
+        "BS": "3",
         "Ld": "7",
         "WS": "3",
-        "Name": "Orc Weirdboy"
+        "Name": "Orc Shaman"
       }
     ],
     "troopType": "RI",
     "page": "RH, p. 14"
   },
-  "orc weirdnob": {
-    "url": "unit/orc-weirdnob",
+  "savage orc shaman": {
+    "url": "unit/savage-orc-shaman",
+    "stats": [
+      {
+        "A": "1",
+        "I": "2",
+        "M": "4",
+        "S": "3",
+        "T": "4",
+        "W": "2",
+        "BS": "3",
+        "Ld": "7",
+        "WS": "3",
+        "Name": "Orc Shaman"
+      }
+    ],
+    "troopType": "RI",
+    "page": "RH, p. 14"
+  },
+  "orc great shaman": {
+    "url": "unit/orc-great-shaman",
     "stats": [
       {
         "A": "2",
-        "I": "4",
+        "I": "2",
         "M": "4",
         "S": "4",
-        "T": "5",
+        "T": "4",
         "W": "3",
-        "BS": "2",
+        "BS": "3",
         "Ld": "8",
         "WS": "4",
-        "Name": "Orc Weirdnob"
+        "Name": "Orc Great Shaman"
+      }
+    ],
+    "troopType": "RI",
+    "page": "RH, p. 14"
+  },
+  "savage orc great shaman": {
+    "url": "unit/savage-orc-great-shaman",
+    "stats": [
+      {
+        "A": "2",
+        "I": "2",
+        "M": "4",
+        "S": "4",
+        "T": "4",
+        "W": "3",
+        "BS": "3",
+        "Ld": "8",
+        "WS": "4",
+        "Name": "Orc Great Shaman"
       }
     ],
     "troopType": "RI",
@@ -13790,8 +9703,8 @@
     "troopType": "MCa",
     "page": "LM, p. 11"
   },
-  "river troll mob": {
-    "url": "unit/river-troll-mob",
+  "river troll": {
+    "url": "unit/river-troll",
     "stats": [
       {
         "A": "3",
@@ -13799,7 +9712,7 @@
         "M": "6",
         "S": "5",
         "T": "4",
-        "W": "4",
+        "W": "3",
         "BS": "1",
         "Ld": "4",
         "WS": "3",
@@ -15008,37 +10921,6 @@
     "troopType": "RI",
     "page": "VC, p. 10"
   },
-  "skin wolves": {
-    "url": "unit/skin-wolves",
-    "stats": [
-      {
-        "A": "3",
-        "I": "4",
-        "M": "7",
-        "S": "4",
-        "T": "4",
-        "W": "3",
-        "BS": "-",
-        "Ld": "7",
-        "WS": "5",
-        "Name": "Skin Wolf"
-      },
-      {
-        "A": "4",
-        "I": "4",
-        "M": "7",
-        "S": "4",
-        "T": "4",
-        "W": "3",
-        "BS": "-",
-        "Ld": "7",
-        "WS": "5",
-        "Name": "Skin Wolf Jarl"
-      }
-    ],
-    "troopType": "MI",
-    "page": "AJ:WoC, p. 40"
-  },
   "skink chief": {
     "url": "unit/skink-chief",
     "stats": [
@@ -15239,8 +11121,8 @@
     "troopType": "RI",
     "page": "CD, p. 8"
   },
-  "snotling mob": {
-    "url": "unit/snotling-mob",
+  "snotlings": {
+    "url": "unit/snotling-swarm",
     "stats": [
       {
         "A": "5",
@@ -15584,8 +11466,8 @@
     "troopType": "Be",
     "page": "LM, p. 13"
   },
-  "stone troll mob": {
-    "url": "unit/stone-troll-mob",
+  "stone troll": {
+    "url": "unit/stone-troll",
     "stats": [
       {
         "A": "3",
@@ -15595,7 +11477,7 @@
         "T": "4",
         "W": "3",
         "BS": "1",
-        "Ld": "5",
+        "Ld": "4",
         "WS": "3",
         "Name": "Stone Troll"
       }
@@ -16401,25 +12283,6 @@
     "troopType": "MCr",
     "page": "LM, p. 15"
   },
-  "troll hag": {
-    "url": "unit/troll-hag",
-    "stats": [
-      {
-        "A": "3",
-        "I": "2",
-        "M": "5",
-        "S": "6",
-        "T": "5",
-        "W": "6",
-        "BS": "2",
-        "Ld": "8",
-        "WS": "2",
-        "Name": "Troll Hag"
-      }
-    ],
-    "troopType": "Be",
-    "page": "AJ:O&GT, p. 38"
-  },
   "tuskgor chariot": {
     "url": "unit/tuskgor-chariot",
     "stats": [
@@ -16776,7 +12639,7 @@
     "page": "FoF, p. 67"
   },
   "war boar": {
-    "url": "unit/war-boar",
+    "url": "unit/boar",
     "stats": [
       {
         "A": "1",
@@ -16956,8 +12819,8 @@
     "troopType": "LCa",
     "page": "RH, p. 95"
   },
-  "warhorse bretonnia": {
-    "url": "unit/warhorse-bretonnia",
+  "warhorse": {
+    "url": "unit/warhorse",
     "stats": [
       {
         "A": "1",
@@ -16974,25 +12837,6 @@
     ],
     "troopType": "LCa",
     "page": "FoF, p. 89"
-  },
-  "warhorse warriors of chaos": {
-    "url": "unit/warhorse-warriors-of-chaos",
-    "stats": [
-      {
-        "A": "1",
-        "I": "3",
-        "M": "8",
-        "S": "3",
-        "T": "-",
-        "W": "-",
-        "BS": "-",
-        "Ld": "-",
-        "WS": "3",
-        "Name": "Warhorse"
-      }
-    ],
-    "troopType": "LCa",
-    "page": "AJ:WoC, p. 38"
   },
   "warlock engineer": {
     "url": "unit/warlock-engineer",
@@ -17012,25 +12856,6 @@
     ],
     "troopType": "RI",
     "page": "SK, p. 4"
-  },
-  "warpfire dragon": {
-    "url": "unit/warpfire-dragon",
-    "stats": [
-      {
-        "A": "5",
-        "I": "3",
-        "M": "6",
-        "S": "6",
-        "T": "6",
-        "W": "6",
-        "BS": "0",
-        "Ld": "8",
-        "WS": "6",
-        "Name": "Warpfire Dragon"
-      }
-    ],
-    "troopType": "Be",
-    "page": "AJ:WoC, p. 44"
   },
   "warplock jezzails": {
     "url": "unit/warplock-jezzails",
@@ -17462,196 +13287,5 @@
     ],
     "troopType": "RI",
     "page": "VC, p. 10"
-  },
-  "'ere we go!": { "url": "spell/ere-we-go", "page": "RB, p. 335" },
-  "acidic bile": { "url": "spell/acidic-bile" },
-  "acquiescence": { "url": "spell/acquiescence", "page": "RH, p. 83" },
-  "apotheosis": { "url": "spell/apotheosis", "page": "LM, p. 21" },
-  "arcane urgency": { "url": "spell/arcane-urgency", "page": "RB, p. 321" },
-  "bad moon rizin'": { "url": "spell/bad-moon-rizin", "page": "RB, p. 335" },
-  "battle lust": { "url": "spell/battle-lust", "page": "RB, p. 325" },
-  "big smartz": { "url": "spell/big-smartz" },
-  "black horror": { "url": "spell/black-horror", "page": "DE, p. 26" },
-  "blue fire": { "url": "spell/blue-fire", "page": "RH, p. 83" },
-  "brain bursta": { "url": "spell/brain-bursta", "page": "RH, p. 47" },
-  "burning gaze": { "url": "spell/burning-gaze", "page": "FoF, p. 109" },
-  "cacophonic hymn": { "url": "spell/cacophonic-hymn", "page": "DoC, p. 34" },
-  "cloud of corruption": {
-    "url": "spell/cloud-of-corruption",
-    "page": "SK, p. 24"
-  },
-  "column of crystal": {
-    "url": "spell/column-of-crystal",
-    "page": "RB, p. 331"
-  },
-  "confounding convocation": {
-    "url": "spell/confounding-convocation",
-    "page": "RB, p. 331"
-  },
-  "corporeal unmaking": {
-    "url": "spell/corporeal-unmaking",
-    "page": "RB, p. 329"
-  },
-  "courage of aenarion": {
-    "url": "spell/courage-of-aenarion",
-    "page": "FoF, p. 186"
-  },
-  "curse of arrow attraction": {
-    "url": "spell/curse-of-arrow-attraction",
-    "page": "RB, p. 321"
-  },
-  "curse of cowardly flight": {
-    "url": "spell/curse-of-cowardly-flight",
-    "page": "RB, p. 321"
-  },
-  "curse of hashut": { "url": "spell/curse-of-hashut", "page": "CD, p. 21" },
-  "curse of years": { "url": "spell/curse-of-years", "page": "RB, p. 333" },
-  "cursing word": { "url": "spell/cursing-word", "page": "DE, p. 26" },
-  "daemonic familiars": {
-    "url": "spell/daemonic-familiars",
-    "page": "RB, p. 323"
-  },
-  "daemonic vessel": { "url": "spell/daemonic-vessel", "page": "RB, p. 323" },
-  "daemonic vigour": { "url": "spell/daemonic-vigour", "page": "RB, p. 323" },
-  "deathly cabal": { "url": "spell/deathly-cabal", "page": "RB, p. 333" },
-  "devolve": { "url": "spell/devolve", "page": "RH, p. 117" },
-  "djaf's incantation of cursed blades": {
-    "url": "spell/djafs-incantation-of-cursed-blades",
-    "page": "RH, p. 155"
-  },
-  "doombolt": { "url": "spell/doombolt", "page": "RB, p. 324" },
-  "drain magic": { "url": "spell/drain-magic", "page": "RB, p. 328" },
-  "earthen ramparts": { "url": "spell/earthen-ramparts", "page": "RB, p. 327" },
-  "evil sun shinin'": { "url": "spell/evil-sun-shinin", "page": "RB, p. 335" },
-  "fiery convocation": {
-    "url": "spell/fiery-convocation",
-    "page": "RB, p. 329"
-  },
-  "fireball": { "url": "spell/fireball", "page": "RB, p. 321" },
-  "fist of gork": { "url": "spell/fist-of-gork-or-mork", "page": "RB, p. 334" },
-  "flames of hashut": { "url": "spell/flames-of-hashut", "page": "CD, p. 21" },
-  "flaming sword": { "url": "spell/flaming-sword", "page": "RB, p. 327" },
-  "fleshy abundance": { "url": "spell/fleshy-abundance", "page": "RH, p. 83" },
-  "flock of doom": { "url": "spell/flock-of-doom", "page": "FoF, p. 146" },
-  "foetid whirlpool": { "url": "spell/foetid-whirlpool" },
-  "foot of gork": { "url": "spell/foot-of-gork-or-mork", "page": "RB, p. 335" },
-  "forest walker": { "url": "spell/forest-walker", "page": "FoF, p. 146" },
-  "fury of khaine": { "url": "spell/fury-of-khaine", "page": "RB, p. 329" },
-  "gathering darkness": {
-    "url": "spell/gathering-darkness",
-    "page": "RB, p. 323"
-  },
-  "gaze of gork": { "url": "spell/gaze-of-gork", "page": "RH, p. 47" },
-  "gift of mutation": { "url": "spell/gift-of-mutation", "page": "DoC, p. 34" },
-  "glittering robe": { "url": "spell/glittering-robe", "page": "RB, p. 330" },
-  "hammerhand": { "url": "spell/hammerhand", "page": "RB, p. 320" },
-  "hand of khaine": { "url": "spell/hand-of-khaine", "page": "FoF, p. 186" },
-  "hand of mork": { "url": "spell/hand-of-mork-or-gork", "page": "RB, p. 335" },
-  "hellish vigour": { "url": "spell/hellish-vigour", "page": "VC, p. 29" },
-  "infernal gateway": { "url": "spell/infernal-gateway", "page": "RB, p. 325" },
-  "itchy nuisance": { "url": "spell/itchy-nuisance", "page": "RH, p. 47" },
-  "khsar's incantation of the desert wind": {
-    "url": "spell/khsars-incantation-of-the-desert-wind",
-    "page": "RH, p. 155"
-  },
-  "light of death": { "url": "spell/light-of-death", "page": "RH, p. 149" },
-  "light of protection": {
-    "url": "spell/light-of-protection",
-    "page": "RH, p. 149"
-  },
-  "mantle of ghorok": { "url": "spell/mantle-of-ghorok", "page": "RH, p. 117" },
-  "miasmic mirage": { "url": "spell/miasmic-mirage", "page": "RB, p. 331" },
-  "mind razor": { "url": "spell/mind-razor", "page": "RB, p. 331" },
-  "monsoon": { "url": "spell/monsoon", "page": "LM, p. 21" },
-  "mork’s curse": { "url": "spell/morks-curse", "page": "RH, p. 47" },
-  "oaken shield": { "url": "spell/oaken-shield", "page": "RB, p. 321" },
-  "phantasmagoria": { "url": "spell/phantasmagoria", "page": "RB, p. 325" },
-  "pillar of fire": { "url": "spell/pillar-of-fire", "page": "RB, p. 321" },
-  "pink fire": { "url": "spell/pink-fire", "page": "DoC, p. 34" },
-  "plague of rust": { "url": "spell/plague-of-rust", "page": "RB, p. 327" },
-  "plague wind": { "url": "spell/plague-wind", "page": "DoC, p. 34" },
-  "raise dead": { "url": "spell/raise-dead", "page": "VC, p. 29" },
-  "rapid regeneration": { "url": "spell/rapid-regeneration" },
-  "ravenous recourse": { "url": "spell/ravenous-recourse" },
-  "rune of haste & urgency": {
-    "url": "spell/rune-of-haste-and-urgency",
-    "page": "FoF, p. 15"
-  },
-  "rune of hearth & home": {
-    "url": "spell/rune-of-hearth-and-home",
-    "page": "FoF, p. 15"
-  },
-  "rune of oath & steel": {
-    "url": "spell/rune-of-oath-and-steel",
-    "page": "FoF, p. 15"
-  },
-  "rune of wrath & ruin": {
-    "url": "spell/rune-of-wrath-and-ruin",
-    "page": "FoF, p. 15"
-  },
-  "shield of saphery": {
-    "url": "spell/shield-of-saphery",
-    "page": "RB, p. 329"
-  },
-  "shimmering dragon": {
-    "url": "spell/shimmering-dragon",
-    "page": "RB, p. 331"
-  },
-  "skitterleap": { "url": "spell/skitterleap", "page": "SK, p. 24" },
-  "soul eater": { "url": "spell/soul-eater", "page": "RB, p. 325" },
-  "spectral doppelganger": {
-    "url": "spell/spectral-doppelganger",
-    "page": "RB, p. 331"
-  },
-  "spectral steed": { "url": "spell/spectral-steed", "page": "RB, p. 333" },
-  "spirit leech": { "url": "spell/spirit-leech", "page": "RB, p. 333" },
-  "spiritual vortex": { "url": "spell/spiritual-vortex", "page": "RB, p. 333" },
-  "steed of shadows": { "url": "spell/steed-of-shadows", "page": "RB, p. 323" },
-  "storm of ash": { "url": "spell/storm-of-ash", "page": "CD, p. 21" },
-  "stream of corruption": {
-    "url": "spell/stream-of-corruption",
-    "page": "RB, p. 325"
-  },
-  "summon elemental spirit": {
-    "url": "spell/summon-elemental-spirit",
-    "page": "RB, p. 327"
-  },
-  "tempest": { "url": "spell/tempest", "page": "RB, p. 329" },
-  "the dwellers below": {
-    "url": "spell/the-dwellers-below",
-    "page": "RB, p. 332"
-  },
-  "the lady's gift": { "url": "spell/the-ladys-gift", "page": "FoF, p. 109" },
-  "the lady's wrath": { "url": "spell/the-ladys-wrath", "page": "FoF, p. 109" },
-  "the summoning": { "url": "spell/the-summoning", "page": "RB, p. 322" },
-  "toothcracker": { "url": "spell/toothcracker", "page": "OK, p. 25" },
-  "torrent of filth": { "url": "spell/torrent-of-filth" },
-  "travel mystical pathway": {
-    "url": "spell/travel-mystical-pathway",
-    "page": "RB, p. 327"
-  },
-  "tree singing": { "url": "spell/tree-singing", "page": "FoF, p. 146" },
-  "troll brainz": { "url": "spell/troll-brainz" },
-  "trollguts": { "url": "spell/trollguts", "page": "OK, p. 25" },
-  "unquiet spirits": { "url": "spell/unquiet-spirits", "page": "RB, p. 333" },
-  "usekhp's incantation of desiccation": {
-    "url": "spell/usekhps-incantation-of-desiccation",
-    "page": "RH, p. 155"
-  },
-  "vanhal's danse macabre": {
-    "url": "spell/vanhals-danse-macabre",
-    "page": "VC, p. 29"
-  },
-  "vaul's unmaking": { "url": "spell/vauls-unmaking", "page": "FoF, p. 186" },
-  "viletide": { "url": "spell/viletide", "page": "RH, p. 117" },
-  "vindictive glare": { "url": "spell/vindictive-glare", "page": "RB, p. 335" },
-  "vortex of chaos": { "url": "spell/vortex-of-chaos", "page": "RB, p. 323" },
-  "walk between worlds": {
-    "url": "spell/walk-between-worlds",
-    "page": "RB, p. 329"
-  },
-  "warp lightning": { "url": "spell/warp-lightning", "page": "SK, p. 24" },
-  "wind blast": { "url": "spell/wind-blast", "page": "RB, p. 327" },
-  "winds of chaos": { "url": "spell/winds-of-chaos", "page": "RH, p. 83" },
-  "word of pain": { "url": "spell/word-of-pain", "page": "RB, p. 325" }
+  }
 }

@@ -167,6 +167,19 @@ export const getPoints = ({ type, list }) => {
   return points;
 };
 
+export const getUnitSlots = (unit) => {
+  return unit.slots ? unit.slots  : 1;
+};
+
+export const getOccupiedSlots = ({ type, list }) => {
+  let occupiedSlots = 0;
+  list[type] &&
+    list[type].forEach((unit) => {
+      occupiedSlots += getUnitSlots(unit);
+    });
+  return occupiedSlots;
+};
+
 export const getAllPoints = (list) => {
   const lordsPoints = getPoints({ list, type: "lords" });
   const heroesPoints = getPoints({ list, type: "heroes" });

@@ -1,5 +1,7 @@
 import { nameMap } from "../pages/magic";
-import { rulesMap, synonyms } from "../components/rules-index";
+import { sixthRulesMap, rulesMap, synonyms } from "../components/rules-index";
+import { useParams } from "react-router-dom";
+import { useSelector } from "react-redux";
 import { normalizeRuleName } from "./string";
 import loresOfMagicWithSpells from "../assets/lores-of-magic-with-spells.json";
 
@@ -228,6 +230,11 @@ export const getAllOptions = (
     ...lore,
   ];
 
+  // const { listId } = useParams();
+  // const list = useSelector((state) =>
+  //   state.lists.find(({ id }) => listId === id)
+  // );
+
   if (pageNumbers) {
     allOptionsArray = allOptionsArray.map((option) => {
       const page = getPage(option);
@@ -254,28 +261,45 @@ export const getAllOptions = (
 export const getPage = (name) => {
   const normalizedName = normalizeRuleName(name);
   const synonym = synonyms[normalizedName];
-  const page = rulesMap[synonym || normalizedName]?.page || "";
+  let page = rulesMap[synonym || normalizedName]?.page || "";
+  // if ( game == "warhammer-fantasy-6" ) {
+  //   page = sixthRulesMap[synonym || normalizedName]?.page || "";
+  // } else if ( game == "warhammer-fantasy-8" ) {
+  //   // TBD
+  // }
 
   return page.replace(/,/g, "");
 };
 
-export const getStats = (unit) => {
+export const getStats = (unit, game) => {
   const normalizedName = normalizeRuleName(unit.name_en);
   const synonym = synonyms[normalizedName];
-  const stats = rulesMap[synonym || normalizedName]?.stats || [];
   const activeMount = unit.mounts.find((mount) => mount.active);
   const normalizedMountName = normalizeRuleName(activeMount?.name_en || "");
   const mountSynonym = synonyms[normalizedMountName];
-  const mountStats = rulesMap[mountSynonym || normalizedMountName]?.stats || [];
+  let stats = rulesMap[synonym || normalizedName]?.stats || [];
+  let mountStats = rulesMap[mountSynonym || normalizedMountName]?.stats || [];
+  if ( game == "warhammer-fantasy-6" ) {
+    stats = sixthRulesMap[synonym || normalizedName]?.stats || [];
+    mountStats = sixthRulesMap[mountSynonym || normalizedMountName]?.stats || [];
+  } else if ( game == "warhammer-fantasy-8" ) {
+    // TBD
+  }
   const detachments = unit.detachments || [];
   const detachmentStats = [];
 
   detachments.forEach((detachment) => {
     const normalizedDetachment = normalizeRuleName(detachment?.name_en || "");
-    const detachmentSynonym = synonyms[normalizedDetachment];
+    let detachmentSynonym = synonyms[normalizedDetachment];
+    let detachStats = rulesMap[detachmentSynonym || normalizedDetachment]?.stats || []
+    if ( game == "warhammer-fantasy-6" ) {
+      detatchmentStats = sixthRulesMap[detachmentSynonym || normalizedDetachment]?.stats || []
+    } else if ( game == "warhammer-fantasy-8" ) {
+      // TBD
+    }
 
     detachmentStats.push(
-      ...(rulesMap[detachmentSynonym || normalizedDetachment]?.stats || [])
+      ...(detachStats)
     );
   });
 

@@ -22,6 +22,7 @@ export const RulesWithIcon = ({ textObject }) => {
   const ruleString = textObject[`name_${language}`] || textObject.name_en;
   const ruleButtons = ruleString.split(/, | \+ |\[/);
 
+
   return ruleButtons.map((rule, index) => {
     return (
       <Fragment key={`${rule}-${index}`}>

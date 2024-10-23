@@ -1,3 +1,146 @@
+export const sixthRules = {
+  "underTwoThousand": {
+    "grand-army": {
+      lords: { 
+        min: 0, 
+        max: 0,
+        units: [],
+      },
+      heroes: { 
+        min: 1, 
+        max: 3,
+        units: [],
+        requiresGeneral: true,
+      },
+      characters: { max: 3 },
+      core: { 
+        min: 2, 
+        max: 100,
+        units: [], 
+      },
+      special: { 
+        min: 0, 
+        max: 3,
+        units: [], 
+      },
+      rare: {
+        min: 0, 
+        max: 1,
+        units: [], 
+      }
+    },
+    "greenskins": {
+      lords: { 
+        min: 0, 
+        max: 0, 
+        units: [],
+      },
+      heroes: { 
+        min: 1, 
+        max: 3, 
+        units: [],
+      },
+      characters: { max: 3 },
+      core: {
+        min: 2, 
+        max: 100,
+        units: [
+          {
+            ids: ["snotlings"],
+            min: 0,
+            max: 1,
+          },
+        ],
+      },
+      special: {
+        min: 0, 
+        max: 3,
+        units: [
+          {
+            ids: ["blackorcs", "nightgoblinsquigherd"],
+            min: 0,
+            max: 1,
+          }
+        ],
+      },
+      rare: { 
+        min: 0, 
+        max: 1, 
+        units: [], 
+      }
+    },
+  },
+  "underThreeThousand": {
+    "grand-army": {
+      lords: {min: 0, max: 1 },
+      heroes: {min: 1, max: 4 },
+      characters: { max: 4 },
+      core: { min: 3, max: 100  },
+      special: {min: 0, max: 4 },
+      rare: {min: 0, max: 2 }
+    },
+    "greenskins": {
+      lords: { 
+        min: 0, 
+        max: 1, 
+        units: [],
+      },
+      heroes: { 
+        min: 1, 
+        max: 3, 
+        units: [],
+      },
+      characters: { max: 3 },
+      core: {
+        min: 2, 
+        max: 100,
+        units: [
+          {
+            ids: ["snotlings"],
+            min: 0,
+            max: 1,
+          },
+        ],
+      },
+      special: {
+        min: 0, 
+        max: 3,
+        units: [
+          {
+            ids: ["blackorcs", "nightgoblinsquigherd"],
+            min: 0,
+            max: 1,
+          }
+        ],
+      },
+      rare: { 
+        min: 0, 
+        max: 1, 
+        units: [], 
+      }
+    },
+  },
+}
+
+export const sixthComposition = {
+  "underTwoThousand": {
+    lords: { min: 0, max: 0 },
+    heroes: { min: 1, max: 3 },
+    characters: { max: 3 },
+    core: { min: 2, max: 100 },
+    special: { min: 0, max: 3 },
+    rare: { min: 0, max: 1 }
+  },
+  "underThreeThousand": {
+    lords: {min: 0, max: 1 },
+    heroes: {min: 1, max: 4 },
+    characters: { max: 4 },
+    core: { min: 3, max: 100  },
+    special: {min: 0, max: 4 },
+    rare: {min: 0, max: 2 }
+  },
+};
+
 export const rules = {
   "grand-army": {
     lords: { maxPercent: 25 },
@@ -2158,6 +2301,35 @@ export const rules = {
     mercenaries: { maxPercent: 20 },
     allies: { maxPercent: 25 },
   },
+};
+
+export const getSlots = ({
+  type,
+  occupiedSlots,
+  armyPoints
+}) => {
+  let categoryData = {};
+  let maxSlots = 0;
+  if (Number(armyPoints) < 2000){
+    categoryData = sixthComposition["underTwoThousand"]; 
+  } else {
+    categoryData = sixthComposition["underThreeThousand"]
+  }
+  if (!categoryData) {
+    return null;
+  }
+  maxSlots = categoryData[type]["max"];
+  
+  return {
+    minSlots: categoryData[type]["min"],
+    maxSlots: categoryData[type]["max"],
+    //categorySlots: ,
+    overLimit: occupiedSlots > maxSlots,
+    //underMin: occupiedSlots < minSlots,
+    occupiedSlots: occupiedSlots,
+    diff: Math.abs(occupiedSlots, maxSlots),
+    //diff: maxSlots - occupiedSlots
+  };
 };
 
 export const getMaxPercentData = ({

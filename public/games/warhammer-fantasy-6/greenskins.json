@@ -1,0 +1,2530 @@
+{
+  "characters": [],
+  "lords": [
+    {
+      "id": "grimgor",
+      "name_de": "Grimgork Eisenpelz",
+      "name_en": "Grimgor Ironhide",
+      "points": 600,
+      "named": true
+    },
+    {
+      "id": "wurrzag",
+      "name_en": "Wurrzag, da Great Green Prophet",
+      "points": 500,
+      "named": true,
+      "mounts": [
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 24
+        }
+      ]
+    },
+    {
+      "id": "orc-warboss",
+      "name_en": "Orc Warboss",
+      "points": 110,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        },
+        {
+          "name_de": "Zweihandwaffe",
+          "name_en": "Great weapon",
+          "points": 6
+        },
+        {
+          "name_de": "Zusätzliche Handwaffe (nur unberitten)",
+          "name_en": "Additional hand weapon (unless mounted)",
+          "points": 3
+        },
+        {
+          "name_de": "Speer (nur beritten)",
+          "name_en": "Spear (mounted only)",
+          "points": 3
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schild",
+          "name_en": "Shield",
+          "points": 3
+        },
+        {
+          "name_en": "Light armour",
+          "points": 3
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 24
+        },
+        {
+          "name_de": "Lindwurm",
+          "name_en": "Wyvern",
+          "points": 230
+        },
+        {
+          "name_de": "Ork-Wildschweinstreitwagen",
+          "name_en": "Orc Boar Chariot",
+          "points": 80,
+          "options": [
+            {
+              "name_de": "Zusätzliches Ork-Besatzungsmitglied",
+              "name_en": "Extra Orc Crew model",
+              "points": 6
+            }
+          ]
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "armor",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 100
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "armor",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 100
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Goblin Panic, Choppa"
+      }
+    },
+    {
+      "id": "savage-warboss",
+      "name_de": "Wildork-Waaaghboss",
+      "name_en": "Savage Orc Warboss",
+      "points": 125,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        },
+        {
+          "name_de": "Zweihandwaffe",
+          "name_en": "Great weapon",
+          "points": 6
+        },
+        {
+          "name_de": "Zusätzliche Handwaffe (nur unberitten)",
+          "name_en": "Additional hand weapon (unless mounted)",
+          "points": 3
+        },
+        {
+          "name_de": "Speer (nur beritten)",
+          "name_en": "Spear (mounted only)",
+          "points": 3
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schild",
+          "name_en": "Shield",
+          "points": 3
+        },
+        {
+          "name_en": "Warpaint",
+          "points": 12
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 24
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "armor",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 100
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "armor",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 100
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Goblin Panic, Choppa, Frenzy, Warpaint"
+      }
+    },
+    {
+      "id": "blorc-warboss",
+      "name_de": "Schwarzork-Waaaghboss",
+      "name_en": "Black Orc Warboss",
+      "points": 135,
+      "notes": {
+        "name_en": "Occupies a lord AND a hero slot",
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        },
+        {
+          "name_de": "Zweihandwaffe",
+          "name_en": "Great weapon",
+          "points": 6
+        },
+        {
+          "name_de": "Zusätzliche Handwaffe (nur unberitten)",
+          "name_en": "Additional hand weapon (unless mounted)",
+          "points": 3
+        },
+        {
+          "name_de": "Speer (nur beritten)",
+          "name_en": "Spear (mounted only)",
+          "points": 3
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schild",
+          "name_en": "Shield",
+          "points": 3
+        },
+        {
+          "name_en": "Light armour",
+          "points": 3
+        },
+        {
+          "name_en": "Heavy armour",
+          "points": 6
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 24
+        },
+        {
+          "name_de": "Lindwurm",
+          "name_en": "Wyvern",
+          "points": 230
+        },
+        {
+          "name_de": "Ork-Wildschweinstreitwagen",
+          "name_en": "Orc Boar Chariot",
+          "points": 80,
+          "options": [
+            {
+              "name_de": "Zusätzliches Ork-Besatzungsmitglied",
+              "name_en": "Extra Orc Crew model",
+              "points": 6
+            }
+          ]
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "armor",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 100
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "armor",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 100
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Greenskin Panic, Choppa, Quell Animosity"
+      }
+    },
+    {
+      "id": "goblin-warboss",
+      "name_de": "Goblin-Waaaghboss",
+      "name_en": "Goblin Warboss",
+      "points": 65,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        },
+        {
+          "name_de": "Zweihandwaffe",
+          "name_en": "Great weapon",
+          "points": 6
+        },
+        {
+          "name_de": "Zusätzliche Handwaffe (nur unberitten)",
+          "name_en": "Additional hand weapon (unless mounted)",
+          "points": 6
+        },
+        {
+          "name_de": "Speer (nur beritten)",
+          "name_en": "Spear (mounted only)",
+          "points": 3
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schild",
+          "name_en": "Shield",
+          "points": 3
+        },
+        {
+          "name_en": "Light armour",
+          "points": 3
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Riesenwolf",
+          "name_en": "Giant Wolf",
+          "points": 18
+        },
+        {
+          "name_de": "Goblin-Wolfsstreitwagen",
+          "name_en": "Wolf Chariot",
+          "points": 60,
+          "options": [
+            {
+              "name_de": "Zusätzliches Goblin-Besatzungsmitglied",
+              "name_en": "Extra Goblin Crew model",
+              "points": 3,
+              "perModel": true
+            },
+            {
+              "name_de": "Zusätzlicher Riesenwolf",
+              "name_en": "Extra Giant Wolf",
+              "points": 7,
+              "perModel": true
+            },
+            {
+              "name_en": "Spears (3 Goblin Crew)",
+              "points": 3,
+              "perModel": true
+            },
+            {
+              "name_en": "Spears (4 Goblin Crew)",
+              "points": 4,
+              "perModel": true
+            }
+          ]
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "armor",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 100
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "armor",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 100
+        }
+      ],
+      "specialRules": {
+        "name_en": "Fear Elves"
+      }
+    },
+    {
+      "id": "nightgoblin-warboss",
+      "name_de": "Nachtgoblin-Waaaghboss",
+      "name_en": "Night Goblin Warboss",
+      "points": 55,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        },
+        {
+          "name_de": "Zweihandwaffe",
+          "name_en": "Great weapon",
+          "points": 6
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schild",
+          "name_en": "Shield",
+          "points": 3
+        },
+        {
+          "name_de": "Leichte Rüstung",
+          "name_en": "Light armour",
+          "points": 3
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "armor",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 100
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "armor",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 100
+        }
+      ],
+      "specialRules": {
+        "name_en": "Fear Elves, Hate (Dwarfs)"
+      }
+    },
+    {
+      "id": "ork-greatshaman",
+      "name_de": "Ork-Grossschamane",
+      "name_en": "Orc Great Shaman",
+      "points": 180,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Zauberer der Stufe 4",
+          "name_en": "Level 4 Wizard",
+          "points": 35
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 24
+        },
+        {
+          "name_de": "Ork-Wildschweinstreitwagen",
+          "name_en": "Orc Boar Chariot",
+          "points": 80,
+          "options": [
+            {
+              "name_de": "Zusätzliches Ork-Besatzungsmitglied",
+              "name_en": "Extra Orc Crew model",
+              "points": 6
+            }
+          ]
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "arcane-item",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 100
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "arcane-item",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 100
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Goblin Panic, Choppa"
+      }
+    },
+    {
+      "id": "savage-greatshaman",
+      "name_de": "Wildork-Grossschamane",
+      "name_en": "Savage Orc Great Shaman",
+      "points": 190,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Zauberer der Stufe 4",
+          "name_en": "Level 4 Wizard",
+          "points": 35
+        },
+        {
+          "name_en": "Warpaint",
+          "points": 12
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 24
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "arcane-item",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 100
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "arcane-item",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 100
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Goblin Panic, Choppa, Frenzy, Warpaint"
+      }
+    },
+    {
+      "id": "goblin-greatshaman",
+      "name_de": "Goblin-Grossschamane",
+      "name_en": "Goblin Great Shaman",
+      "points": 155,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Zauberer der Stufe 4",
+          "name_en": "Level 4 Wizard",
+          "points": 35
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Riesenwolf",
+          "name_en": "Giant Wolf",
+          "points": 18
+        },
+        {
+          "name_de": "Goblin-Wolfsstreitwagen",
+          "name_en": "Wolf Chariot",
+          "points": 60,
+          "options": [
+            {
+              "name_de": "Zusätzliches Goblin-Besatzungsmitglied",
+              "name_en": "Extra Goblin Crew model",
+              "points": 3,
+              "perModel": true
+            },
+            {
+              "name_de": "Zusätzlicher Riesenwolf",
+              "name_en": "Extra Giant Wolf",
+              "points": 7,
+              "perModel": true
+            },
+            {
+              "name_en": "Spears (3 Goblin Crew)",
+              "points": 3,
+              "perModel": true
+            },
+            {
+              "name_en": "Spears (4 Goblin Crew)",
+              "points": 4,
+              "perModel": true
+            }
+          ]
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "arcane-item",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 100
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "arcane-item",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 100
+        }
+      ],
+      "specialRules": {
+        "name_en": "Fear Elves"
+      }
+    },
+    {
+      "id": "nightgoblin-greatshaman",
+      "name_de": "Nachtgoblin-Grossschamane",
+      "name_en": "Night Goblin Great Shaman",
+      "points": 140,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Zauberer der Stufe 4",
+          "name_en": "Level 4 Wizard",
+          "points": 35
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "arcane-item",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 100
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "arcane-item",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 100
+        }
+      ],
+      "specialRules": {
+        "name_en": "Fear Elves, Hate (Dwarfs)"
+      }
+    }
+  ],
+  "heroes": [
+    {
+      "id": "orc-bigboss",
+      "name_de": "Ork-Gargboss",
+      "name_en": "Orc Big Boss",
+      "points": 55,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        },
+        {
+          "name_en": "Battle Standard Bearer",
+          "name_de": "Battle Standard Bearer",
+          "name_fr": "Porteur de la Grande Bannière",
+          "points": 25,
+          "magic": {
+            "types": ["banner"],
+            "maxPoints": 0
+          }
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        },
+        {
+          "name_de": "Zweihandwaffe",
+          "name_en": "Great weapon",
+          "points": 4
+        },
+        {
+          "name_de": "Zusätzliche Handwaffe (nur unberitten)",
+          "name_en": "Additional hand weapon (unless mounted)",
+          "points": 2
+        },
+        {
+          "name_de": "Speer (nur beritten)",
+          "name_en": "Spear (mounted only)",
+          "points": 2
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schild",
+          "name_en": "Shield",
+          "points": 2
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 16
+        },
+        {
+          "name_de": "Ork-Wildschweinstreitwagen",
+          "name_en": "Orc Boar Chariot",
+          "points": 80,
+          "options": [
+            {
+              "name_de": "Zusätzliches Ork-Besatzungsmitglied",
+              "name_en": "Extra Orc Crew model",
+              "points": 6
+            }
+          ]
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "armor",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 50
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "armor",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 50
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Goblin Panic, Choppa"
+      }
+    },
+    {
+      "id": "savage-gargboss",
+      "name_de": "Wildork-Gargboss",
+      "name_en": "Savage Orc Big Boss",
+      "points": 75,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        },
+        {
+          "name_en": "Battle Standard Bearer",
+          "name_de": "Battle Standard Bearer",
+          "name_fr": "Porteur de la Grande Bannière",
+          "points": 25,
+          "magic": {
+            "types": ["banner"],
+            "maxPoints": 0
+          }
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        },
+        {
+          "name_de": "Zweihandwaffe",
+          "name_en": "Great weapon",
+          "points": 4
+        },
+        {
+          "name_de": "Zusätzliche Handwaffe",
+          "name_en": "Additional hand weapon",
+          "points": 2
+        },
+        {
+          "name_de": "Speer (nur beritten)",
+          "name_en": "Spear (mounted only)",
+          "points": 2
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schild",
+          "name_en": "Shield",
+          "points": 2
+        },
+        {
+          "name_de": "Armeestandartenträger",
+          "name_en": "Battle Standard Bearer",
+          "points": 25,
+          "magic": {
+            "types": ["banner"],
+            "maxPoints": 100
+          }
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 16
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "armor",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 50
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "armor",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 50
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Goblin Panic, Choppa, Frenzy, Warpaint"
+      }
+    },
+    {
+      "id": "blorc-gargboss",
+      "name_de": "Schwarzork-Gargboss",
+      "name_en": "Black Orc Big Boss",
+      "points": 90,
+      "slots": 2,
+      "notes": {
+        "name_en": "Occupies two hero slots",
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        },
+        {
+          "name_en": "Battle Standard Bearer",
+          "name_de": "Battle Standard Bearer",
+          "name_fr": "Porteur de la Grande Bannière",
+          "points": 25,
+          "magic": {
+            "types": ["banner"],
+            "maxPoints": 0
+          }
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        },
+        {
+          "name_de": "Zweihandwaffe",
+          "name_en": "Great weapon",
+          "points": 6
+        },
+        {
+          "name_de": "Zusätzliche Handwaffe (nur unberitten)",
+          "name_en": "Additional hand weapon (unless mounted)",
+          "points": 3
+        },
+        {
+          "name_de": "Speer (nur beritten)",
+          "name_en": "Spear (mounted only)",
+          "points": 3
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schild",
+          "name_en": "Shield",
+          "points": 2
+        },
+        {
+          "name_de": "Armeestandartenträger",
+          "name_en": "Battle Standard Bearer",
+          "points": 25
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 16
+        },
+        {
+          "name_de": "Ork-Wildschweinstreitwagen",
+          "name_en": "Orc Boar Chariot",
+          "points": 80,
+          "options": [
+            {
+              "name_de": "Zusätzliches Ork-Besatzungsmitglied",
+              "name_en": "Extra Orc Crew model",
+              "points": 6
+            }
+          ]
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "armor",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 50
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "armor",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 50
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Greenskin Panic, Choppa, Quell Animosity"
+      }
+    },
+    {
+      "id": "goblin-gargboss",
+      "name_de": "Goblin-Gargboss",
+      "name_en": "Goblin Big boss",
+      "points": 35,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        },
+        {
+          "name_en": "Battle Standard Bearer",
+          "name_de": "Battle Standard Bearer",
+          "name_fr": "Porteur de la Grande Bannière",
+          "points": 25,
+          "magic": {
+            "types": ["banner"],
+            "maxPoints": 0
+          }
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        },
+        {
+          "name_de": "Zweihandwaffe",
+          "name_en": "Great weapon",
+          "points": 4
+        },
+        {
+          "name_de": "Zusätzliche Handwaffe (nur unberitten)",
+          "name_en": "Additional hand weapon (unless mounted)",
+          "points": 2
+        },
+        {
+          "name_de": "Speer (nur beritten)",
+          "name_en": "Spear (mounted only)",
+          "points": 2
+        },
+        {
+          "name_de": "Kurzbogen",
+          "name_en": "Short bow",
+          "points": 2
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Leichte Rüstung",
+          "name_en": "Light armour",
+          "points": 2
+        },
+        {
+          "name_de": "Schild",
+          "name_en": "Shield",
+          "points": 2
+        },
+        {
+          "name_de": "Armeestandartenträger",
+          "name_en": "Battle Standard Bearer",
+          "points": 25
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Riesenwolf",
+          "name_en": "Giant Wolf",
+          "points": 12
+        },
+        {
+          "name_de": "Riesenspinne",
+          "name_en": "Giant Spider",
+          "points": 15
+        },
+        {
+          "name_de": "Gigantula",
+          "name_en": "Gigantic Spider",
+          "points": 40
+        },
+        {
+          "name_de": "Goblin-Wolfsstreitwagen",
+          "name_en": "Wolf Chariot",
+          "points": 60,
+          "options": [
+            {
+              "name_de": "Zusätzliches Goblin-Besatzungsmitglied",
+              "name_en": "Extra Goblin Crew model",
+              "points": 3,
+              "perModel": true
+            },
+            {
+              "name_de": "Zusätzlicher Riesenwolf",
+              "name_en": "Extra Giant Wolf",
+              "points": 7,
+              "perModel": true
+            },
+            {
+              "name_en": "Spears (3 Goblin Crew)",
+              "points": 3,
+              "perModel": true
+            },
+            {
+              "name_en": "Spears (4 Goblin Crew)",
+              "points": 4,
+              "perModel": true
+            }
+          ]
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "armor",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 50
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "armor",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 50
+        }
+      ],
+      "specialRules": {
+        "name_en": "Fear Elves"
+      }
+    },
+    {
+      "id": "nightgoblin-gargboss",
+      "name_de": "Nachtgoblin-Gargboss",
+      "name_en": "Night Goblin Big Boss",
+      "points": 30,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        },
+        {
+          "name_en": "Battle Standard Bearer",
+          "name_de": "Battle Standard Bearer",
+          "name_fr": "Porteur de la Grande Bannière",
+          "points": 25,
+          "magic": {
+            "types": ["banner"],
+            "maxPoints": 0
+          }
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        },
+        {
+          "name_de": "Zweihandwaffe",
+          "name_en": "Great weapon",
+          "points": 4
+        },
+        {
+          "name_de": "Zusätzliche Handwaffe (nur unberitten)",
+          "name_en": "Additional hand weapon (unless mounted)",
+          "points": 2
+        },
+        {
+          "name_de": "Speer (nur beritten)",
+          "name_en": "Spear (mounted only)",
+          "points": 2
+        },
+        {
+          "name_de": "Kurzbogen",
+          "name_en": "Short bow",
+          "points": 2
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schild",
+          "name_en": "Shield",
+          "points": 2
+        },
+        {
+          "name_de": "Leichte Rüstung",
+          "name_en": "Light armour",
+          "points": 2
+        },
+        {
+          "name_de": "Armeestandartenträger",
+          "name_en": "Battle Standard Bearer",
+          "points": 25
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Höhlensquig",
+          "name_en": "Great Cave Squig",
+          "points": 50
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "armor",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 50
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "armor",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 50
+        }
+      ],
+      "specialRules": {
+        "name_en": "Fear Elves, Hate (Dwarfs)"
+      }
+    },
+    {
+      "id": "ork-schamane",
+      "name_de": "Ork-Schamane",
+      "name_en": "Orc Shaman",
+      "points": 65,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Zauberer der Stufe 2",
+          "name_en": "Level 2 Wizard",
+          "points": 35
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 16
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "arcane-item",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 50
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "arcane-item",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 50
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Goblin Panic, Choppa"
+      }
+    },
+    {
+      "id": "savage-schamane",
+      "name_de": "Wildork-Schamane",
+      "name_en": "Savage Orc Shaman",
+      "points": 70,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Zauberer der Stufe 2",
+          "name_en": "Level 2 Wizard",
+          "points": 35
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Wildschwein",
+          "name_en": "War Boar",
+          "points": 16
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "arcane-item",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 50
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "arcane-item",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 50
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Goblin Panic, Choppa"
+      }
+    },
+    {
+      "id": "goblin-schamane",
+      "name_de": "Goblin-Schamane",
+      "name_en": "Goblin Shaman",
+      "points": 55,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Zauberer der Stufe 2",
+          "name_en": "Level 2 Wizard",
+          "points": 35
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        },
+        {
+          "name_de": "Riesenwolf",
+          "name_en": "Giant Wolf",
+          "points": 12
+        },
+        {
+          "name_de": "Goblin-Wolfsstreitwagen",
+          "name_en": "Wolf Chariot",
+          "points": 60,
+          "options": [
+            {
+              "name_de": "Zusätzliches Goblin-Besatzungsmitglied",
+              "name_en": "Extra Goblin Crew model",
+              "points": 3,
+              "perModel": true
+            },
+            {
+              "name_de": "Zusätzlicher Riesenwolf",
+              "name_en": "Extra Giant Wolf",
+              "points": 7,
+              "perModel": true
+            },
+            {
+              "name_en": "Spears (3 Goblin Crew)",
+              "points": 3,
+              "perModel": true
+            },
+            {
+              "name_en": "Spears (4 Goblin Crew)",
+              "points": 4,
+              "perModel": true
+            }
+          ]
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "arcane-item",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 50
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "arcane-item",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 50
+        }
+      ],
+      "specialRules": {
+        "name_en": "Fear Elves"
+      }
+    },
+    {
+      "id": "nightgoblin-schamane",
+      "name_de": "Nachtgoblin-Schamane",
+      "name_en": "Night Goblin Shaman",
+      "points": 50,
+      "command": [
+        {
+          "name_en": "General",
+          "name_de": "General",
+          "name_fr": "Général",
+          "name_es": "General",
+          "points": 0
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffe",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Zauberer der Stufe 2",
+          "name_en": "Level 2 Wizard",
+          "points": 35
+        }
+      ],
+      "mounts": [
+        {
+          "name_de": "Zu Fuß",
+          "name_en": "On foot",
+          "active": true,
+          "points": 0
+        }
+      ],
+      "magic": {
+        "types": [
+          "weapon",
+          "arcane-item",
+          "talisman",
+          "enchanted-item"
+        ],
+        "maxPoints": 50
+      },
+      "items": [
+        {
+          "name_en": "Magic Items",
+          "name_de": "Magische Gegenstände",
+          "name_fr": "Objets Magiques",
+          "types": [
+            "weapon",
+            "arcane-item",
+            "talisman",
+            "enchanted-item"
+          ],
+          "selected": [],
+          "maxPoints": 50
+        }
+      ],
+      "specialRules": {
+        "name_en": "Fear Elves, Hate (Dwarfs)"
+      }
+    }
+  ],
+  "core": [
+    {
+      "id": "orcs",
+      "name_de": "Ork-Krieger",
+      "name_en": "Orc Boyz",
+      "points": 6,
+      "minimum": 10,
+      "mounts": [],
+      "command": [
+        {
+          "name_de": "Boss",
+          "name_en": "Boss",
+          "points": 13
+        },
+        {
+          "name_de": "Musiker",
+          "name_en": "Musician",
+          "points": 5
+        },
+        {
+          "name_de": "Standartenträger",
+          "name_en": "Standard bearer",
+          "points": 10,
+          "magic": {
+            "types": ["banner"],
+            "maxPoints": 50,
+            "notes": {
+              "name_en": "Must be upgraded to Big 'Uns"
+            }
+          }
+        }
+      ],
+      "equipment": [
+        {
+          "name_en": "Choppa & Light Armour",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        },
+        {
+          "name_en": "Spear & Light Armour",
+          "points": 2,
+          "perModel": true
+        },
+        {
+          "name_en": "Additional hand weapon & Light Armour",
+          "points": 2,
+          "perModel": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schilde",
+          "name_en": "Shields",
+          "points": 1,
+          "perModel": true
+        },
+        {
+          "name_de": "Moschaz",
+          "name_en": "Big 'Uns",
+          "points": 2,
+          "perModel": true,
+          "notes": {
+            "name_en": "0-1 per army (At least as many 'normal' models of this type in other units)"
+          }
+        }
+      ],
+      "specialRules": {
+        "name_en": "Animosity, Ignore Goblin Panic, Choppa, Big 'Uns"
+      }
+    },
+    {
+      "id": "orc-arrow",
+      "name_de": "Ork-Bogenschützen",
+      "name_en": "Orc Arrer Boyz",
+      "points": 7,
+      "minimum": 10,
+      "mounts": [],
+      "command": [
+        {
+          "name_de": "Boss",
+          "name_en": "Boss",
+          "points": 13
+        },
+        {
+          "name_de": "Musiker",
+          "name_en": "Musician",
+          "points": 5
+        },
+        {
+          "name_de": "Standartenträger",
+          "name_en": "Standard bearer",
+          "points": 10
+        }
+      ],
+      "equipment": [
+        {
+          "name_en": "Choppa & Bow",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_en": "Light Armour",
+          "points": 1,
+          "perModel": true
+        }
+      ],
+      "specialRules": {
+        "name_en": "Animosity, Ignore Goblin Panic, Choppa"
+      }
+    },
+    {
+      "id": "savageorcs",
+      "name_de": "Wildorks",
+      "name_en": "Savage Orcs",
+      "points": 6,
+      "minimum": 10,
+      "mounts": [],
+      "command": [
+        {
+          "name_de": "Boss",
+          "name_en": "Boss",
+          "points": 13
+        },
+        {
+          "name_de": "Musiker",
+          "name_en": "Musician",
+          "points": 5
+        },
+        {
+          "name_de": "Standartenträger",
+          "name_en": "Standard bearer",
+          "points": 10
+        }
+      ],
+      "equipment": [
+        {
+          "name_en": "Choppa",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        },
+        {
+          "name_de": "Speere",
+          "name_en": "Spear",
+          "points": 1,
+          "perModel": true
+        },
+        {
+          "name_de": "Bögen",
+          "name_en": "Bows",
+          "points": 3,
+          "perModel": true
+        },
+        {
+          "name_de": "Zusätzliche Handwaffen",
+          "name_en": "Additional hand weapon",
+          "points": 2,
+          "perModel": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schilde",
+          "name_en": "Shields",
+          "points": 1,
+          "perModel": true
+        },
+        {
+          "name_en": "Warpaint",
+          "points": 1
+        },
+        {
+          "name_de": "Moschaz",
+          "name_en": "Big 'Uns",
+          "points": 2,
+          "perModel": true,
+          "notes": {
+            "name_en": "0-1 per army (At least as many 'normal' models of this type in other units)",
+            "name_fr": "0-1 par armée"
+          }
+        }
+      ],
+      "specialRules": {
+        "name_en": "Animosity, Ignore Goblin Panic, Choppa, Frenzy, Warpaint, Big 'Uns"
+      }
+    },
+    {
+      "id": "goblins",
+      "name_de": "Goblins",
+      "name_en": "Goblins",
+      "points": 2,
+      "minimum": 20,
+      "mounts": [],
+      "command": [
+        {
+          "name_de": "Boss",
+          "name_en": "Boss",
+          "points": 8
+        },
+        {
+          "name_de": "Musiker",
+          "name_en": "Musician",
+          "points": 4
+        },
+        {
+          "name_de": "Standartenträger",
+          "name_en": "Standard bearer",
+          "points": 8
+        }
+      ],
+      "equipment": [
+        {
+          "name_en": "Hand weapon & Shield",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        },
+        {
+          "name_en": "Spear & Shield",
+          "points": 1,
+          "perModel": true
+        },
+        {
+          "name_de": "Kurzbögen",
+          "name_en": "Short bows",
+          "points": 1,
+          "perModel": true
+        }
+      ],
+      "options": [
+        {
+          "name_en": "Light Armour",
+          "points": 1,
+          "perModel": true
+        }
+      ],
+      "specialRules": {
+        "name_en": "Animosity, Fear Elves"
+      }
+    },
+    {
+      "id": "goblin-wolves",
+      "name_de": "Goblin-Wolfsreiter",
+      "name_en": "Goblin Wolf Riders",
+      "points": 10,
+      "minimum": 5,
+      "mounts": [],
+      "command": [
+        {
+          "name_de": "Boss",
+          "name_en": "Boss",
+          "points": 12
+        },
+        {
+          "name_de": "Musiker",
+          "name_en": "Musician",
+          "points": 6
+        },
+        {
+          "name_de": "Standartenträger",
+          "name_en": "Standard bearer",
+          "points": 12
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffen",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Speere",
+          "name_en": "Spears",
+          "points": 1,
+          "perModel": true
+        },
+        {
+          "name_de": "Kurzbögen",
+          "name_en": "Short bows",
+          "points": 2,
+          "perModel": true
+        },
+        {
+          "name_de": "Schilde",
+          "name_en": "Shields",
+          "points": 1,
+          "perModel": true
+        },
+        {
+          "name_en": "Light Armour",
+          "points": 0,
+          "perModel": true,
+          "notes": {
+            "name_en": "No longer count as 'Fast Cavalry'",
+            "name_de": "",
+            "name_es": "",
+            "name_fr": ""
+          }
+        }
+      ],
+      "specialRules": {
+        "name_en": "Animosity, Fear Elves, Fast Cavalry"
+      }
+    },
+    {
+      "id": "nightgoblins",
+      "name_de": "Nachtgoblins",
+      "name_en": "Night Goblins",
+      "points": 2,
+      "minimum": 20,
+      "mounts": [],
+      "command": [
+        {
+          "name_de": "Boss",
+          "name_en": "Boss",
+          "points": 8
+        },
+        {
+          "name_de": "Musiker",
+          "name_en": "Musician",
+          "points": 4
+        },
+        {
+          "name_de": "Standartenträger",
+          "name_en": "Standard bearer",
+          "points": 8
+        }
+      ],
+      "equipment": [
+        {
+          "name_de": "Handwaffen, Schilde",
+          "name_en": "Hand weapons & Shields",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        },
+        {
+          "name_de": "Speere, Schilde",
+          "name_en": "Spears & Shields",
+          "points": 1,
+          "perModel": true
+        },
+        {
+          "name_en": "Hand weapons & Short Bows",
+          "points": 1,
+          "perModel": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Netzgitz",
+          "name_en": "Netters",
+          "points": 2,
+          "perModel": true,
+          "maximum": 10,
+          "stackable": true
+        },
+        {
+          "name_de": "Fanatics",
+          "name_en": "Fanatics",
+          "points": 25,
+          "maximum": 3,
+          "stackable": true
+        }
+      ],
+      "specialRules": {
+        "name_en": "Animosity, Fear Elves, Hate (Dwarfs), Fanatics, Netters"
+      }
+    },
+    {
+      "id": "snotlings",
+      "name_de": "Snotlinge",
+      "name_en": "Snotlings",
+      "points": 25,
+      "minimum": 2,
+      "maximum": 10,
+      "mounts": [],
+      "equipment": [
+        {
+          "name_de": "Handwaffen",
+          "name_en": "Hand weapons",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
+      "notes": {
+        "name_en": "0-1 Snotling Swarm per army",
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "specialRules": {
+        "name_en": "Horde, Unbreakable, Nobody Cares"
+      }
+    }
+  ],
+  "special": [
+    {
+      "id": "blackorcs",
+      "name_en": "Black Orc Regiment",
+      "points": 10,
+      "minimum": 10,
+      "mounts": [],
+      "command": [
+        {
+          "name_de": "Boss",
+          "name_en": "Boss",
+          "points": 15
+        },
+        {
+          "name_de": "Musiker",
+          "name_en": "Musician",
+          "points": 6
+        },
+        {
+          "name_de": "Standartenträger",
+          "name_en": "Standard bearer",
+          "points": 12,
+          "magic": {
+            "types": ["banner"],
+            "maxPoints": 50
+          }
+        }
+      ],
+      "equipment": [
+        {
+          "name_en": "Choppa & Heavy Armour",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        },
+        {
+          "name_en": "Great Weapon & Heavy Armour",
+          "points": 2,
+          "perModel": true
+        },
+        {
+          "name_en": "Choppa, Additional hand weapon & Heavy Armour",
+          "points": 2,
+          "perModel": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Schilde",
+          "name_en": "Shields",
+          "points": 1,
+          "perModel": true
+        }
+      ],
+      "notes": {
+        "name_en": "0-1 Black Orc Regiment per army",
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "specialRules": {
+        "name_en": "Ignore Greenskin Panic, Choppa, Quell Animosity"
+      }
+    },
+    {
+      "id": "orcboarboys",
+      "name_de": "Ork-Wildschweinreiter",
+      "name_en": "Orc Boar Boyz",
+      "points": 18,
+      "minimum": 5,
+      "mounts": [],
+      "command": [
+        {
+          "name_de": "Boss",
+          "name_en": "Boss",
+          "points": 17
+        },
+        {
+          "name_de": "Musiker",
+          "name_en": "Musician",
+          "points": 7
+        },
+        {
+          "name_de": "Standartenträger",
+          "name_en": "Standard bearer",
+          "points": 14,
+          "magic": {
+            "types": ["banner"],
+            "maxPoints": 50
+          }
+        }
+      ],
+      "equipment": [
+        {
+          "name_en": "Hand weapon, Spear, Light Armour & Shield",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Moschaz",
+          "name_en": "Big 'Uns",
+          "points": 4,
+          "perModel": true,
+          "notes": {
+            "name_en": "0-1 per army (At least as many 'normal' models of this type in other units)",
+            "name_fr": "0-1 par armée"
+          }
+        }
+      ],
+      "specialRules": {
+        "name_en": "Animosity, Ignore Goblin Panic, Thick Skinned, Tusker Charge, Big 'Uns"
+      }
+    },
+    {
+      "id": "savageorcboarboys",
+      "name_de": "Wildork-Wildschweinreiter",
+      "name_en": "Savage Orc Boar Boyz",
+      "points": 17,
+      "minimum": 5,
+      "mounts": [],
+      "command": [
+        {
+          "name_de": "Boss",
+          "name_en": "Boss",
+          "points": 17
+        },
+        {
+          "name_de": "Musiker",
+          "name_en": "Musician",
+          "points": 7
+        },
+        {
+          "name_de": "Standartenträger",
+          "name_en": "Standard bearer",
+          "points": 14,
+          "magic": {
+            "types": ["banner"],
+            "maxPoints": 50
+          }
+        }
+      ],
+      "equipment": [
+        {
+          "name_en": "Hand weapon & Shield",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
+      "options": [
+        {
+          "name_de": "Moschaz",
+          "name_en": "Big 'Uns",
+          "points": 4,
+          "perModel": true,
+          "notes": {
+            "name_en": "0-1 per army (At least as many 'normal' models of this type in other units)",
+            "name_fr": "0-1 par armée"
+          }
+        },
+        {
+          "name_en": "Warpaint",
+          "points": 3,
+          "perModel": true
+        },
+        {
+          "name_en": "Spears",
+          "points": 1,
+          "perModel": true
+        }
+      ],
+      "specialRules": {
+        "name_en": "Animosity, Ignore Goblin Panic, Frenzy, Warpaint, Thick Skinned, Tusker Charge, Big 'Uns"
+      }
+    },
+    {
+      "id": "orcboarchariot",
+      "name_de": "Ork-Wildschweinstreitwagen",
+      "name_en": "Orc Boar Chariot",
+      "points": 80,
+      "mounts": [],
+      "options": [
+        {
+          "name_de": "Zusätzliches Ork-Besatzungsmitglied",
+          "name_en": "Extra Orc Crew model",
+          "points": 6
+        }
+      ],
+      "specialRules": {
+        "name_en": "Ignore Goblin Panic, Tusker Charge, 1D6 Impact Hits"
+      }
+    },
+    {
+      "id": "goblinwolfchariot",
+      "name_de": "Goblin-Wolfsstreitwagen",
+      "name_en": "Goblin Wolf Chariot",
+      "points": 60,
+      "minimum": 1,
+      "maximum": 2,
+      "mounts": [],
+      "options": [
+        {
+          "name_de": "Zusätzliches Goblin-Besatzungsmitglied",
+          "name_en": "Extra Goblin Crew model",
+          "points": 3,
+          "perModel": true
+        },
+        {
+          "name_de": "Zusätzlicher Riesenwolf",
+          "name_en": "Extra Giant Wolf",
+          "points": 7,
+          "perModel": true
+        },
+        {
+          "name_en": "Spears (3 Goblin Crew)",
+          "points": 3,
+          "perModel": true
+        },
+        {
+          "name_en": "Spears (4 Goblin Crew)",
+          "points": 4,
+          "perModel": true
+        }
+      ],
+      "specialRules": {
+        "name_en": "Chariots, 1D6 Impact Hits"
+      }
+    },
+    {
+      "id": "goblinspearchucka",
+      "name_de": "Goblin-Speerschleuda",
+      "name_en": "Goblin Spear Chukka",
+      "points": 35,
+      "minimum": 1,
+      "maximum": 2,
+      "mounts": [],
+      "options": [
+        {
+          "name_de": "Orktreiba",
+          "name_en": "Orc Bully",
+          "points": 5,
+          "perModel": true
+        }
+      ],
+      "specialRules": {
+        "name_en": "Spear Chukka"
+      }
+    },
+    {
+      "id": "nightgoblinsquigherd",
+      "name_de": "Nachtgoblin-Squigherde",
+      "name_en": "Night Goblin Squig Herd",
+      "maximum": 1,
+      "points": 0,
+      "mounts": [],
+      "options": [
+        {
+          "name_de": "Nachtgoblin-Squigtreiba",
+          "name_en": "Night Goblin Herder",
+          "points": 2,
+          "minimum": 1,
+          "stackable": true
+        },
+        {
+          "name_de": "Höhlensquigs",
+          "name_en": "Cave Squig",
+          "points": 14,
+          "minimum": 3,
+          "stackable": true
+        },
+        {
+          "name_en": "Cave Squig Hopper",
+          "points": 18,
+          "minimum": 1,
+          "stackable": true
+        }
+      ],
+      "notes": {
+        "name_en": "0-1 Night Goblin Squig Herd per army",
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "specialRules": {
+        "name_en": "Animosity, Fear Elves, Hate (Dwarfs), Squigs"
+      }
+    },
+    {
+      "id": "goblin-stonethrower",
+      "name_de": "Goblin-Steinschleuda",
+      "name_en": "Goblin Rock Lobber",
+      "points": 85,
+      "mounts": [],
+      "options": [
+        {
+          "name_de": "Orktreiba",
+          "name_en": "Orc Bully",
+          "points": 10
+        }
+      ],
+      "specialRules": {
+        "name_en": "Rock Lobber"
+      }
+    }
+  ],
+  "rare": [
+    {
+      "id": "trolls",
+      "name_de": "Trolle",
+      "name_en": "Trolls",
+      "points": 50,
+      "command": [],
+      "armor": [],
+      "equipment": [],
+      "mounts": [],
+      "items": [],
+      "lores": [],
+      "minimum": 3,
+      "options": [
+        {
+          "name_en": "River Trolls",
+          "points": 10,
+          "perModel": true
+        },
+        {
+          "name_en": "Stone Trolls",
+          "points": 5,
+          "perModel": true
+        }
+      ],
+      "specialRules": {
+        "name_en": "Fear, Stupidity, Troll Vomit, Regenerate, Trollish Types"
+      }
+    },
+    {
+      "id": "doomdiver",
+      "name_de": "Kamikazekatapult",
+      "name_en": "Doom Diver Catapult",
+      "points": 80,
+      "command": [],
+      "armor": [],
+      "equipment": [],
+      "mounts": [],
+      "items": [],
+      "lores": [],
+      "options": [
+        {
+          "name_de": "Orktreiba",
+          "name_en": "Orc Bully",
+          "points": 10
+        }
+      ],
+      "specialRules": {
+        "name_en": "Doom Diver Catapult"
+      }
+    },
+    {
+      "id": "snotling-wagons",
+      "name_de": "Snotling-Kurbelwagen",
+      "name_en": "Snotling Pump Wagon",
+      "points": 40,
+      "command": [],
+      "armor": [],
+      "equipment": [],
+      "mounts": [],
+      "items": [],
+      "lores": [],
+      "specialRules": {
+        "name_en": "Snotling Pump Wagon, 2D6 Impact Hits, Unbreakable"
+      }
+    },
+    {
+      "id": "giant",
+      "name_de": "Riese",
+      "name_en": "Giant",
+      "points": 205,
+      "command": [],
+      "armor": [],
+      "equipment": [],
+      "mounts": [],
+      "items": [],
+      "lores": [],
+      "specialRules": {
+        "name_en": "Ignore Greenskin Panic, Large Target, Terror, Fall Over, Giant Special Attacks, Stubborn"
+      }
+    }
+  ]
+}
