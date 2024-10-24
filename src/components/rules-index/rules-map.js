@@ -115,6 +115,7 @@ export const synonyms = {
   warbows: "warbow",
   greatbows: "greatbow",
   "chracian great blades": "chracian great blade",
+  "swords of hoeth": "sword of hoeth",
   "bows of avelorn": "bow of avelorn",
   "ceremonial halberds": "ceremonial halberd",
   shields: "shield",
