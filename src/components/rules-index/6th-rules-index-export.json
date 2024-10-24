@@ -1164,7 +1164,7 @@
   },
   "fear elves": {
     "url": "special-rules/fear-elves",
-    "page": "RH, p. 45"
+    "page": "O&G, p. 6"
   },
   "herald of despair": {
     "url": "special-rules/herald-of-despair",
@@ -1702,15 +1702,11 @@
   },
   "2d6 impact hits": {
     "url": "chariots/impact-hits",
-    "page": "RB, p. 172"
+    "page": "RB, p. 128"
   },
   "1d6 impact hits": {
     "url": "chariots/impact-hits",
-    "page": "RB, p. 172"
-  },
-  "impetuous": {
-    "url": "special-rules/impetuous",
-    "page": "RB, p. 172"
+    "page": "RB, p. 128"
   },
   "killing blow": {
     "url": "special-rules/killing-blow",
@@ -1718,10 +1714,6 @@
   },
   "large target": {
     "url": "special-rules/large-target",
-    "page": "RB, p. 172"
-  },
-  "levies": {
-    "url": "special-rules/levies",
     "page": "RB, p. 172"
   },
   "loner": {

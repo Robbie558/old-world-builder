@@ -144,6 +144,7 @@ export const Print = () => {
                 )}
               </h3>
               {getAllOptions(unit, {
+                game: list.game,
                 noMagic: isShowList,
                 pageNumbers: showPageNumbers,
               })}

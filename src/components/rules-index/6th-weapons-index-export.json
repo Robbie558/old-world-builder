@@ -1,8 +1,4 @@
 {
-  "dread halberd": {
-    "url": "weapons/dread-halberd",
-    "page": "DE, p. 10"
-  },
   "dragon fire": {
     "url": "weapons/dragon-fire",
     "page": "FoF, p. 158"
@@ -50,10 +46,6 @@
   "furnace hammer": {
     "url": "weapons/furnace-hammer",
     "page": "AJ:DMH, p. 39"
-  },
-  "bloodflail": {
-    "url": "weapons/bloodflail",
-    "page": "DoC, p. 3"
   },
   "blowpipe": {
     "url": "weapons/blowpipe",
@@ -151,14 +143,6 @@
     "url": "weapons/tricksters-blades",
     "page": "FoF, p. 122"
   },
-  "brace of drakefire pistols": {
-    "url": "weapons/brace-of-drakefire-pistols",
-    "page": "FoF, p. 24"
-  },
-  "greatbow": {
-    "url": "weapons/greatbow",
-    "page": "RH, p. 135"
-  },
   "lash & buckler": {
     "url": "weapons/lash-and-buckler",
     "page": "DE, p. 12"
@@ -249,11 +233,11 @@
   },
   "hand weapon": {
     "url": "weapons/hand-weapon",
-    "page": "RB, p. 213"
+    "page": "RB, p. 91"
   },
-  "cinderblast bombs": {
-    "url": "weapons/cinderblast-bombs",
-    "page": "FoF, p. 25"
+  "hand weapon & shield": {
+    "url": "weapons/hand-weapon",
+    "page": "RB, p. 88"
   },
   "mace tail": {
     "url": "weapons/mace-tail",
@@ -262,10 +246,6 @@
   "defensive stakes": {
     "url": "weapons/defensive-stakes",
     "page": "FoF, p. 93"
-  },
-  "bow of avelorn": {
-    "url": "weapons/bow-of-avelorn",
-    "page": "FoF, p. 187"
   },
   "ravager harpoon": {
     "url": "weapons/ravager-harpoon",
@@ -299,10 +279,6 @@
     "url": "weapons/slashing-talons",
     "page": "LM, p. 12"
   },
-  "ceremonial halberd": {
-    "url": "weapons/ceremonial-halberd",
-    "page": "FoF, p. 187"
-  },
   "doomfire": {
     "url": "weapons/doomfire",
     "page": "RH, p. 76"
@@ -317,11 +293,11 @@
   },
   "two hand weapons": {
     "url": "weapons/fighting-with-a-weapon-in-each-hand",
-    "page": "RB, p. 213"
+    "page": "RB, p. 88"
   },
   "additional hand weapon": {
     "url": "weapons/fighting-with-a-weapon-in-each-hand",
-    "page": "RB, p. 213"
+    "page": "RB, p. 88"
   },
   "envenomed sting": {
     "url": "weapons/envenomed-sting",
@@ -385,7 +361,7 @@
   },
   "flail": {
     "url": "weapons/flail",
-    "page": "RB, p. 214"
+    "page": "RB, p. 91"
   },
   "grenade launching blunderbuss": {
     "url": "weapons/grenade-launching-blunderbuss",
@@ -413,11 +389,7 @@
   },
   "great weapon": {
     "url": "weapons/great-weapon",
-    "page": "RB, p. 214"
-  },
-  "spidersilk lobber": {
-    "url": "weapons/spidersilk-lobber",
-    "page": "RH, p. 35"
+    "page": "RB, p. 91"
   },
   "fiery breath dark elves": {
     "url": "weapons/fiery-breath-dark-elves",
@@ -443,10 +415,6 @@
     "url": "weapons/grimfrost-weapon",
     "page": "OK, p. 11"
   },
-  "plagueflail": {
-    "url": "weapons/plagueflail",
-    "page": "DoC, p. 9"
-  },
   "decapitating claws": {
     "url": "weapons/decapitating-claws",
     "page": "RH, p. 144"
@@ -454,10 +422,6 @@
   "sword of hoeth": {
     "url": "weapons/sword-of-hoeth",
     "page": "FoF, p. 187"
-  },
-  "giant bow": {
-    "url": "weapons/giant-bow",
-    "page": "LM, p. 13"
   },
   "ranger's glaive": {
     "url": "weapons/rangers-glaive",
@@ -469,7 +433,7 @@
   },
   "halberd": {
     "url": "weapons/halberd",
-    "page": "RB, p. 214"
+    "page": "RB, p. 91"
   },
   "warp grinder": {
     "url": "weapons/warp-grinder",
@@ -529,7 +493,7 @@
   },
   "morning star": {
     "url": "weapons/morning-star",
-    "page": "RB, p. 214"
+    "page": "RB, p. 91"
   },
   "writhing tentacles dark elves": {
     "url": "weapons/writhing-tentacles-dark-elves",
@@ -591,10 +555,6 @@
     "url": "weapons/poisoned-wind-globes",
     "page": "SK, p. 10"
   },
-  "asrai longbow": {
-    "url": "weapons/asrai-longbow",
-    "page": "FoF, p. 147"
-  },
   "impaling claws": {
     "url": "weapons/impaling-claws",
     "page": "DoC, p. 13"
@@ -621,7 +581,7 @@
   },
   "lance": {
     "url": "weapons/lance",
-    "page": "RB, p. 215"
+    "page": "RB, p. 91"
   },
   "tzeentchian wand": {
     "url": "weapons/tzeentchian-wand",
@@ -649,31 +609,20 @@
   },
   "cavalry spear": {
     "url": "weapons/cavalry-spear",
-    "page": "RB, p. 215"
+    "page": "RB, p. 91"
   },
   "warpstone claws": {
     "url": "weapons/warpstone-claws",
     "page": "SK, p. 18"
   },
-  "arcane bodkins": {
-    "url": "weapons/arcane-bodkins",
-    "page": "FoF, p. 147"
-  },
+
   "warpflame": {
     "url": "weapons/warpflame",
     "page": "DoC, p. 23"
   },
-  "ensorcelled weapon": {
-    "url": "weapons/ensorcelled-weapon",
-    "page": "DoC, p. 24"
-  },
   "throwing spear": {
     "url": "weapons/throwing-spear",
-    "page": "RB, p. 215"
-  },
-  "harpoon launcher": {
-    "url": "weapons/harpoon-launcher",
-    "page": "OK, p. 26"
+    "page": "RB, p. 92"
   },
   "hagbane tips": {
     "url": "weapons/hagbane-tips",
@@ -689,7 +638,7 @@
   },
   "spear": {
     "url": "weapons/spears-infantry",
-    "page": "RB, p. 215"
+    "page": "RB, p. 91"
   },
   "choppa": {
     "url": "weapons/choppa",
@@ -697,7 +646,7 @@
   },
   "Spear (mounted only)": {
     "url": "weapons/spears-cavalry",
-    "page": "RB, p. 215"
+    "page": "RB, p. 91"
   },
   "ironfist": {
     "url": "weapons/ironfist",
@@ -733,7 +682,7 @@
   },
   "longbow": {
     "url": "weapons/longbow",
-    "page": "RB, p. 216"
+    "page": "RB, p. 92"
   },
   "warp gaze": {
     "url": "weapons/warp-gaze",
@@ -745,15 +694,15 @@
   },
   "shortbow": {
     "url": "weapons/shortbow",
-    "page": "RB, p. 216"
+    "page": "RB, p. 92"
   },
   "plaguesword": {
     "url": "weapons/plaguesword",
     "page": "DoC, p. 35"
   },
-  "warbow": {
-    "url": "weapons/warbow",
-    "page": "RB, p. 216"
+  "bow": {
+    "url": "weapons/bow",
+    "page": "RB, p. 92"
   },
   "death's heads": {
     "url": "weapons/deaths-heads",
@@ -761,7 +710,7 @@
   },
   "handgun": {
     "url": "weapons/handgun",
-    "page": "RB, p. 217"
+    "page": "RB, p. 92"
   },
   "piercing claws": {
     "url": "weapons/piercing-claws",
@@ -769,7 +718,7 @@
   },
   "pistol": {
     "url": "weapons/pistol",
-    "page": "RB, p. 217"
+    "page": "RB, p. 92"
   },
   "flames of tzeentch": {
     "url": "weapons/flames-of-tzeentch",
@@ -783,45 +732,29 @@
     "url": "weapons/lampreys-bite",
     "page": "DoC, p. 35"
   },
-  "repeater handgun": {
-    "url": "weapons/repeater-handgun",
-    "page": "RB, p. 217"
-  },
-  "repeater pistol": {
-    "url": "weapons/repeater-pistol",
-    "page": "RB, p. 217"
-  },
   "crossbow": {
     "url": "weapons/crossbow",
-    "page": "RB, p. 218"
+    "page": "RB, p. 92"
   },
   "repeater crossbow": {
     "url": "weapons/repeater-crossbow",
-    "page": "RB, p. 218"
-  },
-  "repeater handbow": {
-    "url": "weapons/repeater-handbow",
-    "page": "RB, p. 218"
-  },
-  "brace of repeater handbows": {
-    "url": "weapons/brace-of-repeater-handbows",
-    "page": "RB, p. 218"
+    "page": "RB, p. 92"
   },
   "throwing weapons": {
     "url": "weapons/throwing-weapons",
-    "page": "RB, p. 219"
+    "page": "RB, p. 92"
   },
   "javelin": {
     "url": "weapons/javelin",
-    "page": "RB, p. 219"
+    "page": "RB, p. 92"
   },
   "sling": {
     "url": "weapons/sling",
-    "page": "RB, p. 219"
+    "page": "RB, p. 92"
   },
   "throwing axe": {
     "url": "weapons/throwing-axe",
-    "page": "RB, p. 219"
+    "page": "RB, p. 92"
   },
   "light armour": {
     "url": "weapons/light-armour",

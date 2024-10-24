@@ -1,7 +1,5 @@
 import { nameMap } from "../pages/magic";
 import { sixthRulesMap, rulesMap, synonyms } from "../components/rules-index";
-import { useParams } from "react-router-dom";
-import { useSelector } from "react-redux";
 import { normalizeRuleName } from "./string";
 import loresOfMagicWithSpells from "../assets/lores-of-magic-with-spells.json";
 
@@ -18,6 +16,7 @@ export const getAllOptions = (
     lores,
   },
   {
+    game,
     removeFactionName = true,
     noMagic,
     language: overrideLanguage,
@@ -237,7 +236,7 @@ export const getAllOptions = (
 
   if (pageNumbers) {
     allOptionsArray = allOptionsArray.map((option) => {
-      const page = getPage(option);
+      const page = getPage(option, game);
 
       if (page) {
         return `${option} [${page}]`;
@@ -258,15 +257,15 @@ export const getAllOptions = (
   return null;
 };
 
-export const getPage = (name) => {
+export const getPage = (name, game) => {
   const normalizedName = normalizeRuleName(name);
   const synonym = synonyms[normalizedName];
   let page = rulesMap[synonym || normalizedName]?.page || "";
-  // if ( game == "warhammer-fantasy-6" ) {
-  //   page = sixthRulesMap[synonym || normalizedName]?.page || "";
-  // } else if ( game == "warhammer-fantasy-8" ) {
-  //   // TBD
-  // }
+  if ( game == "warhammer-fantasy-6" ) {
+    page = sixthRulesMap[synonym || normalizedName]?.page || "";
+  } else if ( game == "warhammer-fantasy-8" ) {
+    // TBD
+  }
 
   return page.replace(/,/g, "");
 };
