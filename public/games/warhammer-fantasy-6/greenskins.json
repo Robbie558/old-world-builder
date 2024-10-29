@@ -2321,6 +2321,14 @@
       "name_en": "Orc Boar Chariot",
       "points": 80,
       "mounts": [],
+      "equipment": [
+        {
+          "name_en": "Hand weapon & Spear",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
       "options": [
         {
           "name_de": "Zusätzliches Ork-Besatzungsmitglied",
@@ -2329,7 +2337,7 @@
         }
       ],
       "specialRules": {
-        "name_en": "Ignore Goblin Panic, Tusker Charge, 1D6 Impact Hits"
+        "name_en": "Ignore Goblin Panic, Tusker Charge, 1D6 Impact Hits, Scythed Wheels"
       }
     },
     {
@@ -2340,6 +2348,14 @@
       "minimum": 1,
       "maximum": 2,
       "mounts": [],
+      "equipment": [
+        {
+          "name_en": "Hand weapons & Short Bows",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
       "options": [
         {
           "name_de": "Zusätzliches Goblin-Besatzungsmitglied",
@@ -2365,7 +2381,7 @@
         }
       ],
       "specialRules": {
-        "name_en": "Chariots, 1D6 Impact Hits"
+        "name_en": "Chariots, 1D6 Impact Hits, Scythed Wheels"
       }
     },
     {
@@ -2376,6 +2392,15 @@
       "minimum": 1,
       "maximum": 2,
       "mounts": [],
+      "equipment": [
+        {
+          "name_de": "Handwaffen",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
       "options": [
         {
           "name_de": "Orktreiba",
@@ -2392,9 +2417,17 @@
       "id": "nightgoblinsquigherd",
       "name_de": "Nachtgoblin-Squigherde",
       "name_en": "Night Goblin Squig Herd",
-      "maximum": 1,
       "points": 0,
       "mounts": [],
+      "equipment": [
+        {
+          "name_de": "Handwaffen",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
       "options": [
         {
           "name_de": "Nachtgoblin-Squigtreiba",
@@ -2413,12 +2446,11 @@
         {
           "name_en": "Cave Squig Hopper",
           "points": 18,
-          "minimum": 1,
           "stackable": true
         }
       ],
       "notes": {
-        "name_en": "0-1 Night Goblin Squig Herd per army",
+        "name_en": "Mmaximum of 1 squig hopper per 3 squigs, and minimum unit size of 10 total models",
         "name_de": "",
         "name_es": "",
         "name_fr": ""
@@ -2433,6 +2465,15 @@
       "name_en": "Goblin Rock Lobber",
       "points": 85,
       "mounts": [],
+      "equipment": [
+        {
+          "name_de": "Handwaffen",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
       "options": [
         {
           "name_de": "Orktreiba",
@@ -2453,7 +2494,15 @@
       "points": 50,
       "command": [],
       "armor": [],
-      "equipment": [],
+      "equipment": [
+        {
+          "name_de": "Handwaffen",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
       "mounts": [],
       "items": [],
       "lores": [],
@@ -2481,7 +2530,15 @@
       "points": 80,
       "command": [],
       "armor": [],
-      "equipment": [],
+      "equipment": [
+        {
+          "name_de": "Handwaffen",
+          "name_en": "Hand weapon",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
       "mounts": [],
       "items": [],
       "lores": [],
@@ -2518,7 +2575,14 @@
       "points": 205,
       "command": [],
       "armor": [],
-      "equipment": [],
+      "equipment": [
+        {
+          "name_en": "A Big Club",
+          "points": 0,
+          "perModel": true,
+          "active": true
+        }
+      ],
       "mounts": [],
       "items": [],
       "lores": [],

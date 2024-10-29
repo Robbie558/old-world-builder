@@ -617,7 +617,7 @@
   },
   "trollish types": {
     "url": "special-rules/trollish-types",
-    "page": "AJ:O&GT, p. 33"
+    "page": "O&G, p. 21"
   },
   "leader of the pack": {
     "url": "special-rules/leader-of-the-pack",
@@ -1706,6 +1706,10 @@
   },
   "1d6 impact hits": {
     "url": "chariots/impact-hits",
+    "page": "RB, p. 128"
+  },
+  "scythed wheels": {
+    "url": "chariots/chariot-upgrades",
     "page": "RB, p. 128"
   },
   "killing blow": {
