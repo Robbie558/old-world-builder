@@ -6,13 +6,15 @@
       "name_de": "Grimgork Eisenpelz",
       "name_en": "Grimgor Ironhide",
       "points": 600,
-      "named": true
+      "named": true,
+      "lores": []
     },
     {
       "id": "wurrzag",
       "name_en": "Wurrzag, da Great Green Prophet",
       "points": 500,
       "named": true,
+      "lores": [],
       "mounts": [
         {
           "name_de": "Wildschwein",
@@ -68,6 +70,7 @@
           "points": 3
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -174,6 +177,7 @@
           "points": 12
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -273,6 +277,7 @@
           "points": 6
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -379,6 +384,7 @@
           "points": 3
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -488,6 +494,7 @@
           "points": 3
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -553,6 +560,7 @@
           "points": 35
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -639,6 +647,7 @@
           "points": 12
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -709,6 +718,7 @@
           "points": 35
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -892,6 +902,7 @@
           "points": 2
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -1008,6 +1019,7 @@
           }
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -1115,6 +1127,7 @@
           "points": 25
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -1237,6 +1250,7 @@
           "points": 25
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -1386,6 +1400,7 @@
           "points": 25
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -1456,6 +1471,7 @@
           "points": 35
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -1526,6 +1542,7 @@
           "points": 35
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -1596,6 +1613,7 @@
           "points": 35
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -1695,6 +1713,7 @@
           "points": 35
         }
       ],
+      "lores": [],
       "mounts": [
         {
           "name_de": "Zu Fuß",
@@ -1740,6 +1759,7 @@
       "points": 6,
       "minimum": 10,
       "mounts": [],
+      "lores": [],
       "command": [
         {
           "name_de": "Boss",
@@ -1810,6 +1830,7 @@
       "points": 7,
       "minimum": 10,
       "mounts": [],
+      "lores": [],
       "command": [
         {
           "name_de": "Boss",
@@ -1853,6 +1874,7 @@
       "points": 6,
       "minimum": 10,
       "mounts": [],
+      "lores": [],
       "command": [
         {
           "name_de": "Boss",
@@ -1929,6 +1951,7 @@
       "points": 2,
       "minimum": 20,
       "mounts": [],
+      "lores": [],
       "command": [
         {
           "name_de": "Boss",
@@ -1983,6 +2006,7 @@
       "points": 10,
       "minimum": 5,
       "mounts": [],
+      "lores": [],
       "command": [
         {
           "name_de": "Boss",
@@ -2051,6 +2075,7 @@
       "points": 2,
       "minimum": 20,
       "mounts": [],
+      "lores": [],
       "command": [
         {
           "name_de": "Boss",
@@ -2117,6 +2142,7 @@
       "minimum": 2,
       "maximum": 10,
       "mounts": [],
+      "lores": [],
       "equipment": [
         {
           "name_de": "Handwaffen",
@@ -2144,6 +2170,7 @@
       "points": 10,
       "minimum": 10,
       "mounts": [],
+      "lores": [],
       "command": [
         {
           "name_de": "Boss",
@@ -2208,6 +2235,7 @@
       "points": 18,
       "minimum": 5,
       "mounts": [],
+      "lores": [],
       "command": [
         {
           "name_de": "Boss",
@@ -2260,6 +2288,7 @@
       "points": 17,
       "minimum": 5,
       "mounts": [],
+      "lores": [],
       "command": [
         {
           "name_de": "Boss",
@@ -2321,6 +2350,7 @@
       "name_en": "Orc Boar Chariot",
       "points": 80,
       "mounts": [],
+      "lores": [],
       "equipment": [
         {
           "name_en": "Hand weapon & Spear",
@@ -2348,6 +2378,7 @@
       "minimum": 1,
       "maximum": 2,
       "mounts": [],
+      "lores": [],
       "equipment": [
         {
           "name_en": "Hand weapons & Short Bows",
@@ -2392,6 +2423,7 @@
       "minimum": 1,
       "maximum": 2,
       "mounts": [],
+      "lores": [],
       "equipment": [
         {
           "name_de": "Handwaffen",
@@ -2419,6 +2451,7 @@
       "name_en": "Night Goblin Squig Herd",
       "points": 0,
       "mounts": [],
+      "lores": [],
       "equipment": [
         {
           "name_de": "Handwaffen",
@@ -2465,6 +2498,7 @@
       "name_en": "Goblin Rock Lobber",
       "points": 85,
       "mounts": [],
+      "lores": [],
       "equipment": [
         {
           "name_de": "Handwaffen",
