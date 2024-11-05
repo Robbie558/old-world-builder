@@ -484,12 +484,21 @@
     "name": "Warhammer Fantasy 6th",
     "armies": [
       {
+        "id": "empire-of-man",
+        "name_de": "Empire of Man",
+        "name_en": "Empire of Man",
+        "name_es": "Empire of Man",
+        "name_fr": "Empire de l'Homme",
+        "items": ["general", "empire-of-man"]
+      },
+      {
         "id": "greenskins",
         "name_de": "Orks & Goblins",
         "name_en": "Orcs & Goblins",
         "name_es": "Orcs & Goblins",
         "name_fr": "Orques & Gobelins",
-        "items": ["greenskins", "general"]
+        "items": ["greenskins", "general"],
+        "armyComposition": ["common-goblin-horde"]
       }
     ]
   }

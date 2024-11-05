@@ -104,15 +104,3 @@ export const getArmyData = ({ data, armyComposition }) => {
     allies: updateIds(data.allies),
   };
 };
-
-export const getFantasyArmyData = ({ data }) => {
-  // Dropped logic around removing units outide an army
-  // composition as not yet supporting that for WHFB
-  return {
-    lords: updateIds(data.lords),
-    heroes: updateIds(data.heroes),
-    core: updateIds(data.core),
-    special: updateIds(data.special),
-    rare: updateIds(data.rare),
-  };
-};

@@ -127,6 +127,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Goblin Panic, Choppa"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "lords"
+        }
       }
     },
     {
@@ -217,6 +222,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Goblin Panic, Choppa, Frenzy, Warpaint"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "lords"
+        }
       }
     },
     {
@@ -334,6 +344,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Greenskin Panic, Choppa, Quell Animosity"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "lords"
+        }
       }
     },
     {
@@ -453,6 +468,14 @@
       ],
       "specialRules": {
         "name_en": "Fear Elves"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "lord"
+        },
+        "common-goblin-horde": {
+          "category": "lord"
+        }
       }
     },
     {
@@ -529,6 +552,11 @@
       ],
       "specialRules": {
         "name_en": "Fear Elves, Hate (Dwarfs)"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "lords"
+        }
       }
     },
     {
@@ -612,6 +640,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Goblin Panic, Choppa"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "lords"
+        }
       }
     },
     {
@@ -687,6 +720,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Goblin Panic, Choppa, Frenzy, Warpaint"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "lords"
+        }
       }
     },
     {
@@ -844,6 +882,11 @@
       ],
       "specialRules": {
         "name_en": "Fear Elves, Hate (Dwarfs)"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "lords"
+        }
       }
     }
   ],
@@ -954,6 +997,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Goblin Panic, Choppa"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "heroes"
+        }
       }
     },
     {
@@ -1059,6 +1107,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Goblin Panic, Choppa, Frenzy, Warpaint"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "heroes"
+        }
       }
     },
     {
@@ -1179,6 +1232,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Greenskin Panic, Choppa, Quell Animosity"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "heroes"
+        }
       }
     },
     {
@@ -1329,6 +1387,11 @@
       ],
       "specialRules": {
         "name_en": "Fear Elves"
+      },
+      "armyComposition": {
+        "common-goblin-horde": {
+          "category": "heroes"
+        }
       }
     },
     {
@@ -1440,6 +1503,11 @@
       ],
       "specialRules": {
         "name_en": "Fear Elves, Hate (Dwarfs)"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "heroes"
+        }
       }
     },
     {
@@ -1511,6 +1579,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Goblin Panic, Choppa"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "heroes"
+        }
       }
     },
     {
@@ -1582,6 +1655,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Goblin Panic, Choppa"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "heroes"
+        }
       }
     },
     {
@@ -1682,6 +1760,14 @@
       ],
       "specialRules": {
         "name_en": "Fear Elves"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "heroes"
+        },
+        "common-goblin-horde": {
+          "category": "heroes"
+        }
       }
     },
     {
@@ -1748,6 +1834,11 @@
       ],
       "specialRules": {
         "name_en": "Fear Elves, Hate (Dwarfs)"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "heroes"
+        }
       }
     }
   ],
@@ -1821,6 +1912,14 @@
       ],
       "specialRules": {
         "name_en": "Animosity, Ignore Goblin Panic, Choppa, Big 'Uns"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "core"
+        },
+        "common-goblin-horde": {
+          "category": "rare"
+        }
       }
     },
     {
@@ -1865,6 +1964,11 @@
       ],
       "specialRules": {
         "name_en": "Animosity, Ignore Goblin Panic, Choppa"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "core"
+        }
       }
     },
     {
@@ -1942,6 +2046,11 @@
       ],
       "specialRules": {
         "name_en": "Animosity, Ignore Goblin Panic, Choppa, Frenzy, Warpaint, Big 'Uns"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "core"
+        }
       }
     },
     {
@@ -1997,6 +2106,14 @@
       ],
       "specialRules": {
         "name_en": "Animosity, Fear Elves"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "core"
+        },
+        "common-goblin-horde": {
+          "category": "core"
+        }
       }
     },
     {
@@ -2066,6 +2183,14 @@
       ],
       "specialRules": {
         "name_en": "Animosity, Fear Elves, Fast Cavalry"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "core"
+        },
+        "common-goblin-horde": {
+          "category": "core"
+        }
       }
     },
     {
@@ -2132,6 +2257,11 @@
       ],
       "specialRules": {
         "name_en": "Animosity, Fear Elves, Hate (Dwarfs), Fanatics, Netters"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "core"
+        }
       }
     },
     {
@@ -2160,6 +2290,14 @@
       },
       "specialRules": {
         "name_en": "Horde, Unbreakable, Nobody Cares"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "core"
+        },
+        "common-goblin-horde": {
+          "category": "special"
+        }
       }
     }
   ],
@@ -2226,6 +2364,11 @@
       },
       "specialRules": {
         "name_en": "Ignore Greenskin Panic, Choppa, Quell Animosity"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "special"
+        }
       }
     },
     {
@@ -2279,6 +2422,11 @@
       ],
       "specialRules": {
         "name_en": "Animosity, Ignore Goblin Panic, Thick Skinned, Tusker Charge, Big 'Uns"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "special"
+        }
       }
     },
     {
@@ -2342,6 +2490,11 @@
       ],
       "specialRules": {
         "name_en": "Animosity, Ignore Goblin Panic, Frenzy, Warpaint, Thick Skinned, Tusker Charge, Big 'Uns"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "special"
+        }
       }
     },
     {
@@ -2368,6 +2521,11 @@
       ],
       "specialRules": {
         "name_en": "Ignore Goblin Panic, Tusker Charge, 1D6 Impact Hits, Scythed Wheels"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "special"
+        }
       }
     },
     {
@@ -2413,6 +2571,14 @@
       ],
       "specialRules": {
         "name_en": "Chariots, 1D6 Impact Hits, Scythed Wheels"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "special"
+        },
+        "common-goblin-horde": {
+          "category": "special"
+        }
       }
     },
     {
@@ -2443,6 +2609,14 @@
       ],
       "specialRules": {
         "name_en": "Spear Chukka"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "special"
+        },
+        "common-goblin-horde": {
+          "category": "rare"
+        }
       }
     },
     {
@@ -2483,13 +2657,18 @@
         }
       ],
       "notes": {
-        "name_en": "Mmaximum of 1 squig hopper per 3 squigs, and minimum unit size of 10 total models",
+        "name_en": "Maximum of 1 squig hopper per 3 squigs, and minimum unit size of 10 total models",
         "name_de": "",
         "name_es": "",
         "name_fr": ""
       },
       "specialRules": {
         "name_en": "Animosity, Fear Elves, Hate (Dwarfs), Squigs"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "special"
+        }
       }
     },
     {
@@ -2517,6 +2696,14 @@
       ],
       "specialRules": {
         "name_en": "Rock Lobber"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "special"
+        },
+        "common-goblin-horde": {
+          "category": "rare"
+        }
       }
     }
   ],
@@ -2555,6 +2742,14 @@
       ],
       "specialRules": {
         "name_en": "Fear, Stupidity, Troll Vomit, Regenerate, Trollish Types"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "rare"
+        },
+        "common-goblin-horde": {
+          "category": "special"
+        }
       }
     },
     {
@@ -2585,6 +2780,14 @@
       ],
       "specialRules": {
         "name_en": "Doom Diver Catapult"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "rare"
+        },
+        "common-goblin-horde": {
+          "category": "rare"
+        }
       }
     },
     {
@@ -2600,6 +2803,14 @@
       "lores": [],
       "specialRules": {
         "name_en": "Snotling Pump Wagon, 2D6 Impact Hits, Unbreakable"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "rare"
+        },
+        "common-goblin-horde": {
+          "category": "rare"
+        }
       }
     },
     {
@@ -2622,6 +2833,14 @@
       "lores": [],
       "specialRules": {
         "name_en": "Ignore Greenskin Panic, Large Target, Terror, Fall Over, Giant Special Attacks, Stubborn"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "rare"
+        },
+        "common-goblin-horde": {
+          "category": "rare"
+        }
       }
     }
   ]

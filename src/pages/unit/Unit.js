@@ -25,7 +25,7 @@ import { setArmy } from "../../state/army";
 import { useLanguage } from "../../utils/useLanguage";
 import { updateLocalList } from "../../utils/list";
 import { getRandomId } from "../../utils/id";
-import { getArmyData, getFantasyArmyData } from "../../utils/army";
+import { getArmyData } from "../../utils/army";
 import { getUnitName, getUnitOptionNotes, unitHasItem } from "../../utils/unit";
 
 import "./Unit.css";

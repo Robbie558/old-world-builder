@@ -195,29 +195,34 @@ export const Editor = ({ isMobile }) => {
     getSlots({
       type: "lords",
       occupiedSlots: sixthLordsSlots,
-      armyPoints: list.points
+      armyPoints: list.points,
+      armyComposition: list.armyComposition
     });
   const sixthHeroesData =
     list.heroes &&
     getSlots({
       type: "heroes",
       occupiedSlots: sixthHeroesSlots,
-      armyPoints: list.points
+      armyPoints: list.points,
+      armyComposition: list.armyComposition
     });
   const sixthCoreData = getSlots({
       type: "core",
       occupiedSlots: sixthCoreSlots,
-      armyPoints: list.points
+      armyPoints: list.points,
+      armyComposition: list.armyComposition
     });
   const sixthSpecialData = getSlots({
       type: "special",
       occupiedSlots: sixthSpecialSlots,
-      armyPoints: list.points
+      armyPoints: list.points,
+      armyComposition: list.armyComposition
     });
   const sixthRareData = getSlots({
       type: "rare",
       occupiedSlots: sixthRareSlots,
-      armyPoints: list.points
+      armyPoints: list.points,
+      armyComposition: list.armyComposition
     });
 
   const moreButtons = [

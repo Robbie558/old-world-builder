@@ -40,6 +40,7 @@ export const NewList = ({ isMobile }) => {
     ? [...new Set([...listsPoints, 500, 1000, 1500, 2000, 2500])].slice(0, 5)
     : [500, 1000, 1500, 2000, 2500];
   const createList = () => {
+    
     const newId = getRandomId();
     const newList = {
       "warhammer-fantasy-8": {
@@ -67,6 +68,7 @@ export const NewList = ({ isMobile }) => {
         special: [],
         rare: [],
         id: newId,
+        armyComposition,
       },
       "the-old-world": {
         name:
