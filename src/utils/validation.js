@@ -460,7 +460,6 @@ export const validateWhfbList = ({ list, language, intl }) => {
       (!ruleUnit.requires || (ruleUnit.requires && ruleUnit.requiresGeneral)) &&
       unitsInList.length > max
     ) {
-      console.log(`validateWhfbList - checkRules - Max Units - Required: ${namesInList}, type: ${type}`);
       errors.push({
         message: "misc.error.maxUnits",
         section: type,
@@ -471,15 +470,11 @@ export const validateWhfbList = ({ list, language, intl }) => {
 
     // Unit requires general
     if (ruleUnit.requiresGeneral && unitsInList.length > 0) {
-      console.log(`validateWhfbList - checkRules - ruleUnit.requiresGeneral - ${JSON.stringify(ruleUnit.requiresGeneral)}`);
       const matchingGeneral = generals.find((general) => {
         return ruleUnit.requires.includes(general.id.split(".")[0]);
       });
 
-      console.log(`validateWhfbList - checkRules - matchingGeneral - ${JSON.stringify(matchingGeneral)}`);
-
       !matchingGeneral &&
-        console.log(`validateWhfbList - checkRules - NO GENERAL, Required: ${requiredNames}, type: ${type}`);
         errors.push({
           message: "misc.error.requiresGeneral",
           section: "Heroes",

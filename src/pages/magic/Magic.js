@@ -318,8 +318,6 @@ export const Magic = ({ isMobile }) => {
     } else if ( list.game == "warhammer-fantasy-8" ) {
       // TBD
     }
-    console.log(`normalizeRuleName: ${magicItem.name_en}`);
-    console.log(`magicRules: ${JSON.stringify(magicRules)}`);
 
     return (
       <Fragment key={`${magicItem.name_en}-${magicItem.id}`}>
