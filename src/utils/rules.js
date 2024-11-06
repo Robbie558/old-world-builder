@@ -120,13 +120,13 @@ export const sixthRules = {
         units: [],
       },
       heroes: { 
-        min: 1, 
-        max: 3, 
+        min: 0, 
+        max: 4, 
         units: [],
       },
-      characters: { max: 3 },
+      characters: { max: 4 },
       core: {
-        min: 2, 
+        min: 3, 
         max: 100,
         units: [
           {
@@ -138,19 +138,52 @@ export const sixthRules = {
       },
       special: {
         min: 0, 
-        max: 3,
+        max: 4,
         units: [
           {
-            ids: ["blackorcs", "nightgoblinsquigherd"],
+            ids: ["blackorcs"],
             min: 0,
             max: 1,
-          }
+          },
+          {
+            ids: ["nightgoblinsquigherd"],
+            min: 0,
+            max: 1,
+          },
         ],
       },
       rare: { 
         min: 0, 
-        max: 1, 
+        max: 2, 
         units: [], 
+      }
+    },
+    "common-goblin-horde": {
+      lords: { 
+        min: 0, 
+        max: 1, 
+        units: ["goblin-warboss", "goblin-greatshaman"],
+      },
+      heroes: { 
+        min: 0, 
+        max: 4, 
+        units: ["goblin-gargboss", "goblin-schamane"],
+      },
+      characters: { max: 3 },
+      core: {
+        min: 3, 
+        max: 100,
+        units: ["goblins", "goblin-wolves"],
+      },
+      special: {
+        min: 0, 
+        max: 4,
+        units: ["trolls", "snotlings", "goblinwolfchariot"],
+      },
+      rare: { 
+        min: 0, 
+        max: 2, 
+        units: ["snotling-wagons", "doomdiver", "giant", "goblin-stonethrower", "goblinspearchucka", "orcs"], 
       }
     },
   },

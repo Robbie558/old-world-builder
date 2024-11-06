@@ -7,6 +7,18 @@ export const getArmyData = ({ data, armyComposition }) => {
       (unit?.armyComposition && unit.armyComposition[armyComposition]) ||
       !unit.armyComposition
   );
+  const lords = data.lords.filter(
+    (unit) =>
+      (unit?.armyComposition && unit.armyComposition[armyComposition]) ||
+      !unit.armyComposition
+  );
+  
+  const heroes = data.heroes.filter(
+    (unit) =>
+      (unit?.armyComposition && unit.armyComposition[armyComposition]) ||
+      !unit.armyComposition
+  );
+  
   const core = data.core.filter(
     (unit) =>
       (unit?.armyComposition && unit.armyComposition[armyComposition]) ||
@@ -92,10 +104,23 @@ export const getArmyData = ({ data, armyComposition }) => {
         unit.armyComposition[armyComposition].category === "characters") ||
       !unit.armyComposition
   );
+  const allLords = [...lords].filter(
+    (unit) =>
+      (unit?.armyComposition &&
+        unit.armyComposition[armyComposition].category === "lords") ||
+      !unit.armyComposition
+  );
+  
+  const allHeroes = [...heroes].filter(
+    (unit) =>
+      (unit?.armyComposition &&
+        unit.armyComposition[armyComposition].category === "heroes") ||
+      !unit.armyComposition
+  );
 
   return {
-    lords: updateIds(data.lords),
-    heroes: updateIds(data.heroes),
+    lords: updateIds(allLords),
+    heroes: updateIds(allHeroes),
     characters: updateIds(allCharacters),
     core: updateIds(allCore),
     special: updateIds(allSpecial),

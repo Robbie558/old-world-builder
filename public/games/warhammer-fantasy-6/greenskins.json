@@ -7,7 +7,12 @@
       "name_en": "Grimgor Ironhide",
       "points": 600,
       "named": true,
-      "lores": []
+      "lores": [],
+      "armyComposition": {
+        "greenskins": {
+          "category": "lords"
+        }
+      }
     },
     {
       "id": "wurrzag",
@@ -21,7 +26,12 @@
           "name_en": "War Boar",
           "points": 24
         }
-      ]
+      ],
+      "armyComposition": {
+        "greenskins": {
+          "category": "lords"
+        }
+      }
     },
     {
       "id": "orc-warboss",
@@ -471,10 +481,10 @@
       },
       "armyComposition": {
         "greenskins": {
-          "category": "lord"
+          "category": "lords"
         },
         "common-goblin-horde": {
-          "category": "lord"
+          "category": "lords"
         }
       }
     },
@@ -825,6 +835,14 @@
       ],
       "specialRules": {
         "name_en": "Fear Elves"
+      },
+      "armyComposition": {
+        "greenskins": {
+          "category": "lords"
+        },
+        "common-goblin-horde": {
+          "category": "lords"
+        }
       }
     },
     {
