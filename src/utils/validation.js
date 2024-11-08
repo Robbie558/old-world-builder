@@ -343,7 +343,13 @@ export const validateList = ({ list, language, intl }) => {
 };
 
 export const validateWhfbList = ({ list, language, intl }) => {
-  let characters = [...list.lords,...list.heroes];
+  let characters = [];
+  let armyList = "grand-army"
+  if ( list ) { 
+    characters = [...list.lords,...list.heroes];
+    armyList = list.army;
+  }
+
   const errors = [];
   const generals = !characters?.length
     ? []
@@ -367,30 +373,18 @@ export const validateWhfbList = ({ list, language, intl }) => {
       );
   const generalsCount = generals.length;
   const BSBsCount = BSBs.length;
-  let listComposition = "";
+  let listComposition = "underTwoThousand";
   let generalSection = "heroes"
-  if (Number(list.points) < 2000){
-    listComposition = "underTwoThousand"; 
-  } else {
+  if ( list && Number(list.points) > 2000 ) {
     listComposition = "underThreeThousand";
     generalSection = "lords"
   }
 
-  const lordsUnitsRules = sixthRules[listComposition][list.army].lords.units
-  ? sixthRules[listComposition][list.army].lords.units
-  : sixthRules[listComposition]["grand-army"].lords;
-  const heroesUnitsRules = sixthRules[listComposition][list.army].heroes.units
-  ? sixthRules[listComposition][list.army].heroes.units
-  : sixthRules[listComposition]["grand-army"].heroes;
-  const coreUnitsRules = sixthRules[listComposition][list.army].core.units
-    ? sixthRules[listComposition][list.army].core.units
-    : sixthRules[listComposition]["grand-army"].core;
-  const specialUnitsRules = sixthRules[listComposition][list.army].special.units
-    ? sixthRules[listComposition][list.army].special.units
-    : sixthRules[listComposition]["grand-army"].special;
-  const rareUnitsRules = sixthRules[listComposition][list.army].rare.units
-    ? sixthRules[listComposition][list.army].rare.units
-    : sixthRules[listComposition]["grand-army"].rare;
+  const lordsUnitsRules = sixthRules[listComposition][armyList].lords.units;
+  const heroesUnitsRules = sixthRules[listComposition][armyList].heroes.units;
+  const coreUnitsRules = sixthRules[listComposition][armyList].core.units;
+  const specialUnitsRules = sixthRules[listComposition][armyList].special.units;
+  const rareUnitsRules = sixthRules[listComposition][armyList].rare.units;
 
   const checkRules = ({ ruleUnit, type }) => {
     const unitsInList = list[type].filter(

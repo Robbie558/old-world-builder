@@ -167,10 +167,12 @@ export const getPoints = ({ type, list }) => {
   return points;
 };
 
+// TODO - Handle units occupying slots in more than one category 
 export const getUnitSlots = (unit) => {
   return unit.slots ? unit.slots  : 1;
 };
 
+// TODO - Handle units occupying slots in more than one category 
 export const getOccupiedSlots = ({ type, list }) => {
   let occupiedSlots = 0;
   list[type] &&
