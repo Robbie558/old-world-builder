@@ -62,8 +62,10 @@ export const Editor = ({ isMobile }) => {
     return () => window.removeEventListener("scroll", onScroll);
   }, [location.pathname]);
 
+  
   if ( list && list.game == "the-old-world" ) {
     useEffect(() => {
+      if (list) {
         dispatch(
           setErrors(
             validateList({
@@ -73,22 +75,27 @@ export const Editor = ({ isMobile }) => {
             })
           )
         );
+
         updateLocalList(list);
+      }
     }, [list, dispatch, language, intl]);
   } 
   else {
     useEffect(() => {
-      dispatch(
-        setErrors(
-          validateWhfbList({
-            list,
-            language,
-            intl,
-          })
-        )
-      );
-      updateLocalList(list);
-  }, [list, dispatch, language, intl]);
+      if (list) {
+        dispatch(
+          setErrors(
+            validateWhfbList({
+              list,
+              language,
+              intl,
+            })
+          )
+        );
+
+        updateLocalList(list);
+      }
+    }, [list, dispatch, language, intl]);
   }
 
   if (redirect) {
